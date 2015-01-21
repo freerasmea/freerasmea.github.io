@@ -1,0 +1,110 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  background-color: $base-background-color;
+  color: $base-font-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $header-font-family;
+  line-height: $header-line-height;
+  font-weight: $header-font-weight;
+  text-rendering: optimizeLegibility; // Fix the character spacing for headings
+}
+
+h1 { font-size: $h1-font-size; }
+h2 { font-size: $h2-font-size; }
+h3 { font-size: $h3-font-size; }
+h4 { font-size: $h4-font-size; }
+h5 { font-size: $h5-font-size; }
+h6 { font-size: $h6-font-size; }
+
+p { 
+  margin: ($base-spacing * 0.75) 0; 
+}
+
+a {
+  @include transition(color 0.1s linear);
+  color: $base-link-color;
+  text-decoration: none;
+
+  &:hover {
+    color: $hover-link-color;
+  }
+
+  &:active, &:focus {
+    color: $hover-link-color;
+    outline: none;
+  }
+}
+
+ul {
+  list-style-type: none
+}
+
+hr {
+  border-bottom: $base-border;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  margin: $base-spacing 0;
+}
+
+p code {
+  font-size: $base-font-size * 1.125;
+}
+
+pre code {
+  font-size: $base-font-size * 0.875;
+  line-height: 1;
+}
+
+img,
+picture {
+  margin: 0;
+  max-width: 100%;
+}
+
+blockquote {
+  border-left: 2px solid $base-border-color;
+  color: lighten($base-font-color, 35);
+  margin: $base-spacing 0;
+  padding-left: $base-spacing / 2;
+}
+
+cite {
+  color: lighten($base-font-color, 35);
+  font-style: italic;
+
+  &:before {
+    content: "\2014 \00A0";
+  }
+}
+
+// // other styles
+// article {
+//   h1, h2, h3, h4, h5, h6 { font-weight: 300};
+//   a, strong { font-weight: 300; }
+//   ul { list-style-type: disc }
+//   ul, ol {
+//     font-weight: $base-font-weight;
+//     letter-spacing: $base-letter-spacing;
+//     margin: ($base-spacing / 2) 0;
+//     padding: 0 0 0 1.5rem;
+//     list-style-position: outside;
+//   }
+// }
+
+// .meta, .author, .date {
+//   font-family: "Lato";
+//   font-weight: normal;
+//   color: lighten($base-font-color, 25);
+//   margin-top: 0.5rem;
+// }

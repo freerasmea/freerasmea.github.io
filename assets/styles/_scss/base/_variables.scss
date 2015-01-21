@@ -1,0 +1,114 @@
+/* Typography
+=======================================================*/ 
+// Custom fonts
+$fira-sans: "Fira Sans", "Helvetica", "Arial", sans-serif;
+
+// Typography
+$sans-serif: $fira-sans;
+$serif: $georgia;
+$base-font-family: $sans-serif;
+$base-font-weight: 300;
+
+$header-font-family: $base-font-family;
+$header-font-weight: 500;
+$base-letter-spacing: 0px;
+// Modular Scale (http://codepen.io/ikoshowa/pen/KHcjd/?editors=110)
+$type-scale: 1.25;
+
+// using 1rem and 1.125rem as the base values for a double stranded modular scale
+// the rem value varies between different devices:
+
+// 0px - 768px     : 1rem = 16px
+// 768px - 1152px  : 1rem = 18px
+// 1152px - 1536px : 1rem = 20px
+
+/* Font Sizes
+=======================================================*/ 
+$base-font-size: 1em;
+$base-line-height: 1.6;
+$header-line-height: 1.25;
+
+html, body {
+  font-size: 16px;
+  line-height: $base-line-height;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 1em 0 (-1*modular-scale(1rem, -4, $type-scale));
+  line-height: $header-line-height;
+  letter-spacing: 1px;
+}
+
+$h6-font-size: modular-scale(1rem, 0, $type-scale);
+$h5-font-size: modular-scale(1rem, 0, $type-scale);
+$h4-font-size: modular-scale(1rem, 1, $type-scale);
+$h3-font-size: modular-scale(1rem, 2, $type-scale);
+$h2-font-size: modular-scale(1rem, 3, $type-scale);
+$h1-font-size: modular-scale(1rem, 4, $type-scale);
+
+p {
+	font-size: modular-scale(1rem, 0, $type-scale);
+  font-weight: $base-font-weight;
+  letter-spacing: $base-letter-spacing;
+}
+
+.largest  {  font-size: modular-scale(1rem, 2, $type-scale); }
+.larger   {  font-size: modular-scale(1rem, 1, $type-scale); }
+.smaller  {  font-size: modular-scale(1rem, -1, $type-scale); }
+.smallest {  font-size: modular-scale(1rem, -2, $type-scale); }
+
+// Other Sizes
+$base-border-radius: 3px;
+$base-spacing: $base-line-height * 1em;
+$base-z-index: 0;
+
+/* Colors
+=======================================================*/ 
+// Colors
+$blue: #477DCA;
+$dark-gray: #333;
+$medium-gray: #67656E;
+$light-gray: #DDD;
+$light-red: #FBE3E4;
+$light-yellow: #FFF6BF;
+$light-green: #E6EFC2;
+
+$purple: #513B5C;
+
+// Background Color
+$base-background-color: #F0F0F0;
+
+// Footer color
+
+
+// Font Colors
+$base-font-color: $dark-gray;
+$base-accent-color: $blue;
+
+// Link Colors
+$base-link-color: $base-accent-color;
+$hover-link-color: darken($base-accent-color, 15);
+$base-button-color: $base-link-color;
+$hover-button-color: $hover-link-color;
+
+// Border color
+$base-border-color: $light-gray;
+$base-border: 1px solid $base-border-color;
+
+// Flash Colors
+$alert-color: $light-yellow;
+$error-color: $light-red;
+$notice-color: $light-yellow;
+$success-color: $light-green;
+
+/* Forms
+=======================================================*/
+$form-border-color: $base-border-color;
+$form-border-color-hover: darken($base-border-color, 10);
+$form-border-color-focus: $base-accent-color;
+$form-border-radius: $base-border-radius;
+$form-box-shadow: inset 0 1px 3px rgba(0,0,0,0.06);
+$form-box-shadow-focus: $form-box-shadow, 0 0 5px rgba(darken($form-border-color-focus, 5), 0.7);
+$form-font-size: $base-font-size;
+$form-font-family: $base-font-family;

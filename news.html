@@ -1,0 +1,14 @@
+---
+layout: page
+title: News &amp; Updates
+---
+
+<ul id="post-list">
+  {% for post in site.posts %}
+    <li>
+      <a href="{{site.baseurl}}{{ post.url }}"><h4>{{ post.title }}</h4></a>
+      <h6 class="date">{{ post.date | date_to_long_string }}</h6>
+      <p class="excerpt">{{ post.excerpt | strip_html }}</p>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body class="home has-footer">
+  {% include nav.html %}
+  <div class="hero">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <h1>Justice for Rasmea Odeh!</h1>
+        <p>Drop the charges and bring Rasmea home!<br />End the government repression of activists!</p>
+        <a href="{{site.baseurl}}/take-action" class="button">Take Action</a> 
+      </div>
+    </div>
+  </div>
+  <div id="main">
+    <div class="content">
+      <section class="column">
+        <h3>{{page.callouts[0].heading}}</h3>
+        <p>{{page.callouts[0].section}}</p>
+      </section>
+      <section class="column">
+        <h3>{{page.callouts[1].heading}}</h3>
+        <p>{{page.callouts[1].section}}</p>
+      </section>
+      <section class="column last">
+        <h3>@stopfbi on Twitter</h3>
+        <div>{% include twitter.html %}</div>
+      </section>
+    </div>
+  </div>
+  <div id="bottom">
+    <div class="content">
+      {% include footer.html %}
+    </div>
+  </div>
+
+</body>

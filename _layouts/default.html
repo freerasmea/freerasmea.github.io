@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body class="has-footer">
+  {% include nav.html %}
+  <div id="top">
+    <div class="content">
+      <header class="article-header">
+        <h1 class="title">{{page.title}}</h1>
+        {% if page.subtitle %}
+          <h4 class="subtitle">{{page.subtitle}}</h4>
+        {% endif %}
+      </header>
+    </div>
+  </div>
+  <div id="main">
+    <div class="content">
+      {{content}}
+    </div>
+  </div>
+  <div id="bottom">
+    <div class="content">
+      {% include footer.html %}
+    </div>
+  </div>
+<body>
+</html>

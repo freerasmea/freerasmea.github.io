@@ -1,0 +1,96 @@
+.hero {
+  $hero-color: white;
+  $hero-image: "../img/free_rasmea_banner.jpg";
+  $mobile-image: "../img/rasmea_mobile_banner.jpg";
+
+  @include background(url($mobile-image));
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-size: cover;
+  //padding-bottom: 4em;
+  margin-top: 3.5em;
+
+  @include media($medium-screen-up) {
+    @include background(url($hero-image), no-repeat scroll);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: cover;
+    padding-bottom: 4em;
+    padding-top: 1em;
+    margin-top: 0em;
+  }
+  @include media($large-screen-up){
+    padding-top: 2em;
+  }
+
+  .hero-inner {
+    @include outer-container;
+    @include clearfix;
+    padding: 3rem;
+    margin: auto;
+    text-align: center;
+    color: $hero-color;
+
+    @include media($medium-screen-up) {
+      text-align: left;
+      padding-left: 1rem;
+    }
+
+    .hero-copy {
+      // global and mobile-first
+      text-align: center;
+      h1 {
+        font-size: 2em;
+        margin-bottom: .5em;
+        font-weight: 500;
+      }
+
+      p {
+        font-family: $sans-serif;
+        font-size: 1.5em;
+        margin: auto;
+        margin-bottom: 1em; 
+        font-weight: 200;
+        line-height: 1.4em;
+      }
+
+      a.button {
+        @include button;
+      }
+
+      // medium screen
+      @include media($medium-screen-up) {
+        text-align: left;
+        @include span-columns(6 of 10);
+
+        h1 {
+          font-size: 2rem;
+        }
+
+        p {
+          font-size: 1.35em;
+        }
+
+      }
+
+      // large screen
+      @include media($large-screen-up) {
+        text-align: left;
+        @include span-columns(8 of 12);
+
+        h1 {
+          font-size: 3rem;
+        }
+
+        p {
+          font-size: 1.5em;
+        }
+      }
+    }
+  }
+}
+
+.home h3 {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
