@@ -45,7 +45,7 @@ defaults:
 # Prose Settings
 #==================================
 prose:
-  ignore: ['.gitignore', '_config.yml', 'test.html', 'Gemfile', 'Gemfile.lock', 'assets', '_includes', '_layouts', '_data']
+  ignore: ['.gitignore', '_config.yml', 'test.html', 'Gemfile', 'Gemfile.lock', 'assets', '_includes', '_layouts', '_data', 'news.html']
 
 
 
