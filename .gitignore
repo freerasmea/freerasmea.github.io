@@ -1,6 +1,7 @@
 # Project specific
 #======================
 _site
+_site/
 .sass-cache
 
 # Compiled source
