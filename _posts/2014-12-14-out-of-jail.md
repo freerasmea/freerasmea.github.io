@@ -3,6 +3,7 @@ layout: post
 title: Out of jail! Rasmea Returns Home to Chicago
 date: December 11, 2014
 excerpt: Members of the Rasmea Defense Committee from Chicago and Detroit / Dearborn just welcomed Rasmea back from 5 weeks in a Port Huron, Michigan, jail.
+category: news
 ---
 Members of the Rasmea Defense Committee from Chicago and Detroit / Dearborn just welcomed Rasmea back from 5 weeks in a Port Huron, Michigan, jail. She arrived at the U.S. Marshal's office in Detroit for processing at approximately noon today, Dec. 11, and was greeted shortly thereafter by friends and family, who are bringing her home to Chicago now.
  
