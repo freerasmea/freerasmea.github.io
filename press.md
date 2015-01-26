@@ -56,10 +56,8 @@ See the Events section for an updated list of organizing events around the count
 
 - [Will Rasmea Odeh Go to Prison Because of a Confession Obtained Through Torture?](http://www.thenation.com/article/188033/will-rasmeah-odeh-go-prison-because-confession-obtained-through-torture)
 
-- [Angela Davis: Free Rasmea Odeh, political prisoner]
-(http://www.detroitnews.com/story/opinion/2014/11/04/angela-davis-free-rasmea-odea/18429933/)
+- [Angela Davis: Free Rasmea Odeh, political prisoner](http://www.detroitnews.com/story/opinion/2014/11/04/angela-davis-free-rasmea-odea/18429933/)
 
 - [Trial for women's rights advocate Rasmea Odeh begins today](http://www.metrotimes.com/Blogs/archives/2014/11/04/trial-for-womens-rights-advocate-rasmea-odeh-begins-today)
 
-- [PHOTOS: Detroiters protest the Rasmea Odeh trial taking currently taking place at the U.S. District Court]
-(http://photos.metrotimes.com/photos-detroiters-protest-the-rasmea-odeh-trial-taking-currently-taking-place-at-the-u-s-district-court/#2)
+- [PHOTOS: Detroiters protest the Rasmea Odeh trial taking currently taking place at the U.S. District Court](http://photos.metrotimes.com/photos-detroiters-protest-the-rasmea-odeh-trial-taking-currently-taking-place-at-the-u-s-district-court/#2)
