@@ -135,11 +135,16 @@ html {
 }
 
 // fix for nav bar overlap
-@media screen and (max-width: $medium-screen) {
-  .article-header h1 {
-    margin-bottom: 1rem;
-    margin-top: 3rem;
-  }
+// @media screen and (max-width: $medium-screen) {
+//   .article-header h1 {
+//     margin-bottom: 1rem;
+//     margin-top: 3rem;
+//   }
+// }
+
+
+.twitter-block {
+  height: 320px;
 }
 
 // forms

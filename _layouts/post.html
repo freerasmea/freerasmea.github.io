@@ -5,7 +5,4 @@ layout: default
   <h5 class="date">{{ page.date | date_to_long_string }}</h5>
   {{ content }}
 </article>
-<aside>
-  {% include twitter.html %}
-  {% include signup.html %}
-</aside>
+{% include aside.html %}
