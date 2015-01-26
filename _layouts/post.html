@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-<article>
+<article class="content-main">
   <h5 class="date">{{ page.date | date_to_long_string }}</h5>
+  <h5 class="date">{{ page.location }}</h5>
   {{ content }}
 </article>
 {% include aside.html %}

@@ -5,10 +5,9 @@ permalink: /press/
 ## Post-Verdict actions
 See the Events section for an updated list of organizing events around the country.  
 
-- [Bay Area activists shut down federal building to protest Rasmea Odeh conviction]
-(http://mondoweiss.net/2014/11/francisco-activists-conviction)
+- [Bay Area activists shut down federal building to protest Rasmea Odeh conviction](http://mondoweiss.net/2014/11/francisco-activists-conviction)
 
-## Post-Verdict
+## Post-Verdict Coverage
 
 - [Organizing After the Odeh Verdict](https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/)
 
@@ -53,7 +52,7 @@ See the Events section for an updated list of organizing events around the count
 - [Jailing Rasmea Odeh may trigger trauma from Israeli torture, expert tells judge](electronicintifada.net/blogs/charlotte-silver/jailing-rasmea-odeh-may-trigger-trauma-israeli-torture-expert-tells-judge)
 
 
-## Pre-Verdict
+## Pre-Verdict Coverage
 
 - [Will Rasmea Odeh Go to Prison Because of a Confession Obtained Through Torture?](http://www.thenation.com/article/188033/will-rasmeah-odeh-go-prison-because-confession-obtained-through-torture)
 
