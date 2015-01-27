@@ -96,14 +96,9 @@ html {
   right: 12px;
   z-index: 1000;
 
-
   @include media($horizontal-bar-mode) {
-    font-size: $base-font-size;
-    padding: 8px 10px;
-    position: static;
-    float: right;
-    margin-top: 1.25rem;
   }
+
 }
 
 .content-main ul {
