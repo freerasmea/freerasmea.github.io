@@ -13,3 +13,7 @@ $large-screen: em(1200);
 
 $medium-screen-up: new-breakpoint(min-width $medium-screen 12);
 $large-screen-up: new-breakpoint(min-width $large-screen 12);
+
+
+$navigation-width: em(920);
+$horizontal-bar-mode: new-breakpoint(min-width $navigation-width 12);

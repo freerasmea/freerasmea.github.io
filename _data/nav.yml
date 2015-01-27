@@ -1,6 +1,9 @@
 - title: "About the Case"
   href: "/about/"
 
+- title: "Donate/Web Store"
+  href: "/donate/"
+
 - title: "Take Action"
   href: "/take-action/"
 
@@ -12,6 +15,3 @@
 
 - title: "Press"
   href: "/press/"
-
-- title: "Donate/Web Store"
-  href: "/donate/"
