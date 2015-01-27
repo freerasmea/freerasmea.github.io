@@ -4,7 +4,7 @@ title: Donate
 published: true
 ---
 
-Rasmea is appealing her conviction and still needs our support. To donate to the Rasmea Defense Committee, please visit the link below. 
+Rasmea is appealing her conviction and still needs our support. To donate to the Rasmea Defense Committee, please click the link below. 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
