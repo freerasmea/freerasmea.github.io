@@ -3,7 +3,7 @@ published: true
 date: "February 13, 2015"
 location: Anywhere
 category: events
-excerpt: Rasmea will give a prepared talk and take questions that are submitted via chat or email.
+excerpt: "Rasmea will give a prepared live-stream talk and take questions that are submitted via chat or email."
 ---
 
 ## Rasmea Odeh Live Stream Events Available for the Week of Action:
