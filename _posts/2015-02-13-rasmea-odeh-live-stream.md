@@ -18,9 +18,9 @@ Rasmea will give a prepared talk and take questions that are submitted via chat 
 The proposal is that her talk would be part of a program that includes at least one local speaker on next steps in defense work but it will also work within a program on Political Repression, Palestine, etc.  
 
 **WHEN:**
-One live stream is scheduled for 6:30 pm CT, 7:30 ET Friday February 13,2015
+One live stream is scheduled for 6:30 pm CT, 7:30 ET Friday February 13, 2015.
 
-The second live stream is not yet scheduled.  We are looking for a live stream time and day that can work well for West Coast events though it will be available to all. Email event proposals to s[topfbi@gmail.com](mailto:stopfbi@gmail.com) (Re: Rasmea Livestream).
+The second live stream is not yet scheduled.  We are looking for a live stream time and day that can work well for West Coast events though it will be available to all. Email event proposals to [stopfbi@gmail.com](mailto:stopfbi@gmail.com) (Re: Rasmea Livestream).
 
 **HOW:**
 Your event location will need an active internet connection and a computer with speakers for viewing the stream. If you expect a lot of people and have access to a digital projector and screen that can be a nice addition. 
