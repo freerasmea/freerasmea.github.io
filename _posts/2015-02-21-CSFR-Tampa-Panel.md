@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 excerpt: "Committee to Stop FBI Repression - Tampa will be hosting a panel discussion on state repression and the persecution of Arab- and Muslim-Americans in the US, and how it relates to the War on Terror internationally."
 date: "February 21, 2015"
 location: "Tampa, FL"
@@ -16,4 +16,4 @@ The panel will include speakers with a moderated Q&A. We will also link back the
 
 First United Church of Tampa
 7308 E. Fowler Ave.
-Tampa, FL 33617 
+Tampa, FL 33617
