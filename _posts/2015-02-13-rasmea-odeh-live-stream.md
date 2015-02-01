@@ -8,7 +8,7 @@ excerpt: Rasmea will give a prepared talk and take questions that are submitted 
 
 ## Rasmea Odeh Live Stream Events Available for the Week of Action:
 
-The National Week of Action to Defend Rasmea is taking place the week February 9-15
+The National Week of Action to Defend Rasmea is taking place the week February 9-15.
 
 We are organizing two live-stream appearances by Rasmea Odeh to take place around the week of action. These live streams are an opportunity to have Rasmea’s presence at events around the country. 
 
