@@ -1,5 +1,9 @@
 ---
 published: false
+date: "February 9, 2015"
+location: "Tampla, FL"
+category: events
+excerpt: Holding signs in solidarity with Rasmea and speaking out against the great injustice committed against her and against the repression of Palestinians and activists.
 ---
 
 ## [Tampa Demands: Free Rasmea Now! - Sign Waving](https://www.facebook.com/events/658909987553330/)
