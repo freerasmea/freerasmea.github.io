@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: "February 9, 2015"
 location: "Tampla, FL"
 category: events
