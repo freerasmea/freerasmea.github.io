@@ -13,6 +13,6 @@ Committee to Stop FBI Repression - Tampa will be hosting a panel discussion on s
 
 The panel will include speakers with a moderated Q&A. We will also link back the issues discussed to our work with CSFR, including an upcoming protest in solidarity with Rasmea Odeh, a Palestinian woman unjustly convicted of immigration charges based on a confession coerced through torture, and Call-in Day: Keep FBI Out of Mosques, to demand that the FBI stop recruiting informants from Tampa mosques.
 
-First United Church of Tampa
-7308 E. Fowler Ave.
-Tampa, FL 33617
+First United Church of Tampa 
+<br>7308 E. Fowler Ave.</br>
+<br>Tampa, FL 33617</br>
