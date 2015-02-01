@@ -1,7 +1,7 @@
 ---
 published: true
 date: "February 13, 2015"
-location: "Minneapolis, MN"
+location: Anywhere
 category: events
 excerpt: Rasmea will give a prepared talk and take questions that are submitted via chat or email.
 ---
