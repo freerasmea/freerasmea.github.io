@@ -15,4 +15,4 @@ We demand #FreeRasmeaNow! We will be holding signs in solidarity with Rasmea and
 For more information, visit stopfbi.net
 To contact us:
 [stopfbitampa@gmail.com](mailto:stopfbitampa@gmail.com)
-<br>[facebook.com/groups/tampacsfr](facebook.com/groups/tampacsfr)
+<br>facebook.com/groups/tampacsfr
