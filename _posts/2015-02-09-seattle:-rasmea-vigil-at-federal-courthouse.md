@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: "February 9, 2015"
 location: "Seattle, WA"
 category: events
@@ -8,5 +8,6 @@ category: events
 ## [Seattle: Rasmea Vigil at Federal Courthouse](http://www.stopfbi.net/events/2-9-15/rasmea-vigil-federal-courthouse)
 
 Monday, Feb. 9th at 4:30 to 5:30pm
-Western District Federal Court House
-700 Stewart Street, Seattle
+<br>Western District Federal Court House
+<br>700 Stewart Street
+<br>Seattle, WA
