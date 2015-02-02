@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 **The national Rasmea Defense Committee is led by the following organizations:**
