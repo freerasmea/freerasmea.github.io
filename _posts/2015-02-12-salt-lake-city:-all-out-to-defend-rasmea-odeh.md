@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+date: "February 12, 2015"
+location: "Salt Lake City, UT"
+category: events
+excerpt: "Join us for a rally in defense of Rasmea Odeh, who is facing sentencing on trumped up immigration charges on March 12."
 ---
 
 ## [ Salt Lake City: All Out To Defend Rasmea Odeh](https://www.facebook.com/events/746444165451972/)
