@@ -79,3 +79,21 @@ See the Events section for an updated list of organizing events around the count
 - [USA vs. Rasmea Odeh: Detroit Hearing Update](http://chicagomonitor.com/2014/09/usa-vs-rasmea-odeh-detroit-hearing-update/)
 
 - [Rasmea Odeh trial set for Nov. 4](http://www.fightbacknews.org/2014/9/3/rasmea-odeh-trial-set-nov-4)
+
+- [Tortured and Raped by Israel, Persecuted by the United States](http://www.truth-out.org/news/item/25910-tortured-and-raped-by-israel-persecuted-by-the-united-states)
+
+- [Rasmea Odeh court hearing, Judge Borman refuses to step down](http://www.fightbacknews.org/2014/8/1/rasmea-odeh-court-hearing-judge-borman-refuses-step-down)
+
+- [Court motion details Palestinian American Rasmea Odeh’s torture by Israeli jailers](http://electronicintifada.net/blogs/charlotte-silver/court-motion-details-palestinian-american-rasmea-odehs-torture-israeli)
+
+- [Why is Obama's DOJ prosecuting a torture victim?](http://thehill.com/blogs/pundits-blog/international/208699-why-is-obamas-doj-prosecuting-a-torture-victim)
+
+- [Justice for Rasmea Odeh](http://www.merip.org/justice-rasmea-odeh)
+
+- [Hatem Abudayyeh Defends Rasmea Odeh](http://www.stopfbi.net/2014/6/13/hatem-abudayyeh-defends-rasmea-odeh)
+
+- [Says Only Confessed After Repeated Torture](http://thestruggle.podbean.com/e/only-confessed-after-repeated-torture/)
+
+- [Criminalizing Resistance](https://www.jacobinmag.com/2014/01/criminalizing-resistance/)
+
+- [Local Palestinian-American faces prison or deportation](https://soundcloud.com/wbez-worldview/local-palestinian-american) 
