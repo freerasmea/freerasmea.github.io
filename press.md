@@ -73,3 +73,9 @@ See the Events section for an updated list of organizing events around the count
 - [U.S. Attorney Trying to Jail Tortured Palestinian Activist Seeks Anonymous Jury](http://www.huffingtonpost.com/the-center-for-constitutional-rights/us-attorney-trying-to-jai_b_5961402.html)
 
 - [Judge refuses to dismiss “baseless” charges against Palestinian-American](http://electronicintifada.net/blogs/ali-abunimah/judge-refuses-dismiss-baseless-charges-against-palestinian-american)
+
+- [Interview with Micheal Deutsch](https://soundcloud.com/flashpoints/flashpoints-09-03-2014)
+
+- [USA vs. Rasmea Odeh: Detroit Hearing Update](http://chicagomonitor.com/2014/09/usa-vs-rasmea-odeh-detroit-hearing-update/)
+
+- [Rasmea Odeh trial set for Nov. 4](http://www.fightbacknews.org/2014/9/3/rasmea-odeh-trial-set-nov-4)
