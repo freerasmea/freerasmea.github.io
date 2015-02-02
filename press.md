@@ -1,7 +1,9 @@
 ---
 title: Press Coverage
 permalink: /press/
+published: true
 ---
+
 ## Post-Verdict actions
 See the Events section for an updated list of organizing events around the country.  
 
@@ -61,3 +63,13 @@ See the Events section for an updated list of organizing events around the count
 - [Trial for women's rights advocate Rasmea Odeh begins today](http://www.metrotimes.com/Blogs/archives/2014/11/04/trial-for-womens-rights-advocate-rasmea-odeh-begins-today)
 
 - [PHOTOS: Detroiters protest the Rasmea Odeh trial taking currently taking place at the U.S. District Court](http://photos.metrotimes.com/photos-detroiters-protest-the-rasmea-odeh-trial-taking-currently-taking-place-at-the-u-s-district-court/#2)
+
+- [Feminist scholars call on Obama to drop the torture-based charges against Rasmea Odeh](http://mondoweiss.net/2014/10/feminist-scholars-against)
+
+- [Judge rejects US call for anonymous jury in trial of Palestinian-American](http://electronicintifada.net/blogs/ali-abunimah/judge-rejects-us-call-anonymous-jury-trial-palestinian-american)
+
+- [As protest over Gaza grew, so did attacks on speech supporting Palestinian freedom](http://mondoweiss.net/2014/09/supporting-palestinian-freedom)
+
+- [U.S. Attorney Trying to Jail Tortured Palestinian Activist Seeks Anonymous Jury](http://www.huffingtonpost.com/the-center-for-constitutional-rights/us-attorney-trying-to-jai_b_5961402.html)
+
+- [Judge refuses to dismiss “baseless” charges against Palestinian-American](http://electronicintifada.net/blogs/ali-abunimah/judge-refuses-dismiss-baseless-charges-against-palestinian-american)
