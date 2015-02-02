@@ -1,5 +1,10 @@
-**The national Rasmea Defense Committee is led by the following organizations:**<br>United States Palestinian Community Network (USPCN)
-<br>Committee to Stop FBI Repression (CSFR)
+---
+published: false
+---
+
+**The national Rasmea Defense Committee is led by the following organizations:**
+- United States Palestinian Community Network (USPCN)
+- Committee to Stop FBI Repression (CSFR)
 <br>Coalition to Protect People’s Rights (CPPR)
 
 _The committee also includes:_
