@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: "February 13, 2015"
 location: New York City
 category: events
