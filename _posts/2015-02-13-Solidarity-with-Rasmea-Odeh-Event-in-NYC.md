@@ -1,5 +1,9 @@
 ---
 published: false
+date: "February 13, 2015"
+location: New York City
+category: events
+excerpt: "Featuring Muhammad Sankari, an organizer at the Arab American Action Network in Chicago and the Rasmea Odeh live stream."
 ---
 
 ## [ Solidarity with Rasmea Odeh Event in NYC](https://www.facebook.com/events/1544779365782153/)
