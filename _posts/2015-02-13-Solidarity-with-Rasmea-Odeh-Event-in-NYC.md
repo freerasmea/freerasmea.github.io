@@ -7,4 +7,4 @@ Muhammad Sankari is an organizer at the Arab American Action Network in Chicago.
 We plan to live stream with Rasmea Odeh in order to watch her speak to us and answer questions from the audience.
 
 Friday, February 13 at 6:45pm
-The Riverside Church in the City of New York, Room 240
+<br>The Riverside Church in the City of New York, Room 240
