@@ -6,4 +6,4 @@
 
 ![I Support Rasmea Tee (White)]({{site.baseurl}}/assets/img/I_Support_Rasmea_white.jpg)
 
-![I Support Rasmea Tee (Red)]({{site.baseurl}}/assets/img/I_Support%20Rasmea_red.jpg)
+![I Support Rasmea Tee (Red)]({{site.baseurl}}/assets/img/I_Support_Rasmea_red.jpg)
