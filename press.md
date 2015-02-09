@@ -41,11 +41,11 @@ See the Events section for an updated list of organizing events around the count
 
 - [_USA vs. Rasmea Odeh: Verdict Devalues Lives of Arab and Muslim Women_, The Chicago Monitor, Bill Chambers, Nov. 12, 2014](http://chicagomonitor.com/2014/11/usa-vs-rasmea-odeh-verdict-devalues-lives-of-arab-and-muslim-women/)
 
-- [Palestinian activist found guilty of concealing Israeli conviction](http://www.chicagotribune.com/news/ct-palestinian-activist-guilty-met-20141110-story.html)
+- [_Palestinian activist found guilty of concealing Israeli conviction_, Chicago Tribune, Jason Meisner, Nov. 10, 2014 ](http://www.chicagotribune.com/news/ct-palestinian-activist-guilty-met-20141110-story.html)
 
-- [How Palestinian American Rasmea Odeh was Revictimized in US Federal Court](http://www.mintpressnews.com/palestinian-american-rasmea-odeh-revictimized-us-federal-court/198820/)
+- [_How Palestinian American Rasmea Odeh was Revictimized in US Federal Court_, Mint Press News, Mary Beaudoin, Nov. 13, 2014](http://www.mintpressnews.com/palestinian-american-rasmea-odeh-revictimized-us-federal-court/198820/)
 
-- [Palestinian Activist Rasmea Odeh Jailed After Conviction of Immigration Fraud](http://www.democracynow.org/2014/11/11/headlines/palestinian_activist_rasmea_odeh_jailed_after_conviction_on_immigration_fraud) (starts at 7:44)
+- [_Palestinian Activist Rasmea Odeh Jailed After Conviction of Immigration Fraud_, Democracy Now!, Nov. 11, 2014](http://www.democracynow.org/2014/11/11/headlines/palestinian_activist_rasmea_odeh_jailed_after_conviction_on_immigration_fraud) (starts at 7:44)
 
 - [Leading Palestinian-American Activist Rasmea Odeh Now a U.S. Political Prisoner](http://www.globalresearch.ca/leading-palestinian-american-activist-rasmea-odeh-now-a-u-s-political-prisoner/5413623)
 
