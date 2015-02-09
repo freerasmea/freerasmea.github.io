@@ -21,9 +21,9 @@ See the Events section for an updated list of organizing events around the count
 
 - [_Palestinian Activist Rasmea Odeh Found Guilty in 'Travesty of Justice'_, Common Dreams, Sarah Lazare, Nov. 10, 2014](http://www.commondreams.org/news/2014/11/10/palestinian-activist-rasmea-odeh-found-guilty-travesty-justice)
 
-- [Rasmea Odeh taken to jail in handcuffs, defense promises appeal](http://www.fightbacknews.org/2014/11/10/rasmea-odeh-taken-jail-handcuffs-defense-promises-appeal)
+- [_Rasmea Odeh taken to jail in handcuffs, defense promises appeal_, FightBack! News, Joe Iosbaker, Nov. 10, 2014](http://www.fightbacknews.org/2014/11/10/rasmea-odeh-taken-jail-handcuffs-defense-promises-appeal)
 
-- [Palestinian Organizer Rasmea Odeh Jailed Hours After Being Convicted by Jury of Immigration Fraud](http://dissenter.firedoglake.com/2014/11/10/palestinian-organizer-rasmea-odeh-jailed-hours-after-being-convicted-by-jury-of-immigration-fraud/)
+- [_Palestinian Organizer Rasmea Odeh Jailed Hours After Being Convicted by Jury of Immigration Fraud_, The Dissenter, Kevin Gosztola, Nov. 10, 2014](http://dissenter.firedoglake.com/2014/11/10/palestinian-organizer-rasmea-odeh-jailed-hours-after-being-convicted-by-jury-of-immigration-fraud/)
 
 - [Jury finds Rasmea Odeh guilty; faces up to 10 years in prison, deportation](http://www.metrotimes.com/Blogs/archives/2014/11/10/jury-finds-rasmea-odeh-guilty-faces-up-to-10-years-in-prison-deportation)
 
