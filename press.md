@@ -7,11 +7,11 @@ published: true
 ## Post-Verdict actions
 See the Events section for an updated list of organizing events around the country.  
 
-- [_Bay Area activists shut down federal building to protest Rasmea Odeh conviction, _Mondoweiss, Allison Deger, Nov. 13, 2014_](http://mondoweiss.net/2014/11/francisco-activists-conviction)
+- [_Bay Area activists shut down federal building to protest Rasmea Odeh conviction_, Mondoweiss, Allison Deger, Nov. 13, 2014_](http://mondoweiss.net/2014/11/francisco-activists-conviction)
 
 ## Post-Verdict Coverage
 
-- [_Organizing After the Odeh Verdict_, Jacobin Magazine Nadine Naber, Jan. 14, 2015 ](https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/)
+- [_Organizing After the Odeh Verdict_, Jacobin Magazine, Nadine Naber, Jan. 14, 2015 ](https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/)
 
 - [The Atticus of Attica](http://www.superlawyers.com/illinois/article/The-Atticus-of-Attica/5e045eda-7cb9-4ed1-8c7e-df6528e8c922.html)
 
