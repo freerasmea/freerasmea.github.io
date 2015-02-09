@@ -13,45 +13,45 @@ See the Events section for an updated list of organizing events around the count
 
 - [Organizing After the Odeh Verdict, Jacobin Magazine, Nadine Naber, Jan. 14, 2015](https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/)
 
-_- [_The Atticus of Attica,_ Super Lawyers, Beth Taylor, Feb. 2015](http://www.superlawyers.com/illinois/article/The-Atticus-of-Attica/5e045eda-7cb9-4ed1-8c7e-df6528e8c922.html)
+- [_The Atticus of Attica,_ Super Lawyers, Beth Taylor, Feb. 2015](http://www.superlawyers.com/illinois/article/The-Atticus-of-Attica/5e045eda-7cb9-4ed1-8c7e-df6528e8c922.html)
 
 - [Podcast: Attorney for Palestinian American Organizer Rasmea Odeh Discusses Significance of Her Conviction, _The Dissenter, Kevin Gosztola, Nov. 16, 2014_](http://dissenter.firedoglake.com/2014/11/16/podcast-attorney-for-palestinian-american-organizer-rasmea-odeh-discusses-significance-of-her-conviction/)
 
 - [Defense promises to appeal guilty verdict against Rasmea Odeh, _Electronic Intifada, Charlotte Silver, Nov. 10, 2014_](http://electronicintifada.net/blogs/charlotte-silver/defense-promises-appeal-guilty-verdict-against-rasmea-odeh)
 
-- [Palestinian Activist Rasmea Odeh Found Guilty in 'Travesty of Justice', Common Dreams, Sarah Lazare, Nov. 10, 2014](http://www.commondreams.org/news/2014/11/10/palestinian-activist-rasmea-odeh-found-guilty-travesty-justice)
+- [Palestinian Activist Rasmea Odeh Found Guilty in 'Travesty of Justice', _Common Dreams, Sarah Lazare, Nov. 10, 2014_](http://www.commondreams.org/news/2014/11/10/palestinian-activist-rasmea-odeh-found-guilty-travesty-justice)
 
-- [Rasmea Odeh taken to jail in handcuffs, defense promises appeal, FightBack! News, Joe Iosbaker, Nov. 10, 2014](http://www.fightbacknews.org/2014/11/10/rasmea-odeh-taken-jail-handcuffs-defense-promises-appeal)
+- [Rasmea Odeh taken to jail in handcuffs, defense promises appeal, _FightBack! News, Joe Iosbaker, Nov. 10, 2014_](http://www.fightbacknews.org/2014/11/10/rasmea-odeh-taken-jail-handcuffs-defense-promises-appeal)
 
-- [Palestinian Organizer Rasmea Odeh Jailed Hours After Being Convicted by Jury of Immigration Fraud, The Dissenter, Kevin Gosztola, Nov. 10, 2014](http://dissenter.firedoglake.com/2014/11/10/palestinian-organizer-rasmea-odeh-jailed-hours-after-being-convicted-by-jury-of-immigration-fraud/)
+- [Palestinian Organizer Rasmea Odeh Jailed Hours After Being Convicted by Jury of Immigration Fraud, _The Dissenter, Kevin Gosztola, Nov. 10, 2014_](http://dissenter.firedoglake.com/2014/11/10/palestinian-organizer-rasmea-odeh-jailed-hours-after-being-convicted-by-jury-of-immigration-fraud/)
 
-- [Jury finds Rasmea Odeh guilty; faces up to 10 years in prison, deportation, Metro Times, Ryan Felton, Nov. 10, 2014](http://www.metrotimes.com/Blogs/archives/2014/11/10/jury-finds-rasmea-odeh-guilty-faces-up-to-10-years-in-prison-deportation)
+- [Jury finds Rasmea Odeh guilty; faces up to 10 years in prison, deportation, _Metro Times, Ryan Felton, Nov. 10, 2014_](http://www.metrotimes.com/Blogs/archives/2014/11/10/jury-finds-rasmea-odeh-guilty-faces-up-to-10-years-in-prison-deportation)
 
-- [In travesty of justice, Rasmea Odeh found guilty despite history of Israeli torture, Mondoweiss, Nov. 10, 2014](http://mondoweiss.net/2014/11/travesty-despite-israeli#sthash.kQL88dNe.dpuf)
+- [In travesty of justice, Rasmea Odeh found guilty despite history of Israeli torture, _Mondoweiss, Nov. 10, 2014_](http://mondoweiss.net/2014/11/travesty-despite-israeli#sthash.kQL88dNe.dpuf)
 
-- [Palestinian woman guilty of lying on citizenship papers, Detroit Free Press, Niraj Warikoo, Nov. 11, 2014](http://www.freep.com/story/news/local/michigan/2014/11/10/rasmieh-odeh-guilty-immigration-lying/18800339/)
+- [Palestinian woman guilty of lying on citizenship papers, _Detroit Free Press, Niraj Warikoo, Nov. 11, 2014_](http://www.freep.com/story/news/local/michigan/2014/11/10/rasmieh-odeh-guilty-immigration-lying/18800339/)
 
-- [Palestinian activist convicted of immigration fraud in Detroit (Reuters report), The Star, Nov. 11, 2014](http://www.thestar.com.my/News/World/2014/11/11/Palestine-activist-convicted-of-immigration-fraud-in-Detroit/)
+- [Palestinian activist convicted of immigration fraud in Detroit (Reuters report), _The Star, Nov. 11, 2014_](http://www.thestar.com.my/News/World/2014/11/11/Palestine-activist-convicted-of-immigration-fraud-in-Detroit/)
 
-- [Palestinian-American activist Rasmea Odeh convicted for immigration fraud, Michigan Radio, Sarah Cwiek, Nov. 10, 2014](http://michiganradio.org/post/palestinian-american-activist-rasmea-odeh-convicted-immigration-fraud)
+- [Palestinian-American activist Rasmea Odeh convicted for immigration fraud, _Michigan Radio, Sarah Cwiek, Nov. 10, 2014_](http://michiganradio.org/post/palestinian-american-activist-rasmea-odeh-convicted-immigration-fraud)
 
-- [Palestinian Activist Rasmea Odeh Found Guilty of Immigration Fraud, Colorlines, Julianne Hing, Nov. 11, 2014](http://colorlines.com/archives/2014/11/palestinianactivistrasmeaodehguiltyoffalsifyingimmigration.html)
+- [Palestinian Activist Rasmea Odeh Found Guilty of Immigration Fraud, _Colorlines, Julianne Hing, Nov. 11, 2014_](http://colorlines.com/archives/2014/11/palestinianactivistrasmeaodehguiltyoffalsifyingimmigration.html)
 
-- [Palestinian activist guilty in US immigration case, The Big Story (Associated Press), Jeff Karoub, Nov. 10, 2014](http://bigstory.ap.org/article/481660d6167c4b5b83f9916d0e2785ac/jury-deliberates-fate-palestinian-bomb-convict)
+- [Palestinian activist guilty in US immigration case, _The Big Story (Associated Press), Jeff Karoub, Nov. 10, 2014_](http://bigstory.ap.org/article/481660d6167c4b5b83f9916d0e2785ac/jury-deliberates-fate-palestinian-bomb-convict)
 
-- [USA vs. Rasmea Odeh: Verdict Devalues Lives of Arab and Muslim Women, The Chicago Monitor, Bill Chambers, Nov. 12, 2014](http://chicagomonitor.com/2014/11/usa-vs-rasmea-odeh-verdict-devalues-lives-of-arab-and-muslim-women/)
+- [USA vs. Rasmea Odeh: Verdict Devalues Lives of Arab and Muslim Women, _The Chicago Monitor, Bill Chambers, Nov. 12, 2014_](http://chicagomonitor.com/2014/11/usa-vs-rasmea-odeh-verdict-devalues-lives-of-arab-and-muslim-women/)
 
-- [Palestinian activist found guilty of concealing Israeli conviction, Chicago Tribune, Jason Meisner, Nov. 10, 2014 ](http://www.chicagotribune.com/news/ct-palestinian-activist-guilty-met-20141110-story.html)
+- [Palestinian activist found guilty of concealing Israeli conviction,_Chicago Tribune, Jason Meisner, Nov. 10, 2014_](http://www.chicagotribune.com/news/ct-palestinian-activist-guilty-met-20141110-story.html)
 
-- [How Palestinian American Rasmea Odeh was Revictimized in US Federal Court, Mint Press News, Mary Beaudoin, Nov. 13, 2014](http://www.mintpressnews.com/palestinian-american-rasmea-odeh-revictimized-us-federal-court/198820/)
+- [How Palestinian American Rasmea Odeh was Revictimized in US Federal Court, _Mint Press News, Mary Beaudoin, Nov. 13, 2014_](http://www.mintpressnews.com/palestinian-american-rasmea-odeh-revictimized-us-federal-court/198820/)
 
-- [Palestinian Activist Rasmea Odeh Jailed After Conviction of Immigration Fraud, Democracy Now!, Nov. 11, 2014](http://www.democracynow.org/2014/11/11/headlines/palestinianactivistrasmeaodehjailedafterconvictiononimmigrationfraud) (starts at 7:44)
+- [Palestinian Activist Rasmea Odeh Jailed After Conviction of Immigration Fraud, _Democracy Now!, Nov. 11, 2014_](http://www.democracynow.org/2014/11/11/headlines/palestinianactivistrasmeaodehjailedafterconvictiononimmigrationfraud) (starts at 7:44)
 
-- [Leading Palestinian-American Activist Rasmea Odeh Now a U.S. Political Prisoner, Global Research, SarahLazare, Nov. 12, 2014](http://www.globalresearch.ca/_leading-palestinian-american-activist-rasmea-odeh-now-a-u-s-political-prisoner/5413623)
+- [Leading Palestinian-American Activist Rasmea Odeh Now a U.S. Political Prisoner, _Global Research, SarahLazare, Nov. 12, 2014_](http://www.globalresearch.ca/_leading-palestinian-american-activist-rasmea-odeh-now-a-u-s-political-prisoner/5413623)
 
-- [Odeh’s guilty verdict doesn't mean her battle for justice is over, The Hill, Dima Khalidi, Nov. 14, 2014](http://thehill.com/blogs/congress-blog/judicial/224077-odehs-guilty-verdict-doesnt-mean-her-battle-for-justice-is-over)
+- [Odeh’s guilty verdict doesn't mean her battle for justice is over, _The Hill, Dima Khalidi, Nov. 14, 2014_](http://thehill.com/blogs/congress-blog/judicial/224077-odehs-guilty-verdict-doesnt-mean-her-battle-for-justice-is-over)
 
-- [Jailing Rasmea Odeh may trigger trauma from Israeli torture, expert tells judge, Electronic Intifada, Charlotte Silver, Nov. 15, 2014_](electronicintifada.net/blogs/charlotte-silver/jailing-rasmea-odeh-may-trigger-trauma-israeli-torture-expert-tells-judge)
+- [Jailing Rasmea Odeh may trigger trauma from Israeli torture, expert tells judge, _Electronic Intifada, Charlotte Silver, Nov. 15, 2014_](electronicintifada.net/blogs/charlotte-silver/jailing-rasmea-odeh-may-trigger-trauma-israeli-torture-expert-tells-judge)
 
 
 ## Pre-Verdict Coverage
