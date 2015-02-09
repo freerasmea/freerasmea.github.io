@@ -39,7 +39,7 @@ See the Events section for an updated list of organizing events around the count
 
 - [_Palestinian activist guilty in US immigration case_, The Big Story (Associated Press), Jeff Karoub, Nov. 10, 2014](http://bigstory.ap.org/article/481660d6167c4b5b83f9916d0e2785ac/jury-deliberates-fate-palestinian-bomb-convict)
 
-- [USA vs. Rasmea Odeh: Verdict Devalues Lives of Arab and Muslim Women](http://chicagomonitor.com/2014/11/usa-vs-rasmea-odeh-verdict-devalues-lives-of-arab-and-muslim-women/)
+- [_USA vs. Rasmea Odeh: Verdict Devalues Lives of Arab and Muslim Women_, The Chicago Monitor, Bill Chambers, Nov. 12, 2014](http://chicagomonitor.com/2014/11/usa-vs-rasmea-odeh-verdict-devalues-lives-of-arab-and-muslim-women/)
 
 - [Palestinian activist found guilty of concealing Israeli conviction](http://www.chicagotribune.com/news/ct-palestinian-activist-guilty-met-20141110-story.html)
 
