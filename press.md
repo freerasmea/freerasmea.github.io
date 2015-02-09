@@ -82,7 +82,7 @@ See the Events section for an updated list of organizing events around the count
 
 - [Tortured and Raped by Israel, Persecuted by the United States](http://www.truth-out.org/news/item/25910-tortured-and-raped-by-israel-persecuted-by-the-united-states)
 
-- [Rasmea Odeh court hearing, Judge Borman refuses to step down](http://www.fightbacknews.org/2014/8/1/rasmea-odeh-court-hearing-judge-borman-refuses-step-down)
+- [_Rasmea Odeh court hearing, Judge Borman refuses to step down_, FightBack! News, Tom Burke, Aug. 1, 2014](http://www.fightbacknews.org/2014/8/1/rasmea-odeh-court-hearing-judge-borman-refuses-step-down)
 
 - [Court motion details Palestinian American Rasmea Odeh’s torture by Israeli jailers](http://electronicintifada.net/blogs/charlotte-silver/court-motion-details-palestinian-american-rasmea-odehs-torture-israeli)
 
