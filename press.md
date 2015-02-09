@@ -47,11 +47,11 @@ See the Events section for an updated list of organizing events around the count
 
 - [_Palestinian Activist Rasmea Odeh Jailed After Conviction of Immigration Fraud_, Democracy Now!, Nov. 11, 2014](http://www.democracynow.org/2014/11/11/headlines/palestinian_activist_rasmea_odeh_jailed_after_conviction_on_immigration_fraud) (starts at 7:44)
 
-- [Leading Palestinian-American Activist Rasmea Odeh Now a U.S. Political Prisoner](http://www.globalresearch.ca/leading-palestinian-american-activist-rasmea-odeh-now-a-u-s-political-prisoner/5413623)
+- [_Leading Palestinian-American Activist Rasmea Odeh Now a U.S. Political Prisoner_, Global Research, Sarah Lazare, Nov. 12, 2014](http://www.globalresearch.ca/leading-palestinian-american-activist-rasmea-odeh-now-a-u-s-political-prisoner/5413623)
 
-- [Odeh’s guilty verdict doesn't mean her battle for justice is over](http://thehill.com/blogs/congress-blog/judicial/224077-odehs-guilty-verdict-doesnt-mean-her-battle-for-justice-is-over)
+- [_Odeh’s guilty verdict doesn't mean her battle for justice is over_, The Hill, Dima Khalidi, Nov. 14, 2014](http://thehill.com/blogs/congress-blog/judicial/224077-odehs-guilty-verdict-doesnt-mean-her-battle-for-justice-is-over)
 
-- [Jailing Rasmea Odeh may trigger trauma from Israeli torture, expert tells judge](electronicintifada.net/blogs/charlotte-silver/jailing-rasmea-odeh-may-trigger-trauma-israeli-torture-expert-tells-judge)
+- [_Jailing Rasmea Odeh may trigger trauma from Israeli torture, expert tells judge_, Electronic Intifada, Charlotte Silver, Nov. 15, 2014](electronicintifada.net/blogs/charlotte-silver/jailing-rasmea-odeh-may-trigger-trauma-israeli-torture-expert-tells-judge)
 
 
 ## Pre-Verdict Coverage
