@@ -37,7 +37,7 @@ See the Events section for an updated list of organizing events around the count
 
 - [_Palestinian Activist Rasmea Odeh Found Guilty of Immigration Fraud_, Colorlines, Julianne Hing, Nov. 11, 2014](http://colorlines.com/archives/2014/11/palestinian_activist_rasmea_odeh_guilty_of_falsifying_immigration.html)
 
-- [Palestinian activist guilty in US immigration case](http://bigstory.ap.org/article/481660d6167c4b5b83f9916d0e2785ac/jury-deliberates-fate-palestinian-bomb-convict)
+- [_Palestinian activist guilty in US immigration case_, The Big Story (Associated Press), Jeff Karoub, Nov. 10, 2014](http://bigstory.ap.org/article/481660d6167c4b5b83f9916d0e2785ac/jury-deliberates-fate-palestinian-bomb-convict)
 
 - [USA vs. Rasmea Odeh: Verdict Devalues Lives of Arab and Muslim Women](http://chicagomonitor.com/2014/11/usa-vs-rasmea-odeh-verdict-devalues-lives-of-arab-and-muslim-women/)
 
