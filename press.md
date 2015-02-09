@@ -96,4 +96,4 @@ See the Events section for an updated list of organizing events around the count
 
 - [_Criminalizing Resistance_, Jacobin Magazine, Charlotte Kates, Jan. 27, 2014](https://www.jacobinmag.com/2014/01/criminalizing-resistance/)
 
-- [Local Palestinian-American faces prison or deportation, WBEZ Worldview, 2014](https://soundcloud.com/wbez-worldview/local-palestinian-american)
+- [_Local Palestinian-American faces prison or deportation_, WBEZ Worldview, 2014](https://soundcloud.com/wbez-worldview/local-palestinian-american)
