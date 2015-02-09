@@ -13,9 +13,9 @@ See the Events section for an updated list of organizing events around the count
 
 - [_Organizing After the Odeh Verdict_, Jacobin Magazine, Nadine Naber, Jan. 14, 2015](https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/)
 
-- [The Atticus of Attica](http://www.superlawyers.com/illinois/article/The-Atticus-of-Attica/5e045eda-7cb9-4ed1-8c7e-df6528e8c922.html)
+- [_The Atticus of Attica_, Super Lawyers, Beth Taylor, Feb. 2015](http://www.superlawyers.com/illinois/article/The-Atticus-of-Attica/5e045eda-7cb9-4ed1-8c7e-df6528e8c922.html)
 
-- [Podcast: Attorney for Palestinian American Organizer Rasmea Odeh Discusses Significance of Her Conviction](http://dissenter.firedoglake.com/2014/11/16/podcast-attorney-for-palestinian-american-organizer-rasmea-odeh-discusses-significance-of-her-conviction/)
+- [_Podcast: Attorney for Palestinian American Organizer Rasmea Odeh Discusses Significance of Her Conviction_, The Dissenter, Kevin Gosztola, Nov. 16, 2014](http://dissenter.firedoglake.com/2014/11/16/podcast-attorney-for-palestinian-american-organizer-rasmea-odeh-discusses-significance-of-her-conviction/)
 
 - [Defense promises to appeal guilty verdict against Rasmea Odeh](http://electronicintifada.net/blogs/charlotte-silver/defense-promises-appeal-guilty-verdict-against-rasmea-odeh)
 
