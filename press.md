@@ -81,15 +81,15 @@ published: true
 
 - [Rasmea Odeh court hearing, Judge Borman refuses to step down, _FightBack! News, Tom Burke, Aug. 1, 2014_](http://www.fightbacknews.org/2014/8/1/rasmea-odeh-court-hearing-judge-borman-refuses-step-down)
 
-- [Court motion details Palestinian American Rasmea Odeh’s torture by Israeli jailers](http://electronicintifada.net/blogs/charlotte-silver/court-motion-details-palestinian-american-rasmea-odehs-torture-israeli)
+- [Court motion details Palestinian American Rasmea Odeh’s torture by Israeli jailers, _The Electronic Intifada, Charlotte Silver, July 31, 2014_](http://electronicintifada.net/blogs/charlotte-silver/court-motion-details-palestinian-american-rasmea-odehs-torture-israeli)
 
-- [Why is Obama's DOJ prosecuting a torture victim?](http://thehill.com/blogs/pundits-blog/international/208699-why-is-obamas-doj-prosecuting-a-torture-victim)
+- [Justice for Rasmea Odeh, _Middle East Research and Information Project,_ _Nadine Naber, June 19. 2014_](http://www.merip.org/justice-rasmea-odeh)
 
-- [Justice for Rasmea Odeh](http://www.merip.org/justice-rasmea-odeh)
+- [Hatem Abudayyeh Defends Rasmea Odeh, _Class Wars, June 12, 2014_](http://www.stopfbi.net/2014/6/13/hatem-abudayyeh-defends-rasmea-odeh)
 
-- [Hatem Abudayyeh Defends Rasmea Odeh](http://www.stopfbi.net/2014/6/13/hatem-abudayyeh-defends-rasmea-odeh)
+- [Why is Obama's DOJ prosecuting a torture victim?, _The Hill, Josh Ruebner, June 10, 2014_](http://thehill.com/blogs/pundits-blog/international/208699-why-is-obamas-doj-prosecuting-a-torture-victim)
 
-- [Says Only Confessed After Repeated Torture](http://thestruggle.podbean.com/e/only-confessed-after-repeated-torture/)
+- [Says Only Confessed After Repeated Torture, _The Struggle Podcast, June 9, 2014_](http://thestruggle.podbean.com/e/only-confessed-after-repeated-torture/)
 
 - [Criminalizing Resistance, _Jacobin Magazine, Charlotte Kates, Jan. 27, 2014_](https://www.jacobinmag.com/2014/01/criminalizing-resistance/)
 
