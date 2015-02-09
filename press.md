@@ -17,9 +17,9 @@ See the Events section for an updated list of organizing events around the count
 
 - [_Podcast: Attorney for Palestinian American Organizer Rasmea Odeh Discusses Significance of Her Conviction_, The Dissenter, Kevin Gosztola, Nov. 16, 2014](http://dissenter.firedoglake.com/2014/11/16/podcast-attorney-for-palestinian-american-organizer-rasmea-odeh-discusses-significance-of-her-conviction/)
 
-- [Defense promises to appeal guilty verdict against Rasmea Odeh](http://electronicintifada.net/blogs/charlotte-silver/defense-promises-appeal-guilty-verdict-against-rasmea-odeh)
+- [_Defense promises to appeal guilty verdict against Rasmea Odeh_, Electronic Intifada, Charlotte Silver, Nov. 10, 2014](http://electronicintifada.net/blogs/charlotte-silver/defense-promises-appeal-guilty-verdict-against-rasmea-odeh)
 
-- [Palestinian Activist Rasmea Odeh Found Guilty in 'Travesty of Justice'](http://www.commondreams.org/news/2014/11/10/palestinian-activist-rasmea-odeh-found-guilty-travesty-justice)
+- [_Palestinian Activist Rasmea Odeh Found Guilty in 'Travesty of Justice'_, Common Dreams, Sarah Lazare, Nov. 10, 2014](http://www.commondreams.org/news/2014/11/10/palestinian-activist-rasmea-odeh-found-guilty-travesty-justice)
 
 - [Rasmea Odeh taken to jail in handcuffs, defense promises appeal](http://www.fightbacknews.org/2014/11/10/rasmea-odeh-taken-jail-handcuffs-defense-promises-appeal)
 
