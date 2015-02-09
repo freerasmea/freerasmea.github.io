@@ -25,11 +25,11 @@ See the Events section for an updated list of organizing events around the count
 
 - [_Palestinian Organizer Rasmea Odeh Jailed Hours After Being Convicted by Jury of Immigration Fraud_, The Dissenter, Kevin Gosztola, Nov. 10, 2014](http://dissenter.firedoglake.com/2014/11/10/palestinian-organizer-rasmea-odeh-jailed-hours-after-being-convicted-by-jury-of-immigration-fraud/)
 
-- [Jury finds Rasmea Odeh guilty; faces up to 10 years in prison, deportation](http://www.metrotimes.com/Blogs/archives/2014/11/10/jury-finds-rasmea-odeh-guilty-faces-up-to-10-years-in-prison-deportation)
+- [_Jury finds Rasmea Odeh guilty; faces up to 10 years in prison, deportation_, Metro Times, Ryan Felton, Nov. 10, 2014](http://www.metrotimes.com/Blogs/archives/2014/11/10/jury-finds-rasmea-odeh-guilty-faces-up-to-10-years-in-prison-deportation)
 
-- [In travesty of justice, Rasmea Odeh found guilty despite history of Israeli torture](http://mondoweiss.net/2014/11/travesty-despite-israeli#sthash.kQL88dNe.dpuf)
+- [_In travesty of justice, Rasmea Odeh found guilty despite history of Israeli torture_, Mondoweiss, Nov. 10, 2014](http://mondoweiss.net/2014/11/travesty-despite-israeli#sthash.kQL88dNe.dpuf)
 
-- [Palestinian woman guilty of lying on citizenship papers](http://www.freep.com/story/news/local/michigan/2014/11/10/rasmieh-odeh-guilty-immigration-lying/18800339/)
+- [_Palestinian woman guilty of lying on citizenship papers_, Detroit Free Press, Niraj Warikoo, Nov. 11, 2014](http://www.freep.com/story/news/local/michigan/2014/11/10/rasmieh-odeh-guilty-immigration-lying/18800339/)
 
 - [Palestinian activist convicted of immigration fraud in Detroit (Reuters report)](http://www.thestar.com.my/News/World/2014/11/11/Palestine-activist-convicted-of-immigration-fraud-in-Detroit/)
 
