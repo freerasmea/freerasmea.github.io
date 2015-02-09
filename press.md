@@ -11,7 +11,7 @@ See the Events section for an updated list of organizing events around the count
 
 ## Post-Verdict Coverage
 
-- [_Organizing After the Odeh Verdict_, Jacobin Magazine, Nadine Naber, Jan. 14, 2015 ](https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/)
+- [_Organizing After the Odeh Verdict_, Jacobin Magazine, Nadine Naber, Jan. 14, 2015](https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/)
 
 - [The Atticus of Attica](http://www.superlawyers.com/illinois/article/The-Atticus-of-Attica/5e045eda-7cb9-4ed1-8c7e-df6528e8c922.html)
 
