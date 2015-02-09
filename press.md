@@ -11,9 +11,9 @@ See the Events section for an updated list of organizing events around the count
 
 ## Post-Verdict Coverage
 
-- [Organizing After the Odeh Verdict, Jacobin Magazine, Nadine Naber, Jan. 14, 2015](https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/)
+- [Organizing After the Odeh Verdict, _Jacobin Magazine, Nadine Naber, Jan. 14, 2015_](https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/)
 
-- [_The Atticus of Attica,_ Super Lawyers, Beth Taylor, Feb. 2015](http://www.superlawyers.com/illinois/article/The-Atticus-of-Attica/5e045eda-7cb9-4ed1-8c7e-df6528e8c922.html)
+- [The Atticus of Attica,_ Super Lawyers, Beth Taylor, Feb. 2015](http://www.superlawyers.com/illinois/article/The-Atticus-of-Attica/5e045eda-7cb9-4ed1-8c7e-df6528e8c922.html)
 
 - [Podcast: Attorney for Palestinian American Organizer Rasmea Odeh Discusses Significance of Her Conviction, _The Dissenter, Kevin Gosztola, Nov. 16, 2014_](http://dissenter.firedoglake.com/2014/11/16/podcast-attorney-for-palestinian-american-organizer-rasmea-odeh-discusses-significance-of-her-conviction/)
 
