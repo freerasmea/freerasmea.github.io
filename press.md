@@ -94,6 +94,6 @@ See the Events section for an updated list of organizing events around the count
 
 - [Says Only Confessed After Repeated Torture](http://thestruggle.podbean.com/e/only-confessed-after-repeated-torture/)
 
-- [Criminalizing Resistance](https://www.jacobinmag.com/2014/01/criminalizing-resistance/)
+- [_Criminalizing Resistance_, Jacobin Magazine, Charlotte Kates, Jan. 27, 2014](https://www.jacobinmag.com/2014/01/criminalizing-resistance/)
 
 - [Local Palestinian-American faces prison or deportation](https://soundcloud.com/wbez-worldview/local-palestinian-american)
