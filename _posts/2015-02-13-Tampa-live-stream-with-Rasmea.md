@@ -1,5 +1,9 @@
 ---
 published: true
+date: "February 13, 2015"
+location: "Tampla, FL"
+category: events
+excerpt: CSFR Tampa will be participating in a national live stream with Rasmea Odeh where viewers will be able to submit questions for Rasmea herself to answer. A movie showing will occur afterwards.
 ---
 
 ## [Tampa's Live Stream with Rasmea and Movie Night](https://www.facebook.com/events/848291211904200/)
