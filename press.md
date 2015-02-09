@@ -7,7 +7,7 @@ published: true
 ## Post-Verdict actions
 See the Events section for an updated list of organizing events around the country.  
 
-- [_Bay Area activists shut down federal building to protest Rasmea Odeh conviction_, Mondoweiss, Allison Deger, Nov. 13, 2014_](http://mondoweiss.net/2014/11/francisco-activists-conviction)
+- [_Bay Area activists shut down federal building to protest Rasmea Odeh conviction_, Mondoweiss, Allison Deger, Nov. 13, 2014](http://mondoweiss.net/2014/11/francisco-activists-conviction)
 
 ## Post-Verdict Coverage
 
