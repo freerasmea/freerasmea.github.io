@@ -31,11 +31,11 @@ See the Events section for an updated list of organizing events around the count
 
 - [_Palestinian woman guilty of lying on citizenship papers_, Detroit Free Press, Niraj Warikoo, Nov. 11, 2014](http://www.freep.com/story/news/local/michigan/2014/11/10/rasmieh-odeh-guilty-immigration-lying/18800339/)
 
-- [Palestinian activist convicted of immigration fraud in Detroit (Reuters report)](http://www.thestar.com.my/News/World/2014/11/11/Palestine-activist-convicted-of-immigration-fraud-in-Detroit/)
+- [_Palestinian activist convicted of immigration fraud in Detroit (Reuters report)_, The Star, Nov. 11, 2014](http://www.thestar.com.my/News/World/2014/11/11/Palestine-activist-convicted-of-immigration-fraud-in-Detroit/)
 
-- [Palestinian-American activist Rasmea Odeh convicted for immigration fraud](http://michiganradio.org/post/palestinian-american-activist-rasmea-odeh-convicted-immigration-fraud)
+- [_Palestinian-American activist Rasmea Odeh convicted for immigration fraud_, Michigan Radio, Sarah Cwiek, Nov. 10, 2014](http://michiganradio.org/post/palestinian-american-activist-rasmea-odeh-convicted-immigration-fraud)
 
-- [Palestinian Activist Rasmea Odeh Found Guilty of Immigration Fraud](http://colorlines.com/archives/2014/11/palestinian_activist_rasmea_odeh_guilty_of_falsifying_immigration.html)
+- [_Palestinian Activist Rasmea Odeh Found Guilty of Immigration Fraud_, Colorlines, Julianne Hing, Nov. 11, 2014](http://colorlines.com/archives/2014/11/palestinian_activist_rasmea_odeh_guilty_of_falsifying_immigration.html)
 
 - [Palestinian activist guilty in US immigration case](http://bigstory.ap.org/article/481660d6167c4b5b83f9916d0e2785ac/jury-deliberates-fate-palestinian-bomb-convict)
 
