@@ -1,4 +1,4 @@
-## Buy items from the Justice4Rasmea shop as another way to donate to Rasmea's defense.
+## Shop these items as another way to donate to Rasmea's defense.
 
 ![Sheroes Tee (White)]({{site.baseurl}}/assets/img/Sheroes_White.jpg)
 
