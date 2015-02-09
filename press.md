@@ -53,13 +53,13 @@ published: true
 
 ## Pre-Verdict Coverage
 
+- [PHOTOS: Detroiters protest the Rasmea Odeh trial taking currently taking place at the U.S. District Court, _Metro Times, Nov. 5, 2014_](http://photos.metrotimes.com/photos-detroiters-protest-the-rasmea-odeh-trial-taking-currently-taking-place-at-the-u-s-district-court/#2)
+
 - [Will Rasmea Odeh Go to Prison Because of a Confession Obtained Through Torture?, _The Nation, Charlotte Silver, Nov. 4, 2014_](http://www.thenation.com/article/188033/will-rasmeah-odeh-go-prison-because-confession-obtained-through-torture)
 
 - [Angela Davis: Free Rasmea Odeh, political prisoner, _The Detroit News, Angela Davis, Nov. 4, 2014_](http://www.detroitnews.com/story/opinion/2014/11/04/angela-davis-free-rasmea-odea/18429933/)
 
 - [Trial for women's rights advocate Rasmea Odeh begins today, _Metro Times, Ryan Felton, Nov. 4, 2014_](http://www.metrotimes.com/Blogs/archives/2014/11/04/trial-for-womens-rights-advocate-rasmea-odeh-begins-today)
-
-- [PHOTOS: Detroiters protest the Rasmea Odeh trial taking currently taking place at the U.S. District Court, _Metro Times, Nov. 5, 2014_](http://photos.metrotimes.com/photos-detroiters-protest-the-rasmea-odeh-trial-taking-currently-taking-place-at-the-u-s-district-court/#2)
 
 - [Feminist scholars call on Obama to drop the torture-based charges against Rasmea Odeh, _Mondoweiss, Oct. 23, 2014_](http://mondoweiss.net/2014/10/feminist-scholars-against)
 
