@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## [Tampa's Live Stream with Rasmea and Movie Night](https://www.facebook.com/events/848291211904200/)
