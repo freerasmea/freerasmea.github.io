@@ -10,7 +10,7 @@ published: true
 
 ![Sheroes Tee (White)]({{site.baseurl}}/assets/img/Sheroes_White.jpg)
 ![Sheroes Tee (Red)]({{site.baseurl}}/assets/img/Sheroes_Red.jpg)
-Sheroes T-shirts, $25
+<br>Sheroes T-shirts, $25
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -29,7 +29,7 @@ Sheroes T-shirts, $25
 
 ![I Support Rasmea Tee (White)]({{site.baseurl}}/assets/img/I_Support_Rasmea_white.jpg)
 ![I Support Rasmea Tee (Red)]({{site.baseurl}}/assets/img/I_Support_Rasmea_red.jpg)
-I Support Rasmea T-shirts, $25
+<br>I Support Rasmea T-shirts, $25
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
