@@ -7,10 +7,9 @@ published: true
 ## Purchase from this shop as another way to Donate to Rasmea's defense! 
 
 
-
+**Sheroes T-shirts, $25**
 ![Sheroes Tee (White)]({{site.baseurl}}/assets/img/Sheroes_White.jpg)
 ![Sheroes Tee (Red)]({{site.baseurl}}/assets/img/Sheroes_Red.jpg)
-<br>Sheroes T-shirts, $25
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -26,10 +25,9 @@ published: true
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-
+**I Support Rasmea T-shirts, $25**
 ![I Support Rasmea Tee (White)]({{site.baseurl}}/assets/img/I_Support_Rasmea_white.jpg)
 ![I Support Rasmea Tee (Red)]({{site.baseurl}}/assets/img/I_Support_Rasmea_red.jpg)
-<br>I Support Rasmea T-shirts, $25
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
