@@ -6,7 +6,7 @@ published: true
 
 ## Purchase from this shop as another way to Donate to Rasmea's defense! 
 
-**Sheroes T-shirts, $25**
+<br>**Sheroes T-shirts, $25**
 <img src="/assets/img/Sheroes_White.jpg" alt="Sheroes" style="width: 550px;"/>
 <img src="/assets/img/Sheroes_Red.jpg" alt="Sheroes" style="width: 300px;"/>
 
