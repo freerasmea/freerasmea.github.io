@@ -1,3 +1,9 @@
+---
+layout: page
+title: Shop
+published: true
+---
+
 ## Purchase from this shop as another way to Donate to Rasmea's defense! 
 
 
