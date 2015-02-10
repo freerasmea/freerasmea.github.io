@@ -14,13 +14,13 @@ published: true
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="7M4MVYPVL35KQ">
 <table>
-<tr><td><input type="hidden" name="on0" value="Name of drop-down menu">Sheroes Tee</td></tr><tr><td><select name="os0">
-	<option value="Option 1">WHITE $25 USD</option>
-	<option value="Option 2">RED $25 USD</option>
+<tr><td><input type="hidden" name="on0" value="Sheroes Tee">Sheroes Tee</td></tr><tr><td><select name="os0">
+	<option value="White">White $25.00 USD</option>
+	<option value="Red">Red $25.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
@@ -30,14 +30,14 @@ published: true
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="7M4MVYPVL35KQ">
+<input type="hidden" name="hosted_button_id" value="6L6M7ZT38QHQE">
 <table>
-<tr><td><input type="hidden" name="on0" value="Name of drop-down menu">I Support Rasmea Tee</td></tr><tr><td><select name="os0">
-	<option value="Option 1">WHITE $25 USD</option>
-	<option value="Option 2">RED $25 USD</option>
+<tr><td><input type="hidden" name="on0" value="I Support Rasmea Tee">I Support Rasmea Tee</td></tr><tr><td><select name="os0">
+	<option value="White">White $25.00 USD</option>
+	<option value="Red">Red $25.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
