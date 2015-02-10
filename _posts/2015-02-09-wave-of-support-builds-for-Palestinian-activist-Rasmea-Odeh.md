@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: "February 9, 2015"
-excerpt: "Protests, speaking events, and fundraisers are being organized across the U.S. as part of the growing national movement to win justice for Rasmea Odeh. This is a critical time, as Odeh will appear in court on March 12 for a sentencing hearing, where she faces up to 10 years in prison and deportation. Starting today, as part of a national week of action to defend Odeh, events will take place in Minneapolis, Seattle, New York City, Dallas, Tampa, Salt Lake City, Milwaukee, Tucson, Grand Rapids, the Bay Area, Washington DC, and other cities."
+excerpt: "Protests, speaking events, and fundraisers are being organized across the U.S. as part of the growing national movement to win justice for Rasmea Odeh."
 category: news
 ---
 
