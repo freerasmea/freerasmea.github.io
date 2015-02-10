@@ -8,8 +8,9 @@ published: true
 
 **Sheroes T-shirts, $25**
 ![Sheroes Tee (White)]({{site.baseurl}}/assets/img/Sheroes_White.jpg)
-<img src="/assets/img/Sheroes_White.jpg" alt="Sheroes" style="width: 400px;"/>
+<img src="/assets/img/Sheroes_White.jpg" alt="Sheroes" style="width: 550px;"/>
 ![Sheroes Tee (Red)]({{site.baseurl}}/assets/img/Sheroes_Red.jpg)
+<img src="/assets/img/Sheroes_Red.jpg" alt="Sheroes" style="width: 300px;"/>
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
