@@ -1,4 +1,4 @@
-## Donate to Rasmea's defense by buying these items.
+## Purchase from this shop as another way to Donate to Rasmea's defense! 
 
 
 ![Sheroes Tee (White)]({{site.baseurl}}/assets/img/Sheroes_White.jpg)
