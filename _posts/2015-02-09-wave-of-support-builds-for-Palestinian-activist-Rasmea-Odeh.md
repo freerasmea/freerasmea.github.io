@@ -7,12 +7,10 @@ category: news
 ---
 
 **Rasmea Defense Committee Statement**
-
-MEDIA ADVISORY
+<br>MEDIA ADVISORY
 <br>FOR IMMEDIATE RELEASE: Monday, February 9, 2015
  
-CONTACT: Hatem Abudayyeh, National Spokesperson, Rasmea Defense Committee   
-773.301.4108, [hatem85@yahoo.com](mailto:hatem85@yahoo.com)
+CONTACT: Hatem Abudayyeh, National Spokesperson, Rasmea Defense Committee; 773.301.4108, [hatem85@yahoo.com](mailto:hatem85@yahoo.com)
 
 ## Wave of support builds for Palestinian activist Rasmea Odeh; Supporters mobilize for March 12 Sentencing
 
