@@ -9,7 +9,7 @@ category: news
 **Rasmea Defense Committee Statement**
 
 MEDIA ADVISORY
-FOR IMMEDIATE RELEASE: Monday, February 9, 2015
+<br>FOR IMMEDIATE RELEASE: Monday, February 9, 2015
  
 CONTACT: Hatem Abudayyeh, National Spokesperson, Rasmea Defense Committee   
 773.301.4108, [hatem85@yahoo.com](mailto:hatem85@yahoo.com)
