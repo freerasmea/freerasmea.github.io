@@ -27,7 +27,7 @@ published: true
 
 **I Support Rasmea T-shirts, $25**
 
-<img src="/assets/img/I_Support_Rasmea_white.jpg" alt="I Support Rasmea" style="width: 550px;"/>
+<img src="/assets/img/I_Support_Rasmea_white.jpg" alt="I Support Rasmea" style="width: 300px;"/>
 <img src="/assets/img/I_Support_Rasmea_red.jpg" alt="I Support Rasmea" style="width: 300px;"/>
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
