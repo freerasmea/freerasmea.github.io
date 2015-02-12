@@ -15,7 +15,7 @@ published: true
 <input type="hidden" name="hosted_button_id" value="7M4MVYPVL35KQ">
 <table>
 <tr><td><input type="hidden" name="on0" value="Sheroes Tee">Sheroes Tee</td></tr><tr><td><select name="os0">
-	<option value="White">White, Sml $25.00 USD</option>
+	<option value="White Sml">White, Sml $25.00 USD</option>
     <option value="White">White, Med $25.00 USD</option>
     <option value="White">White, Lrg $25.00 USD</option>
     <option value="White">White, XL $25.00 USD</option>
