@@ -7,9 +7,9 @@ published: true
 ## Purchase from this shop as another way to donate to Rasmea's defense! 
 
 <br>**Sheroes T-shirts, $25**
-_<br> image designed by Leila Abdelrazeq_
 <img src="/assets/img/Sheroes_White.jpg" alt="Sheroes" style="width: 550px;"/>
 <img src="/assets/img/Sheroes_Red.jpg" alt="Sheroes" style="width: 300px;"/>
+_<br> image designed by Leila Abdelrazeq_
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
