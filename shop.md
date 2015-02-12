@@ -7,6 +7,7 @@ published: true
 ## Purchase from this shop as another way to donate to Rasmea's defense! 
 
 <br>**Sheroes T-shirts, $25**
+_<br> image designed by Leila Abdelrazeq_
 <img src="/assets/img/Sheroes_White.jpg" alt="Sheroes" style="width: 550px;"/>
 <img src="/assets/img/Sheroes_Red.jpg" alt="Sheroes" style="width: 300px;"/>
 
@@ -34,7 +35,7 @@ published: true
 
 
 **I Support Rasmea T-shirts, $25**
-
+_<br> made by [Revolutionary Lemonade Stand](http://www.revolutionarylemonadestand.com/)_
 <img src="/assets/img/I_Support_Rasmea_white.jpg" alt="I Support Rasmea" style="width: 275px;"/> <img src="/assets/img/I_Support_Rasmea_red.jpg" alt="I Support Rasmea" style="width: 275px;"/>
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
