@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: "February 16, 2015"
 excerpt: "Rasmea Odeh is set to appear in a Detroit federal court for sentencing on March 12, following her conviction on a single charge of Unlawful Procurement of Naturalization. Three days ago, Judge Gershwin Drain issued an order denying two motions by Odeh’s defense team."
