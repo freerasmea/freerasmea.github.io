@@ -9,11 +9,9 @@ category: news
 **Rasmea Defense Committee**
 <br>MEDIA ADVISORY
 <br>FOR IMMEDIATE RELEASE: Monday, February 16, 2015
- 
-CONTACT: Hatem Abudayyeh, National Spokesperson, Rasmea Defense Committee        
-<br>773.301.4108, hatem85@yahoo.com 
+CONTACT: Hatem Abudayyeh, National Spokesperson, Rasmea Defense Committee      773.301.4108, hatem85@yahoo.com 
 
-## [Court denies motions from Palestinian activist Rasmea Odeh, Supporters mobilize for March 12 sentencing in Detroit](http://uspcn.org/2015/02/16/court-denies-motions-from-palestinian-activist-rasmea-odeh-supporters-mobilize-for-march-12-sentencing-in-detroit/)
+## [Court denies motions from Palestinian activist Rasmea Odeh; Supporters mobilize for March 12 sentencing in Detroit](http://uspcn.org/2015/02/16/court-denies-motions-from-palestinian-activist-rasmea-odeh-supporters-mobilize-for-march-12-sentencing-in-detroit/)
  
 Chicago’s 67-year-old Palestinian community leader, Rasmea Odeh, is set to appear in a Detroit federal court for sentencing on March 12, following her conviction on a single charge of Unlawful Procurement of Naturalization. Three days ago, Judge Gershwin Drain issued an order denying two motions by Odeh’s defense team. One motion called for a new trial because of a number of legal errors in the court’s rulings in her November trial; another called for the judge to set aside the jury’s decision altogether.
  
