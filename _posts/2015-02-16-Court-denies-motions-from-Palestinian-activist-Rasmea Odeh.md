@@ -1,3 +1,11 @@
+---
+published: false
+layout: post
+date: "February 16, 2015"
+excerpt: ""
+category: news
+---
+
 **Rasmea Defense Committee**
 MEDIA ADVISORY
 FOR IMMEDIATE RELEASE: Monday, February 16, 2015
