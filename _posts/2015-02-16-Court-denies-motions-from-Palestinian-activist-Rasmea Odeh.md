@@ -10,7 +10,7 @@ category: news
 <br>MEDIA ADVISORY
 <br>FOR IMMEDIATE RELEASE: Monday, February 16, 2015
 
-CONTACT: Hatem Abudayyeh, National Spokesperson, Rasmea Defense Committee      773.301.4108, hatem85@yahoo.com 
+CONTACT: Hatem Abudayyeh, National Spokesperson, Rasmea Defense Committee,      773.301.4108, hatem85@yahoo.com 
 
 ## [Court denies motions from Palestinian activist Rasmea Odeh; Supporters mobilize for March 12 sentencing in Detroit](http://uspcn.org/2015/02/16/court-denies-motions-from-palestinian-activist-rasmea-odeh-supporters-mobilize-for-march-12-sentencing-in-detroit/)
  
