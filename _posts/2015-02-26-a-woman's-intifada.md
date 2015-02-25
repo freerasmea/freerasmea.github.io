@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## A Woman's Intifada: The Story of Rasmea Odeh
