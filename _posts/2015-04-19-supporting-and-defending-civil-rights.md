@@ -9,7 +9,7 @@ excerpt: "Fundraiser for Rasmea Odeh's Defense, featuring Ahmad Abuznaid, Co-fou
 ## Supporting and Defending Civil Rights: The Case of Rasmea Odeh
 _Presented by the Arab Jewish Partnership for Peace and Justice in the Middle East_
 
-<img src=/_posts/SupportingAndDefendingCivilRights.jpg>
+<img src="/_posts/SupportingAndDefendingCivilRights.jpg">
 
 When: Sunday, April 19, 2015, 1–4pm
 Where: Alhambra Palace Restaurant, 
