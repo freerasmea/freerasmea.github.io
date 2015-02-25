@@ -1,7 +1,7 @@
 ---
 published: true
 date: "February 26, 2015"
-location: Chicago, IL"
+location: "Chicago, IL"
 category: events
 excerpt: "Nesreen Hasan, an integral member of Rasmea Odeh's defense committee, will be joining the Middle Eastern Student Association at Loyola University Chicago to discuss the trial of Rasmea Odeh and overall FBI repression of the Arab community in Chicago.
 ---
