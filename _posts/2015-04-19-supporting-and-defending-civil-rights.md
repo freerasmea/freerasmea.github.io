@@ -18,5 +18,3 @@ Chicago, IL 60607
 
 Keynote Speaker: Ahmad Abuznaid, Co-founder and the Legal & Policy Director of the Dream Defenders.
 Update on Rasmea Odeh's case by Michael Deutsch, lead attorny.
-
-
