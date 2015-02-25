@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "February 26, 2015"
 location: "Chicago, IL"
 category: events
