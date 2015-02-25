@@ -1,5 +1,9 @@
 ---
 published: true
+date: "April 19, 2015"
+location: "Chicago, IL"
+category: events
+excerpt: "Fundraiser for Rasmea Odeh's Defense, featuring Ahmad Abuznaid, Co-founder and the Legal & Policy Director of the Dream Defenders"
 ---
 
 ## Supporting and Defending Civil Rights: The Case of Rasmea Odeh
