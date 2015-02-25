@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Supporting and Defending Civil Rights: The Case of Rasmea Odeh
