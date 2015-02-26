@@ -8,7 +8,8 @@ category: news
 
 **Rasmea Defense Committee**
 <br>For Immediate Release: Wednesday, February 25th, 2015
-<br>Contact: Hatem Abudayyeh, National Spokesperson, Rasmea Defense Committee, 773.301.4108, hatem85@yahoo.com
+
+Contact: Hatem Abudayyeh, National Spokesperson, Rasmea Defense Committee, 773.301.4108, hatem85@yahoo.com
 
 ## Defense attorneys file "sentencing memorandum" calling for judge NOT to imprison Rasmea Odeh
 _**Supporters mobilize for March 12 sentencing in Detroit**_
