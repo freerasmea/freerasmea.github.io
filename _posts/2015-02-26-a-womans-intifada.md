@@ -8,7 +8,7 @@ excerpt: "Nesreen Hasan, member of Rasmea's defense committee, will be joining t
 
 [## A Woman's Intifada: The Story of Rasmea Odeh](https://www.facebook.com/events/1396594390649928)
 
-<img src=“{{site.baseurl}}/assets/img/A-Womans-Intifada.jpg}}”>
+<img src={{site.baseurl}}/assets/img/A-Womans-Intifada.jpg}}>
 
 Nesreen Hasan, an integral member of Rasmea Odeh's defense committee, will be joining the Middle Eastern Student Association at Loyola University Chicago on **Thursday, February 26 at 6:30** pm to discuss the trial of Rasmea Odeh, and overall FBI repression on the Arab community in Chicago.
 
