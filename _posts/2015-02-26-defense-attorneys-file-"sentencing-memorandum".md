@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+date: "February 26, 2015"
+excerpt: "Members of the Rasmea Defense Committee "
+category: news
 ---
 
 **Rasmea Defense Committee**
