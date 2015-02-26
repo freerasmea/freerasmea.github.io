@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: "February 26, 2015"
-excerpt: "Members of the Rasmea Defense Committee "
+excerpt: "Defense attorneys for Rasmea Odeh, Chicago’s 67-year-old Palestinian community leader, filed a “sentencing memorandum” in a Detroit federal court, arguing that Odeh “should not be sentenced to further imprisonment..."
 category: news
 ---
 
