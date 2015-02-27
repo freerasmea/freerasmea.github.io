@@ -29,5 +29,3 @@ Odeh’s attorneys challenge this linkage, writing, “The Government, for its p
 Odeh plans to appeal her conviction, and will request the granting of an appellate bond no matter the sentence, which could be the prison time, heavy fines, and deportation.
 
 “Hundreds of people will be in Detroit for the sentencing hearing on March 12th,” says Tampa’s Marisol Marquez of the national Rasmea Defense Committee, “and there have been, and will continue to be, events and fundraisers to support Rasmea all across the country. She’s a beloved leader of the Palestinian community, and we will not stop organizing until she’s exonerated.”
-
-For more information and background on Rasmea Odeh’s case, go to http://justice4rasmea.org.
