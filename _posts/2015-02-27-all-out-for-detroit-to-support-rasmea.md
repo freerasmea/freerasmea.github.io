@@ -9,7 +9,7 @@ excerpt: "We are committed to filling the courtroom, and an overflow room, on Ra
 
 ### Stand with Rasmea and fill the federal courthouse in Detroit!
 
-**[Register for a spot](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform)** 
+### **[Register for a spot](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform)**
 
 We are committed to filling the courtroom, and an overflow room, on Rasmea's sentencing day on March 12th.  We will also organize a picket in front of the courthouse one hour before the hearing.
 
@@ -27,5 +27,6 @@ In addition, it must be made clear that Rasmea will be appealing the conviction 
 Rasmea spoke with her supporters across the country by livestream a number of times in the past few weeks, and fundraisers and educational events were organized in New York City, Minneapolis, Chicago, San Francisco, Tucson, Tampa, St. Lake City, Gainesville, Miami, Phoenix, Grand Rapids, Milwaukee, Albuquerque, Seattle, Albany, NY, and other cities.  More fundraisers are scheduled for [Fishers, IN](https://www.facebook.com/events/409173849258525), and [Chicago](https://www.facebook.com/events/652756228169625) this coming week. (See a full list of events [here](http://justice4rasmea.org/events/).)  
 
 **There is still much more organizing to be done!**
+
 [Register here to join us in Detroit](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform) on March 12, visit [www.justice4rasmea.org](www.justice4rasmea.org )for more information, or email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) with any questions.
 
