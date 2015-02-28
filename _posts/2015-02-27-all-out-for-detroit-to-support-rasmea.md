@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## All out for Detroit to support Rasmea at her sentencing Thursday, March 12!
