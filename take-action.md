@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Take Action
+published: true
 ---
+
+<img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
 
 ### [Call for letters of Leniency to the Judge](http://uspcn.org/2015/01/14/rasmeas-sentencing-march-12-need-letters-for-leniency/)
 Help support Rasmea by calling on the judge for leniency in sentencing---visit the USPCN website for details.
