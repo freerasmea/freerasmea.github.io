@@ -6,7 +6,6 @@ excerpt: "We are committed to filling the courtroom, and an overflow room, on Ra
 ---
 
 ## All out for Detroit to support Rasmea at her sentencing Thursday, March 12!
-
 ### Stand with Rasmea and fill the federal courthouse in Detroit!
 
 ### **[Register for a spot](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform)**
