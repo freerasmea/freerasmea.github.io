@@ -1,5 +1,8 @@
 ---
 published: true
+category: news
+date: "February 27, 2015"
+excerpt: "We are committed to filling the courtroom, and an overflow room, on Rasmea's sentencing day on March 12th.  We will also organize a picket in front of the courthouse one hour before the hearing. Join us!"
 ---
 
 ## All out for Detroit to support Rasmea at her sentencing Thursday, March 12!
