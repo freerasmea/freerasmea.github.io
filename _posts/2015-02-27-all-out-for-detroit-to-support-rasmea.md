@@ -12,9 +12,9 @@ We are committed to filling the courtroom, and an overflow room, on Rasmea's sen
 
 To continue to show the support for Rasmea that we did throughout her trial and pre-trial hearings, we need you in Detroit!
 
-Thursday, March 12th, 2015, at 10 AM EST (hearing starts at 11 AM EST)
+**Thursday, March 12th, 2015, at 10 AM EST (hearing starts at 11 AM EST)
 
-231 W. Lafayette Blvd., downtown Detroit
+231 W. Lafayette Blvd., downtown Detroit**
 
 Please join us on Thursday, March 12th, in Detroit for Rasmea's sentencing hearing.  Rasmea was unjustly convicted in November of last year, and the prosecution is now asking for an enhanced sentence of 5-7 years in prison.  (The vast majority of those convicted of Unlawful Procurement of Naturalization are sentenced to no more than 21 months.) 
 
