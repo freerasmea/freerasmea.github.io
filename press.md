@@ -6,6 +6,18 @@ published: true
 
 ## Post-Verdict Coverage
 
+[- New York activists gather in solidarity with Rasmea Odeh, _FightBack! News, Corey Uhl, Feb. 17, 2015_](http://www.fightbacknews.org/2015/2/17/new-york-activists-gather-solidarity-rasmea-odeh)
+
+- [Tampa stands with Rasmea Odeh, _FightBack! News, Feb. 14, 2015_](http://www.fightbacknews.org/2015/2/14/tampa-stands-rasmea-odeh)
+
+- [Twin Cities joins national week of actions for Palestinian activist Rasmea Odeh, _FightBack! News, Feb. 11, 2015_](http://www.fightbacknews.org/2015/2/11/twin-cities-joins-national-week-actions-palestinian-activist-rasmea-odeh)
+
+- [AHRC urges court to reverse Rasmea Odeh conviction, _The Arab Daily News, Feb. 10, 2015_](http://thearabdailynews.com/2015/02/10/ahrc-urges-court-reverse-rasmea-odeh-conviction/)
+
+- [DePaul University sparks furor with fundraiser for convicted terrorist Rasmea Odeh,_The Washington Times, Cheryl K. Chumley, Feb. 4, 2015_](http://www.washingtontimes.com/news/2015/feb/4/depaul-university-fundraiser-rasmea-odeh/)
+
+- [Large turnout for Rasmea fundraiser at DePaul University, Zionist protest flops, _FightBack! News, Feb. 4, 2015_](http://waww.fightbacknews.org/2015/2/4/large-turnout-rasmea-fundraiser-depaul-university-zionist-protest-flops)
+
 - [The Atticus of Attica, _Super Lawyers, Beth Taylor, Feb. 2015_](http://www.superlawyers.com/illinois/article/The-Atticus-of-Attica/5e045eda-7cb9-4ed1-8c7e-df6528e8c922.html)
 
 - [Organizing After the Odeh Verdict, _Jacobin Magazine, Nadine Naber, Jan. 14, 2015_](https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/)
