@@ -4,7 +4,7 @@ permalink: /press/
 published: true
 ---
 
-## Post-Verdict Coverage
+## Post-Verdict Action Coverage
 
 - [New York activists gather in solidarity with Rasmea Odeh, _FightBack! News, Corey Uhl, Feb. 17, 2015_](http://www.fightbacknews.org/2015/2/17/new-york-activists-gather-solidarity-rasmea-odeh)
 
@@ -17,6 +17,8 @@ published: true
 - [DePaul University sparks furor with fundraiser for convicted terrorist Rasmea Odeh,_The Washington Times, Cheryl K. Chumley, Feb. 4, 2015_](http://www.washingtontimes.com/news/2015/feb/4/depaul-university-fundraiser-rasmea-odeh/)
 
 - [Large turnout for Rasmea fundraiser at DePaul University, Zionist protest flops, _FightBack! News, Feb. 4, 2015_](http://waww.fightbacknews.org/2015/2/4/large-turnout-rasmea-fundraiser-depaul-university-zionist-protest-flops)
+
+## Post-Verdict Coverage
 
 - [The Atticus of Attica, _Super Lawyers, Beth Taylor, Feb. 2015_](http://www.superlawyers.com/illinois/article/The-Atticus-of-Attica/5e045eda-7cb9-4ed1-8c7e-df6528e8c922.html)
 
