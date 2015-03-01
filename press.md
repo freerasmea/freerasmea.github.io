@@ -6,7 +6,7 @@ published: true
 
 ## Post-Verdict Coverage
 
-[- New York activists gather in solidarity with Rasmea Odeh, _FightBack! News, Corey Uhl, Feb. 17, 2015_](http://www.fightbacknews.org/2015/2/17/new-york-activists-gather-solidarity-rasmea-odeh)
+- [New York activists gather in solidarity with Rasmea Odeh, _FightBack! News, Corey Uhl, Feb. 17, 2015_](http://www.fightbacknews.org/2015/2/17/new-york-activists-gather-solidarity-rasmea-odeh)
 
 - [Tampa stands with Rasmea Odeh, _FightBack! News, Feb. 14, 2015_](http://www.fightbacknews.org/2015/2/14/tampa-stands-rasmea-odeh)
 
