@@ -10,15 +10,15 @@ excerpt: "We are committed to filling the courtroom, and an overflow room, on Ra
 ### **[Register for a spot](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform)**
 
 **Stand with Rasmea and fill the federal courthouse in Detroit!**
-We are committed to filling the courtroom, and an overflow room, on Rasmea's sentencing day on March 12th.  We will also organize a picket in front of the courthouse one hour before the hearing.
+<br>We are committed to filling the courtroom, and an overflow room, on Rasmea's sentencing day on March 12th.  We will also organize a picket in front of the courthouse one hour before the hearing.
 
-To continue to show the support for Rasmea that we did throughout her trial and pre-trial hearings, _we need you in Detroit_!
+To continue to show the support for Rasmea that we did throughout her trial and pre-trial hearings, **_we need you in Detroit_**!
 
 **Thursday, March 12th, 2015, at 10 AM EST (hearing starts at 11 AM EST)
 231 W. Lafayette Blvd., downtown Detroit**
 
 
-Please join us on Thursday, March 12th, in Detroit for Rasmea's sentencing hearing. Rasmea was [unjustly convicted](http://uspcn.org/2014/11/10/without-a-full-and-fair-trial-rasmea-found-guilty/) in November of last year, and the prosecution is now asking for an enhanced sentence of 5-7 years in prison.  (The vast majority of those convicted of Unlawful Procurement of Naturalization are sentenced to _no more than 21 months_.)
+Please join us on Thursday, March 12th, in Detroit for Rasmea's sentencing hearing. Rasmea was [unjustly convicted](http://uspcn.org/2014/11/10/without-a-full-and-fair-trial-rasmea-found-guilty/) in November of last year, and the prosecution is now asking for an enhanced sentence of 5-7 years in prison.  (The vast majority of those convicted of Unlawful Procurement of Naturalization are sentenced to **_no more than 21 months_.**)
 
 Rasmea's defense attorneys are arguing that [she shouldn't be imprisoned for even one more day](http://justice4rasmea.org/news/2015/02/26/defense-attorneys-file-sentencing-memorandum/), and over 70 important leaders of unions and community-based, faith-based, civil rights, and student organizations, as well as prominent academics and activists, who all wrote letters of leniency to Judge Gershwin Drain, agree.
 
