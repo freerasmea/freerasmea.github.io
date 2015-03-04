@@ -9,7 +9,7 @@ excerpt: "Marking International Women's Day by revisiting the past struggles and
 ## [ Celebrate International Women's Day 2015](https://www.facebook.com/events/652756228169625/)
 _Sponsored by Committee to Stop FBI Repression, Freedom Road Socialist Organization, the U.S. Palestinian Community Network, the American Party of Labor, Anakbayan, the Chicago Alliance Against Racist & Political Repression, the Anti-War Committee, and Workers World Party._
 
-******Sunday, March 8th at 6:00pm
+**Sunday, March 8th at 6:00pm
 <br>U.E. Hall
 <br>37 S Ashland Ave, Chicago, Illinois 60607**
 
