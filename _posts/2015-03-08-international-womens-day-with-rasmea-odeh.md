@@ -1,5 +1,9 @@
 ---
 published: true
+date: "March 8, 2015"
+location: "Chicago, IL"
+category: events
+excerpt: "Marking International Women's Day by revisiting the past struggles and victories won, in order to continue to build the struggle for women’s liberation"
 ---
 
 ## Celebrate International Women's Day 2015
