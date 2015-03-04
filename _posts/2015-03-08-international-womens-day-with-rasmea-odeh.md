@@ -9,7 +9,7 @@ excerpt: "Marking International Women's Day by revisiting the past struggles and
 ## [ Celebrate International Women's Day 2015](https://www.facebook.com/events/652756228169625/)
 _Sponsored by Committee to Stop FBI Repression, Freedom Road Socialist Organization, the U.S. Palestinian Community Network, the American Party of Labor, Anakbayan, the Chicago Alliance Against Racist & Political Repression, the Anti-War Committee, and Workers World Party._
 
-**Sunday, March 8th at 6:00pm
+******Sunday, March 8th at 6:00pm
 <br>U.E. Hall
 <br>37 S Ashland Ave, Chicago, Illinois 60607**
 
@@ -19,7 +19,7 @@ March 8, International Women's Day, born of the struggle of working women, of im
 We’ll have as our special guest Rasmea Odeh. Her courage and strength as she faces ongoing persecution by the U.S. Dept. of Justice has made her a symbol of Palestinian women's resistance, and of women in the struggles for national liberation all over the world.
 
 **Other guests include:**
-Mariame Kaba, founder of Project NIA in Chicago. She is a local organizer and educator.
+<br>Mariame Kaba, founder of Project NIA in Chicago. She is a local organizer and educator.
 
 Sarah Chambers, a member of the bargaining committee of the Chicago Teachers Union (CTU) that led the strike in 2012, and co-chair of the Caucus of Rank and File Educators, leaders in CTU.
 
@@ -27,7 +27,7 @@ Kait McIntyre, a leading anti-war activist in Chicago, and a member of Freedom R
 
 Plus cultural offerings from Chicago and Anakbayan, the national democratic organization of Filipino youth in the US.
 
-_We will also have a fund raising appeal for the Rasmea Defense Committee._
+**_We will also have a fund raising appeal for the Rasmea Defense Committee._**
 
 International Women's Day in 2015: the system we live under is waging a war on women. Working class women; African American women and immigrant Latinas dealing with national oppression and racist discrimination; women in the oppressed nations of the world suffering under the wars and occupations of U.S. imperialism: all can take heart on this day. Women’s liberation is part of the bright future, where capitalism is ended and replaced by socialism.
 
