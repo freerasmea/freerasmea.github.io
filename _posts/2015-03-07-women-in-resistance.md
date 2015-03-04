@@ -8,10 +8,9 @@ excerpt: Presentations from powerful women with diverse backgrounds will share t
 
 ## Women in Resistance
 
-![march 7th iwd event.jpg](/_posts/march 7th iwd event.jpg)
-
-**Saturday, March 7th, 6:00–9:00 pm
-<br>1910 S. Ashland**(across from St. Paul Church)
+**Saturday, March 7th, 
+<br>6:00–9:00 pm
+<br>1910 S. Ashland** (across from St. Paul Church)
 
 Presentations from powerful women with diverse backgrounds share their work in solidarity with communities in Latin America and Palestine.
 
