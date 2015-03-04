@@ -6,6 +6,10 @@ published: true
 
 ## Post-Verdict Coverage
 
+- [Community leaders file letters in support of Rasmea Odeh, _Arab American News, Feb. 27, 2015_](http://www.arabamericannews.com/news/news/id_10127/cid_1/Community-leaders-file-more-than-70-letters-in-support-of-Rasmea-Odeh.html)
+
+- [US demands long prison term for Rasmea Odeh, based on Israeli accusations, _Electronic Intifada, Charlotte Silver, Feb. 26, 2015_](http://electronicintifada.net/blogs/charlotte-silver/us-demands-long-prison-term-rasmea-odeh-based-israeli-accusations)
+
 - [New York activists gather in solidarity with Rasmea Odeh, _FightBack! News, Corey Uhl, Feb. 17, 2015_](http://www.fightbacknews.org/2015/2/17/new-york-activists-gather-solidarity-rasmea-odeh)
 
 - [Tampa stands with Rasmea Odeh, _FightBack! News, Feb. 14, 2015_](http://www.fightbacknews.org/2015/2/14/tampa-stands-rasmea-odeh)
