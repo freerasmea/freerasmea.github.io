@@ -1,5 +1,9 @@
 ---
 published: true
+date: "March 8, 2015"
+location: "Washington, D.C."
+category: events
+excerpt: "Join Phyllis Bennis on International Women's Day to honor Palestinian activist Rasmea Odeh and help raise funds for her defense."
 ---
 
 ## [ Justice for Rasmea Odeh Fundraiser](https://www.eventbrite.com/e/justice-for-rasmea-odeh-fundraiser-tickets-15864854206)
