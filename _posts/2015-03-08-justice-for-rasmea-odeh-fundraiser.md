@@ -21,4 +21,4 @@ Though Rasmea has been unjustly convicted, her struggle is far from over as an a
 
 _Snacks and drinks will be served. Palestinian musician Fuad Foty will be performing._
 
-[**Purchase tickets.**](https://www.eventbrite.com/e/justice-for-rasmea-odeh-fundraiser-tickets-15864854206)****
+[**Purchase tickets.**](https://www.eventbrite.com/e/justice-for-rasmea-odeh-fundraiser-tickets-15864854206)
