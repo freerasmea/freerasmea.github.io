@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## [ Justice for Rasmea Odeh Fundraiser](https://www.eventbrite.com/e/justice-for-rasmea-odeh-fundraiser-tickets-15864854206)
