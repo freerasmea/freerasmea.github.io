@@ -20,3 +20,5 @@ On November 10, 2014, Rasmea was found guilty of one count of Unlawful Procureme
 Though Rasmea has been unjustly convicted, her struggle is far from over as an appeals process will begin after sentencing on March 12. Rasmea has made so many contributions to the cause of freedom and now needs your support to help her get justice. 
 
 _Snacks and drinks will be served. Palestinian musician Fuad Foty will be performing._
+
+[**Purchase tickets.**](https://www.eventbrite.com/e/justice-for-rasmea-odeh-fundraiser-tickets-15864854206)
