@@ -1,5 +1,9 @@
 ---
 published: true
+date: "March 11, 2015"
+location: "Dearborn, MI"
+category: events
+excerpt: A fundraiser in celebration of the resilience of Palestinian community leader Rasmea Odeh; all proceeds will go directly towards her legal defense fund.
 ---
 
 ## [ An Evening with Rasmea: Fundraiser in Support of Community Leader and Activist](https://www.facebook.com/events/847952345270970/848797825186422/)
