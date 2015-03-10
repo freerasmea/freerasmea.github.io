@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## [ An Evening with Rasmea: Fundraiser in Support of Community Leader and Activist](https://www.facebook.com/events/847952345270970/848797825186422/)
