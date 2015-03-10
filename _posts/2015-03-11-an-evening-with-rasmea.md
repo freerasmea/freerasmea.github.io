@@ -19,3 +19,5 @@ After 1 month imprisonment, where she spent weeks in solitary confinement withou
 Rasmea's sentencing date is scheduled for this Thursday, March 12 at 10 am, Detroit Federal Courthouse. Please join us coming together and supporting her in her stand against injustice.
 
 _**Suggested $5-10 donation at the door.**_
+
+**If you can't make it, and want to donate to support the appeal, do so [here](http://justice4rasmea.org/donate/)**
