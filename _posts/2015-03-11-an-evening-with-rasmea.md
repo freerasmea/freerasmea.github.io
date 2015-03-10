@@ -8,8 +8,8 @@ excerpt: A fundraiser in celebration of the resilience of Palestinian community 
 
 ## [ An Evening with Rasmea: Fundraiser in Support of Community Leader and Activist](https://www.facebook.com/events/847952345270970/848797825186422/)
 	
-**When: Wednesday, March 11, 7:00pm - 9:00pm EDT
-Where: Arab American National Museum, 13624 Michigan Ave, Dearborn, Michigan 48126**
+**When:** Wednesday, March 11, 7:00pm - 9:00pm EDT
+<br>**Where:** Arab American National Museum, 13624 Michigan Ave, Dearborn, Michigan 48126
 
 
 Join us in welcoming Rasmea Odeh to Detroit on March 11 at the Arab American Museum Annex. We are hosting a fundraiser in celebration of the resilience of Palestinian community leader Rasmea Odeh. All proceeds will go directly towards her legal defense fund. 
