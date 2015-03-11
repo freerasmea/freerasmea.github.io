@@ -8,23 +8,37 @@ excerpt: Letters of Leniency sent to Judge Gershwin Drain
 
 **<a href="{{site.baseurl}}/assets/img/160-main.pdf">Rasmea Odeh's Sentencing Memorandum</a>**
 
-- <a href="{{site.baseurl}}/assets/img/160-5.pdf">Nadia Tonova, Director of National Network for Arab American Communities</a>
+<a href="{{site.baseurl}}/assets/img/160-5.pdf">Nadia Tonova, _Director of National Network for Arab American Communities_</a>
 
-- <a href="{{site.baseurl}}/assets/img/160-6.pdf">Bishop Thomas J. Gumbleton</a>
-- <a href="{{site.baseurl}}/assets/img/160-7.pdf">Samer E. Khalaf, Esq., President of American-Arab Anti-Discrimination Committee</a>
-- <a href="{{site.baseurl}}/assets/img/160-8.pdf">Osama Siblani, Publisher of The Arab American News</a>
-- <a href="{{site.baseurl}}/assets/img/160-9.pdf">Fr. Robert Bossie, Roman Catholic Priest, Priests of Sacred Heart</a>
-- <a href="{{site.baseurl}}/assets/img/160-10.pdf">Louise Cainkar, Ph.D., Associate Professor at Marquette University</a>
-- <a href="{{site.baseurl}}/assets/img/160-11.pdf">Rev. Dr. Donald E. Wagner, National Program Director of Friends of Sabeel—North America</a>
-- <a href="{{site.baseurl}}/assets/img/160-12.pdf">Douglas E. Wingeier, Ph.D., Emeritus Professor at Garrett-Evangelical Theological Seminary</a>
-- <a href="{{site.baseurl}}/assets/img/160-13.pdf">Lisa A. Kosowski, Coordinator at Arab Jewish Partnership for Peace & Justice in the Middle East</a>
-- <a href="{{site.baseurl}}/assets/img/160-14.pdf">Jordan Elgrably, Executive Director of Levantine Cultural Center</a>
-- <a href="{{site.baseurl}}/assets/img/160-15.pdf">Junaid Rana, Associate Professor at Marquette University</a>
-- <a href="{{site.baseurl}}/assets/img/160-16.pdf">Liz Deligio and Chris Eagan, Coordinators at 8th Day Center for Justice</a>
-- <a href="{{site.baseurl}}/assets/img/160-17.pdf">Alie Kabba, Executive Director of United African Organization</a>
-- <a href="{{site.baseurl}}/assets/img/160-18.pdf">Patricia R. Johnson, Canon Missioner at Washington National Cathedral</a>
-- <a href="{{site.baseurl}}/assets/img/160-19.pdf">The Reverend Nancy S. Hildebrand, Associate Rector of St. David's Episcopal Church, The Diocese of Washington</a>
-- <a href="{{site.baseurl}}/assets/img/160-20.pdf">Peter H. S. Sporn, M.D., Professor of Medicine at Northwestern University Feinberg School of Medicine</a>
+<a href="{{site.baseurl}}/assets/img/160-6.pdf">Bishop Thomas J. Gumbleton</a>
+
+<a href="{{site.baseurl}}/assets/img/160-7.pdf">Samer E. Khalaf, Esq., _President of American-Arab Anti-Discrimination Committee_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-8.pdf">Osama Siblani, _Publisher of The Arab American News_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-9.pdf">Fr. Robert Bossie, _Roman Catholic Priest, Priests of Sacred Heart_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-10.pdf">Louise Cainkar, Ph.D., _Associate Professor at Marquette University_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-11.pdf">Rev. Dr. Donald E. Wagner, _National Program Director of Friends of Sabeel—North America_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-12.pdf">Douglas E. Wingeier, Ph.D., _Emeritus Professor at Garrett-Evangelical Theological Seminary_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-13.pdf">Lisa A. Kosowski, _Coordinator at Arab Jewish Partnership for Peace & Justice in the Middle East_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-14.pdf">Jordan Elgrably, _Executive Director of Levantine Cultural Center_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-15.pdf">Junaid Rana, _Associate Professor at Marquette University_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-16.pdf">Liz Deligio and Chris Eagan, _Coordinators at 8th Day Center for Justice_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-17.pdf">Alie Kabba, _Executive Director of United African Organization_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-18.pdf">Patricia R. Johnson, _Canon Missioner at Washington National Cathedral_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-19.pdf">The Reverend Nancy S. Hildebrand, _Associate Rector of St. David's Episcopal Church, The Diocese of Washington_</a>
+
+<a href="{{site.baseurl}}/assets/img/160-20.pdf">Peter H. S. Sporn, M.D., Professor of Medicine at Northwestern University Feinberg School of Medicine</a>
 - <a href="{{site.baseurl}}/assets/img/160-21.pdf">Rev. Michael L. Pfleger, Senior Pastor of the Faith Community of Saint Sabina</a>
 - <a href="{{site.baseurl}}/assets/img/160-22.pdf">Mark Peters, Director of Justice, Peace and Reconciliation, Priests of the Sacred Heart USA</a>
 - <a href="{{site.baseurl}}/assets/img/160-23.pdf">Daryle Brown, Executive Director of Multimedia Communications at Trinity United Church of Christ</a>
