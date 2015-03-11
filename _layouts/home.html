@@ -12,10 +12,8 @@
   $(document).ready(function() {
     function setRandomPhrase() {
         // Set phrases into an array
-        var phrases = new Array(
-            "A Message from Rasmea  <a href="{{site.baseurl}}/posts/2015-03-10-speech-from-rasmea-on-IWD.md" class="button">Read More</a>"
+        var phrases = new Array("A Message from Rasmea  <a href="{{site.baseurl}}/news/2015-03-10-speech-from-rasmea-on-IWD.md" class="button">Read More</a>"
         );
-
         // Selects a random phrase
         var random = Math.floor(Math.random()*phrases.length);
         // Sets the area to use that random phrase
