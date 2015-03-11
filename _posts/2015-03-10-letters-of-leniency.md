@@ -4,12 +4,8 @@ published: false
 
 ## Letters of Leniency:
 
-<a href="{{site.baseurl}}/assets/img/160-main.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-main.pdf">Rasmea Odeh's Sentencing Memorandum</a>
 
-<a href="{{site.baseurl}}/assets/img/160-1.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-2.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-3.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-4.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-5.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-6.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-7.pdf"> </a>
