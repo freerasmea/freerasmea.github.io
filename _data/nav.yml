@@ -15,6 +15,3 @@
   
 - title: "Shop"
   href: "/shop/"
-  
-  - title: "home"
-  href: "{{site.baseurl}}"
