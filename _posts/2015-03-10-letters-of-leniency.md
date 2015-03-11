@@ -20,11 +20,11 @@ published: false
 <a href="{{site.baseurl}}/assets/img/160-15.pdf">Junaid Rana, Associate Professor at Marquette University</a>
 <a href="{{site.baseurl}}/assets/img/160-16.pdf">Liz Deligio and Chris Eagan, Coordinators at 8th Day Center for Justice</a>
 <a href="{{site.baseurl}}/assets/img/160-17.pdf">Alie Kabba, Executive Director of United African Organization</a>
-<a href="{{site.baseurl}}/assets/img/160-18.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-19.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-20.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-21.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-22.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-18.pdf">Patricia R. Johnson, Canon Missioner at Washington National Cathedral</a>
+<a href="{{site.baseurl}}/assets/img/160-19.pdf">The Reverend Nancy S. Hildebrand, Associate Rector of St. David's Episcopal Church, The Diocese of Washington</a>
+<a href="{{site.baseurl}}/assets/img/160-20.pdf">Peter H. S. Sporn, M.D., Professor of Medicine at Northwestern University Feinberg School of Medicine</a>
+<a href="{{site.baseurl}}/assets/img/160-21.pdf">Rev. Michael L. Pfleger, Senior Pastor of the Faith Community of Saint Sabina</a>
+<a href="{{site.baseurl}}/assets/img/160-22.pdf">Mark Peters, Director of Justice, Peace and Reconciliation, Priests of the Sacred Heart USA</a>
 <a href="{{site.baseurl}}/assets/img/160-23.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-24.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-25.pdf"> </a>
