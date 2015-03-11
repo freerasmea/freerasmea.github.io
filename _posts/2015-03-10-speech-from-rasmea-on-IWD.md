@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 **Rasmea Odeh's speech at International Women’s Day fundraising event in Chicago**
