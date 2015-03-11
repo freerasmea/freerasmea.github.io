@@ -1,5 +1,7 @@
 ---
-published: true
+published: false
+category: news
+excerpt: letters of leniency to the Judge
 ---
 
 ## Letters of Leniency:
