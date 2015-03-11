@@ -6,14 +6,14 @@ published: false
 
 <a href="{{site.baseurl}}/assets/img/160-main.pdf">Rasmea Odeh's Sentencing Memorandum</a>
 
-- <a href="{{site.baseurl}}/assets/img/160-5.pdf">Nadia Tonova, National Network for Arab American Communities</a>
+- <a href="{{site.baseurl}}/assets/img/160-5.pdf">Nadia Tonova, Director of National Network for Arab American Communities</a>
 
-- <a href="{{site.baseurl}}/assets/img/160-6.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-7.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-8.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-9.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-10.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-11.pdf"> </a>
+- <a href="{{site.baseurl}}/assets/img/160-6.pdf">Bishop Thomas J. Gumbleton</a>
+- <a href="{{site.baseurl}}/assets/img/160-7.pdf">Samer E. Khalaf, Esq., President of American-Arab Anti-Discrimination Committee</a>
+<a href="{{site.baseurl}}/assets/img/160-8.pdf">Osama Siblani, Publisher of The Arab American News</a>
+<a href="{{site.baseurl}}/assets/img/160-9.pdf">Fr. Robert Bossie, Roman Catholic Priest, Priests of Sacred Heart</a>
+<a href="{{site.baseurl}}/assets/img/160-10.pdf">Louise Cainkar, Ph.D., Associate Professor at Marquette University</a>
+<a href="{{site.baseurl}}/assets/img/160-11.pdf">Rev. Dr. Donald E. Wagner, National Program Director of Friends of Sabeel—North America</a>
 <a href="{{site.baseurl}}/assets/img/160-12.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-13.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-14.pdf"> </a>
