@@ -49,11 +49,11 @@ published: false
 <a href="{{site.baseurl}}/assets/img/160-44.pdf">Lawrence Benito, Executive Director of the Illinois Coalition for Immigrant and Refugee Rights</a>
 <a href="{{site.baseurl}}/assets/img/160-45.pdf">Khalil Meek, Executive Director and Co-founder of Muslim Legal Fund of America</a>
 <a href="{{site.baseurl}}/assets/img/160-46.pdf">Robert Clarke, President of Chicago Committee to Defend the Bill of Rights</a>
-<a href="{{site.baseurl}}/assets/img/160-47.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-48.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-49.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-50.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-51.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-47.pdf">Caren Levy-Van Slyke, Chair of Committee for a Just Peace in Israel and Palestine</a>
+<a href="{{site.baseurl}}/assets/img/160-48.pdf">Imam Jamal Said, Director of Mosque Foundation</a>
+<a href="{{site.baseurl}}/assets/img/160-49.pdf">Standish E. Willis, Attorney at Law</a>
+<a href="{{site.baseurl}}/assets/img/160-50.pdf">Matt Ginsberg-Jaeckle, Co-founder of Southside Together Organizing for Power</a>
+<a href="{{site.baseurl}}/assets/img/160-51.pdf">Sue Udry, Executive Director of Defending Dissent Foundation</a>
 <a href="{{site.baseurl}}/assets/img/160-52.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-53.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-54.pdf"> </a>
