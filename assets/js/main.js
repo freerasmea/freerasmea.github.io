@@ -34,29 +34,6 @@ $(document).ready(function() {
 
 });
 
-  // hero text
-$(".head .hero-copy").ready(function() {
-    function setRandomPhrase() {
-        // Set phrases into an array
-        var phrases = new Array(
-            "A Message from Rasmea <a href="{{site.baseurl}}/news/2015/03/10/a-speech-from-rasmea-on-International-Women's-Day/" class="button">Read More</a>"
-        );
-}
-        // Selects a random phrase
-        var random = Math.floor(Math.random()*phrases.length);
-        // Sets the area to use that random phrase
-        $("#phrase").text(phrases[random]);
-    }
-    // Fire the function every 5 seconds...
-    setInterval(setRandomPhrase,5000);
-    
-    var random = Math.floor(Math.random()*phrases.length);
-
-$("#phrase").fadeOut("slow",function(){
-    $("#phrase").text(phrases[random]).fadeIn("slow");
-});
-});
-
 
 // Scroll to anchor links
 (function (jQuery) {
