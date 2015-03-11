@@ -4,7 +4,7 @@ category: news
 excerpt: Letters of Leniency sent to Judge Gershwin Drain
 ---
 
-## Letters of Leniency to Judge Gershwin Drain
+## Letters of Leniency Sent to Judge Gershwin Drain
 
 **<a href="{{site.baseurl}}/assets/img/160-main.pdf">Rasmea Odeh's Sentencing Memorandum</a>**
 
