@@ -25,8 +25,8 @@ published: false
 <a href="{{site.baseurl}}/assets/img/160-20.pdf">Peter H. S. Sporn, M.D., Professor of Medicine at Northwestern University Feinberg School of Medicine</a>
 <a href="{{site.baseurl}}/assets/img/160-21.pdf">Rev. Michael L. Pfleger, Senior Pastor of the Faith Community of Saint Sabina</a>
 <a href="{{site.baseurl}}/assets/img/160-22.pdf">Mark Peters, Director of Justice, Peace and Reconciliation, Priests of the Sacred Heart USA</a>
-<a href="{{site.baseurl}}/assets/img/160-23.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-24.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-23.pdf">Daryle Brown, Executive Director of Multimedia Communications at Trinity United Church of Christ</a>
+<a href="{{site.baseurl}}/assets/img/160-24.pdf">Dale Asis, Former Executive Director of the Coalition of African, Arab, Asian, European and Latino Immigrants of Illinois</a>
 <a href="{{site.baseurl}}/assets/img/160-25.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-26.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-27.pdf"> </a>
