@@ -9,21 +9,17 @@
         <h1>All out to support Rasmea in Detroit on March 12th!</h1>
         <p>Fill the federal courthouse during her sentencing!</h1>
         <a href="{{site.baseurl}}/news/2015/02/27/all-out-for-detroit-to-support-rasmea" class="button">Register Here</a>
-      </div>
-</div>
-$(document).ready(function() {
+        $(document).ready(function() {
     function setRandomPhrase() {
-        // Set phrases into an array
         var phrases = new Array("A Message from Rasmea  <a href="{{site.baseurl}}/news/2015-03-10-speech-from-rasmea-on-IWD.md" class="button">Read More</a>"
         );
-        // Selects a random phrase
         var random = Math.floor(Math.random()*phrases.length);
-        // Sets the area to use that random phrase
         $("#phrase").text(phrases[random]);
     }
-    // Fire the function every 5 seconds...
     setInterval(setRandomPhrase,5000);
 });
+      </div>
+</div>
   </div>
   <div id="main">
     <div class="content">
