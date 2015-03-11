@@ -54,8 +54,8 @@ published: false
 - <a href="{{site.baseurl}}/assets/img/160-49.pdf">Standish E. Willis, Attorney at Law</a>
 - <a href="{{site.baseurl}}/assets/img/160-50.pdf">Matt Ginsberg-Jaeckle, Co-founder of Southside Together Organizing for Power</a>
 - <a href="{{site.baseurl}}/assets/img/160-51.pdf">Sue Udry, Executive Director of Defending Dissent Foundation</a>
-- <a href="{{site.baseurl}}/assets/img/160-52.pdf"> </a>
-- <a href="{{site.baseurl}}/assets/img/160-53.pdf"> </a>
+- <a href="{{site.baseurl}}/assets/img/160-52.pdf">Wayne Wittman, Area Vice President of the Minnesota AFL-CIO Retirees Council</a>
+- <a href="{{site.baseurl}}/assets/img/160-53.pdf">Fahd Ahmed, Acting Director of Desis Rising Up & Moving</a>
 - <a href="{{site.baseurl}}/assets/img/160-54.pdf"> </a>
 - <a href="{{site.baseurl}}/assets/img/160-55.pdf"> </a>
 - <a href="{{site.baseurl}}/assets/img/160-56.pdf"> </a>
