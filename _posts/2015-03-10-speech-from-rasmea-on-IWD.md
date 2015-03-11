@@ -1,5 +1,7 @@
 ---
 published: true
+category: news
+excerpt: "A message from Rasmea on International Women's Day in Chicago"
 ---
 
 **Rasmea Odeh's speech at International Women’s Day fundraising event in Chicago**
