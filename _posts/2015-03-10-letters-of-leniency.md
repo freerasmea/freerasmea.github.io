@@ -6,7 +6,7 @@ excerpt: Letters of Leniency sent to Judge Gershwin Drain
 
 ## Letters of Leniency Sent to Judge Gershwin Drain
 
-**<a href="{{site.baseurl}}/assets/img/160-main.pdf">Rasmea Odeh's Sentencing Memorandum</a>**
+**View the <a href="{{site.baseurl}}/assets/img/160-main.pdf">Sentencing Memorandum</a>**
 
 <a href="{{site.baseurl}}/assets/img/160-5.pdf">Nadia Tonova, _Director of National Network for Arab American Communities_</a>
 
