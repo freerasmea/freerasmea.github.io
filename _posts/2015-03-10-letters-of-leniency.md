@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Letters of Leniency:
@@ -69,16 +69,14 @@ published: false
 - <a href="{{site.baseurl}}/assets/img/160-64.pdf">Labor Union presidents and representatives</a>
 - <a href="{{site.baseurl}}/assets/img/160-65.pdf">Toussaint Losier, Ph.D.</a>
 - <a href="{{site.baseurl}}/assets/img/160-66.pdf">The Palestine Youth Movement</a>
-- <a href="{{site.baseurl}}/assets/img/160-67.pdf">Jigna Desai, Ph.D.</a>
-- <a href="{{site.baseurl}}/assets/img/160-68.pdf">Dept. Chair and Professor at University of Minnesota</a>
-- <a href="{{site.baseurl}}/assets/img/160-69.pdf">Jane Ramsey, Former Executive Director of the Jewish Council on Urban Affairs and President of Just Ventures LLC</a>
-- <a href="{{site.baseurl}}/assets/img/160-71.pdf">Hedy Epstein, Holocaust survivor</a>
-- <a href="{{site.baseurl}}/assets/img/160-72.pdf">Melinda Power, Attorney at Law</a>
-- <a href="{{site.baseurl}}/assets/img/160-73.pdf">Khalid Meshal, Osama Meshal, and Mohammad Mashal</a>
-- <a href="{{site.baseurl}}/assets/img/160-74.pdf">Mariam Obaid, Member of Arab Women's Committee</a>
-- <a href="{{site.baseurl}}/assets/img/160-75.pdf">Maysoon Gharbieh</a>
-- <a href="{{site.baseurl}}/assets/img/160-76.pdf">Halima Al-Rashdeh, Arab Women's Committee</a>
-- <a href="{{site.baseurl}}/assets/img/160-77.pdf"> </a>
-- <a href="{{site.baseurl}}/assets/img/160-78.pdf"> </a>
-- <a href="{{site.baseurl}}/assets/img/160-79.pdf"> </a>
-- <a href="{{site.baseurl}}/assets/img/160-80.pdf"> </a>
+- <a href="{{site.baseurl}}/assets/img/160-67.pdf">Jigna Desai, Ph.D.,
+Dept. Chair and Professor at University of Minnesota</a>
+- <a href="{{site.baseurl}}/assets/img/160-68.pdf">Jane Ramsey, Former Executive Director of the Jewish Council on Urban Affairs and President of Just Ventures LLC</a>
+- <a href="{{site.baseurl}}/assets/img/160-69.pdf">Hedy Epstein, Holocaust survivor</a>
+- <a href="{{site.baseurl}}/assets/img/160-70.pdf">Melinda Power, Attorney at Law</a>
+- <a href="{{site.baseurl}}/assets/img/160-71.pdf">Khalid Meshal, Osama Meshal, and Mohammad Mashal</a>
+- <a href="{{site.baseurl}}/assets/img/160-72.pdf">Mariam Obaid, Member of Arab Women's Committee</a>
+- <a href="{{site.baseurl}}/assets/img/160-73.pdf">Maysoon Gharbieh</a>
+- <a href="{{site.baseurl}}/assets/img/160-74.pdf">Halima Al-Rashdeh, Arab Women's Committee</a>
+- <a href="{{site.baseurl}}/assets/img/160-75.pdf">Beth E. Richie, Ph.D., Professor and Author</a>
+- <a href="{{site.baseurl}}/assets/img/160-76.pdf">John F. Royal, President of Detroit/Michigan Chapter of National Lawyers Guild</a>
