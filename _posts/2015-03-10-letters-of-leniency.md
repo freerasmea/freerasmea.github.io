@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 category: news
 excerpt: letters of leniency to the Judge
 ---
