@@ -1,5 +1,5 @@
 - title: "Home"
-  href: "site.baseurl"
+  href: "/index/"
   
 - title: "About the Case"
   href: "/about/"
