@@ -14,11 +14,11 @@ published: false
 <a href="{{site.baseurl}}/assets/img/160-9.pdf">Fr. Robert Bossie, Roman Catholic Priest, Priests of Sacred Heart</a>
 <a href="{{site.baseurl}}/assets/img/160-10.pdf">Louise Cainkar, Ph.D., Associate Professor at Marquette University</a>
 <a href="{{site.baseurl}}/assets/img/160-11.pdf">Rev. Dr. Donald E. Wagner, National Program Director of Friends of Sabeel—North America</a>
-<a href="{{site.baseurl}}/assets/img/160-12.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-13.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-14.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-15.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-16.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-12.pdf">Douglas E. Wingeier, Ph.D., Emeritus Professor at Garrett-Evangelical Theological Seminary</a>
+<a href="{{site.baseurl}}/assets/img/160-13.pdf">Lisa A. Kosowski, Coordinator at Arab Jewish Partnership for Peace & Justice in the Middle East</a>
+<a href="{{site.baseurl}}/assets/img/160-14.pdf">Jordan Elgrably, Executive Director of Levantine Cultural Center</a>
+<a href="{{site.baseurl}}/assets/img/160-15.pdf">Junaid Rana, Associate Professor at Marquette University</a>
+<a href="{{site.baseurl}}/assets/img/160-16.pdf">Louise Cainkar, Ph.D., Associate Professor at University of Illinois at Urbana-Champaign</a>
 <a href="{{site.baseurl}}/assets/img/160-17.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-18.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-19.pdf"> </a>
