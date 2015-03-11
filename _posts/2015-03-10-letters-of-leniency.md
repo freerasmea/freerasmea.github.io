@@ -4,6 +4,8 @@ published: false
 
 ## Letters of Leniency:
 
+<a href="{{site.baseurl}}/assets/img/160-main.pdf"> </a>
+
 <a href="{{site.baseurl}}/assets/img/160-1.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-2.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-3.pdf"> </a>
@@ -44,4 +46,42 @@ published: false
 <a href="{{site.baseurl}}/assets/img/160-38.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-39.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-40.pdf"> </a>
-
+<a href="{{site.baseurl}}/assets/img/160-41.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-42.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-43.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-44.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-45.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-46.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-47.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-48.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-49.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-50.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-51.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-52.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-53.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-54.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-55.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-56.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-57.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-58.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-59.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-60.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-61.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-62.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-63.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-64.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-65.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-66.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-67.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-68.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-69.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-71.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-72.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-73.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-74.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-75.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-76.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-77.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-78.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-79.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-80.pdf"> </a>
