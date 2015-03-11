@@ -35,13 +35,13 @@ $(document).ready(function() {
 });
 
   // hero text
-$(document).ready(function() {
+$(".head .hero-copy").ready(function() {
     function setRandomPhrase() {
         // Set phrases into an array
         var phrases = new Array(
-            "A Message from Rasmea <a href="{{site.baseurl}}news/2015/03/10/a-speech-from-rasmea-on-International-Women's-Day/" class="button">Read More</a>"
+            "A Message from Rasmea <a href="{{site.baseurl}}/news/2015/03/10/a-speech-from-rasmea-on-International-Women's-Day/" class="button">Read More</a>"
         );
-
+}
         // Selects a random phrase
         var random = Math.floor(Math.random()*phrases.length);
         // Sets the area to use that random phrase
