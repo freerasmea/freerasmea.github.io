@@ -39,11 +39,11 @@ published: false
 <a href="{{site.baseurl}}/assets/img/160-34.pdf">Richard Feldman, Board Member of James and Grace Lee Boggs Center to Nurture Community Leadership</a>
 <a href="{{site.baseurl}}/assets/img/160-35.pdf">Abder Ghouleh, Board Member of Arab-American Anti-Discrimination Committee, Chicago</a>
 <a href="{{site.baseurl}}/assets/img/160-36.pdf">Loren D. Lybarger, Associate Professor at University of Chicago</a>
-<a href="{{site.baseurl}}/assets/img/160-37.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-38.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-39.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-40.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-41.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-37.pdf">Lina Baroudi, Attorney at Law</a>
+<a href="{{site.baseurl}}/assets/img/160-38.pdf">Kalimah Johnson, LMSW, ACSW, LCSW, Founder and Executive Director of SASHA Center, INC.</a>
+<a href="{{site.baseurl}}/assets/img/160-39.pdf">Bro. Brian McLauchlin, SVD, </a>
+<a href="{{site.baseurl}}/assets/img/160-40.pdf">Rebeccah A. Sanders, Former Executive Director of the Chicago Cultural Alliance</a>
+<a href="{{site.baseurl}}/assets/img/160-41.pdf">Naomi Wallace, Playwright</a>
 <a href="{{site.baseurl}}/assets/img/160-42.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-43.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-44.pdf"> </a>
