@@ -44,11 +44,11 @@ published: false
 <a href="{{site.baseurl}}/assets/img/160-39.pdf">Bro. Brian McLauchlin, SVD, </a>
 <a href="{{site.baseurl}}/assets/img/160-40.pdf">Rebeccah A. Sanders, Former Executive Director of the Chicago Cultural Alliance</a>
 <a href="{{site.baseurl}}/assets/img/160-41.pdf">Naomi Wallace, Playwright</a>
-<a href="{{site.baseurl}}/assets/img/160-42.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-43.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-44.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-45.pdf"> </a>
-<a href="{{site.baseurl}}/assets/img/160-46.pdf"> </a>
+<a href="{{site.baseurl}}/assets/img/160-42.pdf">Nida Sahouri, Chairwoman of American Muslims for Palestine—Chicago</a>
+<a href="{{site.baseurl}}/assets/img/160-43.pdf">Sara Kershnar, Founder of Generation Five</a>
+<a href="{{site.baseurl}}/assets/img/160-44.pdf">Lawrence Benito, Executive Director of the Illinois Coalition for Immigrant and Refugee Rights</a>
+<a href="{{site.baseurl}}/assets/img/160-45.pdf">Khalil Meek, Executive Director and Co-founder of Muslim Legal Fund of America</a>
+<a href="{{site.baseurl}}/assets/img/160-46.pdf">Robert Clarke, President of Chicago Committee to Defend the Bill of Rights</a>
 <a href="{{site.baseurl}}/assets/img/160-47.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-48.pdf"> </a>
 <a href="{{site.baseurl}}/assets/img/160-49.pdf"> </a>
