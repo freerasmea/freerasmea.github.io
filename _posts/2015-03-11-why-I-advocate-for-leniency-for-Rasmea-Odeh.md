@@ -20,6 +20,5 @@ Rasmea Odeh is a 67-year-old woman who is a survivor of torture. She should not 
 
 
 Louise Cainkar, Ph.D.
-Associate Professor of Sociology and Social Welfare and Justice
-Marquette University
-Louise.Cainkar@mu.edu
+<br>Associate Professor of Sociology and Social Welfare and Justice
+<br>Marquette University
