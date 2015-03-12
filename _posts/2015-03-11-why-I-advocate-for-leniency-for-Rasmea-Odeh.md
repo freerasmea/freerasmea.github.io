@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Why I advocate for leniency for Rasmea Odeh
