@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Why Rasmea’s Case Matters
