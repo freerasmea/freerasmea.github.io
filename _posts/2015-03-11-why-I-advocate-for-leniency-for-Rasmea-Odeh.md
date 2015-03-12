@@ -1,5 +1,7 @@
 ---
 published: true
+category: news
+excerpt: "Op-ed by Louise Cainkar, Ph.D., Associate Professor of Sociology and Social Welfare and Justice at Marquette University"
 ---
 
 ## Why I advocate for leniency for Rasmea Odeh
