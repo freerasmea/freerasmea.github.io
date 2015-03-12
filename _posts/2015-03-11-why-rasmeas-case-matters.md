@@ -1,5 +1,7 @@
 ---
 published: true
+category: news
+excerpt: "Op-ed by by S. Mandisa Moore-O'Neal of The Women's Health And Justice Initiative"
 ---
 
 ## Why Rasmea’s Case Matters
