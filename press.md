@@ -6,7 +6,7 @@ published: true
 
 ## Post-Verdict Coverage
 
-- [Rasmea Odeh should be honored, not imprisoned, _Arab American News,  Ramah Kudaimi, Mar. 11, 2015_](http://www.arabamericannews.com/news/news/id_10127/cid_1/Community-leaders-file-more-than-70-letters-in-support-of-Rasmea-Odeh.html)
+- [Rasmea Odeh should be honored, not imprisoned, _Arab American News,  Ramah Kudaimi, Mar. 11, 2015_](http://www.arabamericannews.com/news/news/id_10173/Rasmea-Odeh-should-be-honored,-not-imprisoned.html)
 
 - [#JUSTICE4RASMEA, _Emergence Media, Mar. 10, 2015_](http://emergencemedia.org/blogs/news/17727788-justice4rasmea)
 
