@@ -5,6 +5,7 @@ published: true
 ---
 
 ## Post-Verdict Coverage
+- [In support of a just sentence for Rasmea Odeh, _Mondoweiss,  Rabbi Brant Rosen, Mar. 11, 2015_](http://mondoweiss.net/2015/03/support-sentence-rasmea)
 
 - [Rasmea Odeh should be honored, not imprisoned, _Arab American News,  Ramah Kudaimi, Mar. 11, 2015_](http://www.arabamericannews.com/news/news/id_10173/Rasmea-Odeh-should-be-honored,-not-imprisoned.html)
 
