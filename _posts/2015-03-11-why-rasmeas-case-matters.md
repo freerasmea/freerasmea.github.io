@@ -17,6 +17,6 @@ Rasmea Odeh’s sentencing has not received the national exposure it deserves, y
 It matters because if Rasmea is deported, the US justice system will be sending an ominous message to thousands of organizers and advocates across the United States who are working to end sexual assault, and to ensure that survivors receive the care and support they need to live a full and healthy life without fear of further attacks against them. And it matters because no person should be jailed for a confession obtained after weeks of physical, psychological, and sexual torture, nor should any person be punished decades later for the after effects of sexual violence, that is, the PTSD that prevented Rasmea from adequately answering admittedly confusing questions related to her former imprisonment.
 
 S. Mandisa Moore-O'Neal, Esq.
-The Women's Health And Justice Initiative
-1824 Oretha Castle Haley Blvd, Apartment 404
-New Orleans, Louisiana 70113
+<br>The Women's Health And Justice Initiative
+<br>1824 Oretha Castle Haley Blvd, Apartment 404
+<br>New Orleans, Louisiana 70113
