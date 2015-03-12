@@ -1,3 +1,9 @@
+---
+published: false
+categpry: news
+excerpt: "Op-ed by Ramah Kudaimi of the U.S. Campaign to End the Israeli Occupation and board member of the Washington Peace Center"
+---
+
 ## Rasmea Odeh should be honored, not imprisoned
 
 I remember distinctly the experience that pushed me to decide I wanted to dedicate my life to making the world a better place. In 2009, I spent the year working at the Arab American Action Network in Chicago and had the opportunity to interact with so many amazing individuals who were committed to working for positive social change. 
