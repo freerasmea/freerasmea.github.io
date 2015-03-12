@@ -6,7 +6,9 @@ published: true
 
 ## Post-Verdict Coverage
 
-- [Community leaders file letters in support of Rasmea Odeh, _Arab American News, Feb. 27, 2015_](http://www.arabamericannews.com/news/news/id_10127/cid_1/Community-leaders-file-more-than-70-letters-in-support-of-Rasmea-Odeh.html)
+- [Rasmea Odeh should be honored, not imprisoned, _Arab American News,  Ramah Kudaimi, Mar. 11, 2015_](http://www.arabamericannews.com/news/news/id_10127/cid_1/Community-leaders-file-more-than-70-letters-in-support-of-Rasmea-Odeh.html)
+
+- [#JUSTICE4RASMEA, _Emergence Media, Mar. 10, 2015_](http://www.arabamericannews.com/news/news/id_10127/cid_1/Community-leaders-file-more-than-70-letters-in-support-of-Rasmea-Odeh.html)
 
 - [US demands long prison term for Rasmea Odeh, based on Israeli accusations, _Electronic Intifada, Charlotte Silver, Feb. 26, 2015_](http://electronicintifada.net/blogs/charlotte-silver/us-demands-long-prison-term-rasmea-odeh-based-israeli-accusations)
 
