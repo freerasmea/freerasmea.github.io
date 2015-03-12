@@ -126,7 +126,7 @@ excerpt: Letters of Leniency sent to Judge Gershwin Drain
 
 <a href="{{site.baseurl}}/assets/img/160-63.pdf">National Students for Justice in Palestine Steering Committee</a>
 
-<a href="{{site.baseurl}}/assets/img/160-64.pdf">Labor Union presidents and representatives</a>
+<a href="{{site.baseurl}}/assets/img/160-64.pdf">Cherrene Horazuk and other Labor Union presidents and representatives</a>
 
 <a href="{{site.baseurl}}/assets/img/160-65.pdf">Toussaint Losier, Ph.D.</a>
 
