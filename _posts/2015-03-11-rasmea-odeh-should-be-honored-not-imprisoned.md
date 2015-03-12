@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categpry: news
 excerpt: "Op-ed by Ramah Kudaimi of the U.S. Campaign to End the Israeli Occupation and board member of the Washington Peace Center"
 ---
