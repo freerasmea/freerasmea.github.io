@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+category: news
+excerpt: "Op-ed by Jess Ghannam on Rasmea's case and why we must stand with her"
 ---
 
 ## We Must Stand With Rasmea
