@@ -1,5 +1,7 @@
 ---
 published: true
+category: news
+excerpt: "Over the objections of a prosecution team that called for 5-7 years in federal prison, a harsh sentence with terrorism enhancements, Judge Gershwin sentenced Rasmea Odeh to 18 months for Unlawful Procurement of Naturalization, of which she was convicted last November. After the sentencing, Rasmea was released on bond, as she sets out to appeal her conviction."
 ---
 
 ## Rasmea sentenced to 18 months, but is coming home!
