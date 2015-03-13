@@ -1,7 +1,5 @@
 ---
 published: true
-category: news
-excerpt: "Today, Rasmea Odeh, Chicago’s 67-year-old Palestinian community leader, will speak directly to Judge Gershwin Drain in a Detroit federal court, to describe her extraordinary life story and explain why he should not sentence her to imprisonment."
 ---
 
 **Rasmea Defense Committee**
@@ -10,8 +8,8 @@ excerpt: "Today, Rasmea Odeh, Chicago’s 67-year-old Palestinian community lead
 773.301.4108, hatem85@yahoo.com
  
 ## Rasmea Odeh to speak at her sentencing March 12
-200 supporters to join her in Detroit courthouse
- 
+_**200 supporters to join her in Detroit courthouse**_
+
 Support rally Thursday, March 12th, at 10 AM Eastern, at 231 W. Lafayette Blvd., Detroit, Michigan.  Sentencing hearing begins at 11 AM Eastern.
  
 Today, Rasmea Odeh, Chicago’s 67-year-old Palestinian community leader, will speak directly to Judge Gershwin Drain in a Detroit federal court, to describe her extraordinary life story and explain why he should not sentence her to imprisonment following her conviction in November 2014 on a single charge of Unlawful Procurement of Naturalization. 
