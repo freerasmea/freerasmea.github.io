@@ -4,8 +4,6 @@ category: news
 excerpt: "On March 12, 2015, Rasmea Odeh was sentenced to 18 months in prison after an unjust conviction last November, but she is challenging that conviction, and our organizing has helped her remain free on bond, pending the outcome of her appeal. Help spread her story and highlight her case in the 4 to 8 months before the appeal."
 ---
 
-## Media Action Alert for Rasmea!
-
 On March 12, 2015, Palestinian American community organizer and women's leader Rasmea Odeh was sentenced to 18 months in prison after an unjust conviction last November, but she is challenging that conviction, and our organizing has helped her remain free on bond, pending the outcome of her appeal. She is back home to her community in Chicago, and back to her work with the Arab Women's Committee.  
 
 But we still have much more to do. Watching Rasmea walk out of that courtroom should serve as motivation for us to work even harder to spread her story and highlight her case in the 4 to 8 months before the appeal.
