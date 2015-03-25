@@ -4,6 +4,14 @@ permalink: /press/
 published: true
 ---
 
+## Post-Hearing Coverage
+
+- [Supporters mobilize on eve of Rasmea Odeh’s sentencing, _Electronic Intifada,  Ali Abunimah, Mar. 11, 2015_](http://electronicintifada.net/blogs/ali-abunimah/supporters-mobilize-eve-rasmea-odehs-sentencing)
+ 
+- [Supporters rally for Arab activist in immigration case, _The Detroit News,  Mark Hicks, Mar. 11, 2015_](http://www.detroitnews.com/story/news/local/wayne-county/2015/03/11/supporters-rally-arab-activist-immigration-case/70181008/)
+ 
+- [In support of a just sentence for Rasmea Odeh, _Mondoweiss,  Rabbi Brant Rosen, Mar. 11, 2015_](http://mondoweiss.net/2015/03/support-sentence-rasmea)
+
 ## Post-Verdict Coverage
 
 - [Supporters mobilize on eve of Rasmea Odeh’s sentencing, _Electronic Intifada,  Ali Abunimah, Mar. 11, 2015_](http://electronicintifada.net/blogs/ali-abunimah/supporters-mobilize-eve-rasmea-odehs-sentencing)
