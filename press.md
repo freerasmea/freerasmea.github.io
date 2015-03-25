@@ -6,11 +6,11 @@ published: true
 
 ## Post-Hearing Coverage
 
-- [Supporters mobilize on eve of Rasmea Odeh’s sentencing, _Electronic Intifada,  Ali Abunimah, Mar. 11, 2015_](http://electronicintifada.net/blogs/ali-abunimah/supporters-mobilize-eve-rasmea-odehs-sentencing)
+- [Odeh sentenced to 18 months, remains free pending appeal, _Arab American News,  Ali Harb, Mar. 12, 2015_](http://www.arabamericannews.com/news/news/id_10174/Odeh-sentenced-to-18-months,-remains-free-pending-appeal.html)
  
-- [Supporters rally for Arab activist in immigration case, _The Detroit News,  Mark Hicks, Mar. 11, 2015_](http://www.detroitnews.com/story/news/local/wayne-county/2015/03/11/supporters-rally-arab-activist-immigration-case/70181008/)
+- [BFP Exclusive— PTSD, Community, and Character: Notes on the Trial of Rasmea Odeh, _Boiling Frogs Post,  Mark Mondalek, Mar. 12, 2015_](http://www.boilingfrogspost.com/2015/03/12/bfp-exclusive-ptsd-community-and-character-notes-on-the-trial-of-rasmea-odeh/)
  
-- [In support of a just sentence for Rasmea Odeh, _Mondoweiss,  Rabbi Brant Rosen, Mar. 11, 2015_](http://mondoweiss.net/2015/03/support-sentence-rasmea)
+- [Arab Community Leader Rasmea Odeh: Sentence Impacted by Broad Support, _The Chicago Monitor,  Bill Chambers, Mar. 12, 2015_](http://chicagomonitor.com/2015/03/arab-community-leader-rasmea-odeh-sentence-impacted-by-broad-support/)
 
 ## Post-Verdict Coverage
 
