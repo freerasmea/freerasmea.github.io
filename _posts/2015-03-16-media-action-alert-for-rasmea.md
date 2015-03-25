@@ -14,7 +14,7 @@ The sentencing hearing last Thursday inspired significant media attention and ar
 **ACTION (2):**
 We are also asking supporters to respond directly to any negative press you identify by also flooding the comments sections, this time with critiques and corrections, and by writing letters to the editor. 
 
-The specific target of this action alert is a particularly damaging article by the Chicago Tribune:
+The **specific target of this action** alert is a particularly damaging article by the Chicago Tribune:
 
 http://www.chicagotribune.com/news/local/breaking/ct-terrorist-bombing-sentencing-met-20150312-story.html
 
@@ -22,7 +22,7 @@ Letters of 400 words or less can be submitted by email to [ctc-tribletter@tribun
 
 The letters to the editor page is one of the most highly read sections of a newspaper. Even if your submission is not published, we need editors to receive a large number of letters expressing disapproval of their coverage of Rasmea and her case to influence their future stories.
 
-Talking Points for drafting letters:
+**Talking Points for drafting letters:**
 
 1- The article lacks journalistic objectivity. It reinforces the “terrorism” narrative constructed by the prosecution to fuel racist hysteria against Rasmea, while excluding her testimony and perspective.
 
@@ -30,7 +30,7 @@ Talking Points for drafting letters:
 
 3- The article gives weight to a video presented by the prosecution, despite the judge having said it was not relevant to his decision. This is a form of misinformation and sensationalism expected from tabloid media, not a major news outlet.
 
-Sample Letter:
+**Sample Letter:**
 
 To the Editor,
 
@@ -41,7 +41,7 @@ Sincerely,
 [Name]
 [City, State]
 
-Media Coverage of Sentencing Hearing
+**Media Coverage of Sentencing Hearing**
 
 http://www.arabamericannews.com/news/news/id_10174/Odeh-sentenced-to-18-months,-remains-free-pending-appeal.html
 
@@ -75,10 +75,9 @@ http://hosted2.ap.org/FLJAJ/47fc20af259a4738b446eeb3e972ec98/Article_2015-03-12-
 
 http://truth-out.org/news/item/29658-us-judge-sentences-us-citizen-based-on-israeli-military-documents
 
-Much more archived here and here.
+Much more archived [here](http://justice4rasmea.org/press/) and [here](http://www.stopfbi.net/about/press-coverage).
 
-ADDITIONAL CALLS TO ACTION
-
+**ADDITIONAL CALLS TO ACTION**
 - Please do not forget the importance of planning events, fundraisers and rallies in support of Rasmea as she moves through the appeal process! Send your plans to jess.sundin@gmail.com so we can post your event on justice4rasmea.org and share with others.
 
 - Remember that supporters can directly donate to Rasmea's defense campaign at justice4rasmea.org/donate.
