@@ -1,5 +1,7 @@
 ---
 published: true
+category: news
+excerpt: "On March 12, 2015, Rasmea Odeh was sentenced to 18 months in prison after an unjust conviction last November, but she is challenging that conviction, and our organizing has helped her remain free on bond, pending the outcome of her appeal. Help spread her story and highlight her case in the 4 to 8 months before the appeal."
 ---
 
 ## Media Action Alert for Rasmea!
