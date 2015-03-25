@@ -6,11 +6,14 @@ published: true
 
 <img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
 
-### [All out for Detroit to support Rasmea at her sentencing Thursday, March 12!](http://justice4rasmea.org/news/2015/02/27/all-out-for-detroit-to-support-rasmea/)
-We are committed to filling the courtroom, and an overflow room, on Rasmea’s sentencing day on March 12th. We will also organize a picket in front of the courthouse one hour before the hearing. **[Register here](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform)**.
+### [Media Action Alert for Rasmea!](http://justice4rasmea.org/news/2015/03/16/media-action-alert-for-rasmea/)
+On March 12, 2015, Rasmea Odeh was sentenced to 18 months in prison after an unjust conviction last November, but she is challenging that conviction, and our organizing has helped her remain free on bond, pending the outcome of her appeal. Help spread her story and highlight her case in the 4 to 8 months before the appeal.
 
 
 _____
+
+### [All out for Detroit to support Rasmea at her sentencing Thursday, March 12!](http://justice4rasmea.org/news/2015/02/27/all-out-for-detroit-to-support-rasmea/)
+We are committed to filling the courtroom, and an overflow room, on Rasmea’s sentencing day on March 12th. We will also organize a picket in front of the courthouse one hour before the hearing. **[Register here](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform)**.
 
 
 ### [Call for letters of Leniency to the Judge](http://uspcn.org/2015/01/14/rasmeas-sentencing-march-12-need-letters-for-leniency/)
