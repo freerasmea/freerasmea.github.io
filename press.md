@@ -6,6 +6,14 @@ published: true
 
 ## Post-Hearing Coverage
 
+- [US Judge Sentences US Citizen Based on Israeli Military Documents, _Truthout,  Dahr Jamail, Mar. 16, 2015_](http://truth-out.org/news/item/29658-us-judge-sentences-us-citizen-based-on-israeli-military-documents)
+
+- [Rasmea Odeh Continues Uphill Battle, Stares Down Injustice, _Palestine in America, Nader Ihmoud, Mar. 15, 2015_](http://palestineinamerica.com/2015/03/rasmea-odeh-continues-uphill-battle-stares-down-injustice/)
+
+- [VIDEO: Rasmea Odeh supporters hail lenient sentence as ‘victory’, _Middle East Eye, Graham Liddell, Mar. 13, 2015_](http://www.middleeasteye.net/news/video-rasmea-odeh-supporters-hail-lenient-sentence-victory-1066183550#_blank)
+
+- [Immigration Activist Rasmea Odeh Sentenced to 18 Months, _The Real News,  Charlotte Silver, Mar. 13, 2015_](http://therealnews.com/t2/index.php?option=com_content&task=view&id=31&Itemid=74&jumival=13427)
+
 - [Arab Community Leader Rasmea Odeh: Sentence Impacted by Broad Support, _The Chicago Monitor,  Bill Chambers, Mar. 13, 2015_](http://chicagomonitor.com/2015/03/arab-community-leader-rasmea-odeh-sentence-impacted-by-broad-support/)
 
 - [Odeh sentenced to 18 months, remains free pending appeal, _Arab American News,  Ali Harb, Mar. 12, 2015_](http://www.arabamericannews.com/news/news/id_10174/Odeh-sentenced-to-18-months,-remains-free-pending-appeal.html)
@@ -22,7 +30,7 @@ published: true
 
 - [Victory as Rasmea Odeh goes home after sentencing, _FightBack! News,  Tom Burke, Mar. 12, 2015_](http://www.fightbacknews.org/2015/3/12/victory-rasmea-odeh-goes-home-after-sentencing)
  
-- [Activist Rasmieh Odeh sentenced for immigration lies, _Detroit Free Press,  Niraj Warikoo, Mar. 12, 2015_](http://www.freep.com/story/news/local/michigan/wayne/2015/03/12/ramieh-odeh-sentencing/70198650/)
+- [Chicago activist gets prison for immigration crime, _Jacksonville, ED WHITE, Mar. 12, 2015_](http://hosted2.ap.org/FLJAJ/47fc20af259a4738b446eeb3e972ec98/Article_2015-03-12-US--Immigration-Israel%20Bombings/id-d708f5a39188439d887e9e272a2537b3)
 
 
 ## Post-Verdict Coverage
