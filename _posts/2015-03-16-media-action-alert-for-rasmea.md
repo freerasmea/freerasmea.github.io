@@ -43,41 +43,42 @@ Sincerely,
 
 **Media Coverage of Sentencing Hearing**
 
-http://www.arabamericannews.com/news/news/id_10174/Odeh-sentenced-to-18-months,-remains-free-pending-appeal.html
+[http://www.arabamericannews.com/news/news/id_10174/Odeh-sentenced-to-18-months,-remains-free-pending-appeal.html](http://www.arabamericannews.com/news/news/id_10174/Odeh-sentenced-to-18-months,-remains-free-pending-appeal.html)
 
-http://www.boilingfrogspost.com/2015/03/12/bfp-exclusive-ptsd-community-and-character-notes-on-the-trial-of-rasmea-odeh/
+[http://www.boilingfrogspost.com/2015/03/12/bfp-exclusive-ptsd-community-and-character-notes-on-the-trial-of-rasmea-odeh/](http://www.boilingfrogspost.com/2015/03/12/bfp-exclusive-ptsd-community-and-character-notes-on-the-trial-of-rasmea-odeh/)
 
-http://chicagomonitor.com/2015/03/arab-community-leader-rasmea-odeh-sentence-impacted-by-broad-support
+[http://chicagomonitor.com/2015/03/arab-community-leader-rasmea-odeh-sentence-impacted-by-broad-support](http://chicagomonitor.com/2015/03/arab-community-leader-rasmea-odeh-sentence-impacted-by-broad-support)
 
-http://chicago.suntimes.com/news-chicago/7/71/434837/suburban-palestinian-immigrant-sentenced-x-years-terror-related-case
+[http://chicago.suntimes.com/news-chicago/7/71/434837/suburban-palestinian-immigrant-sentenced-x-years-terror-related-case](http://chicago.suntimes.com/news-chicago/7/71/434837/suburban-palestinian-immigrant-sentenced-x-years-terror-related-case)
 
-http://colorlines.com/archives/2015/03/palestinian_activist_rasmea_odeh_sentenced_in_immigration_fraud_case.html
+[http://colorlines.com/archives/2015/03/palestinian_activist_rasmea_odeh_sentenced_in_immigration_fraud_case.html](http://colorlines.com/archives/2015/03/palestinian_activist_rasmea_odeh_sentenced_in_immigration_fraud_case.html)
 
-http://www.detroitnews.com/story/news/local/wayne-county/2015/03/11/supporters-rally-arab-activist-immigration-case/70181008/
+[http://www.detroitnews.com/story/news/local/wayne-county/2015/03/11/supporters-rally-arab-activist-immigration-case/70181008/](http://www.detroitnews.com/story/news/local/wayne-county/2015/03/11/supporters-rally-arab-activist-immigration-case/70181008/)
 
-http://www.detroitnews.com/story/news/local/wayne-county/2015/03/12/activist-odeh/70198118/
+[http://www.detroitnews.com/story/news/local/wayne-county/2015/03/12/activist-odeh/70198118/](http://www.detroitnews.com/story/news/local/wayne-county/2015/03/12/activist-odeh/70198118/)
 
-http://electronicintifada.net/blogs/ali-abunimah/judge-sentences-rasmea-odeh-insisting-case-not-political
+[http://electronicintifada.net/blogs/ali-abunimah/judge-sentences-rasmea-odeh-insisting-case-not-political](http://electronicintifada.net/blogs/ali-abunimah/judge-sentences-rasmea-odeh-insisting-case-not-political)
 
-http://www.fightbacknews.org/2015/3/12/victory-rasmea-odeh-goes-home-after-sentencing
+[http://www.fightbacknews.org/2015/3/12/victory-rasmea-odeh-goes-home-after-sentencing](http://www.fightbacknews.org/2015/3/12/victory-rasmea-odeh-goes-home-after-sentencing)
 
-http://www.freep.com/story/news/local/michigan/wayne/2015/03/12/ramieh-odeh-sentencing/70198650/
+[http://www.freep.com/story/news/local/michigan/wayne/2015/03/12/ramieh-odeh-sentencing/70198650/](http://www.freep.com/story/news/local/michigan/wayne/2015/03/12/ramieh-odeh-sentencing/70198650/)
 
-https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/
+[https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/](https://www.jacobinmag.com/2015/01/rasmea-odeh-verdict-organizing/)
 
-http://www.middleeasteye.net/news/video-rasmea-odeh-supporters-hail-lenient-sentence-victory-1066183550
+[http://www.middleeasteye.net/news/video-rasmea-odeh-supporters-hail-lenient-sentence-victory-1066183550](http://www.middleeasteye.net/news/video-rasmea-odeh-supporters-hail-lenient-sentence-victory-1066183550)
 
-http://palestineinamerica.com/2015/03/rasmea-odeh-continues-uphill-battle-stares-down-injustice/
+[http://palestineinamerica.com/2015/03/rasmea-odeh-continues-uphill-battle-stares-down-injustice/](http://palestineinamerica.com/2015/03/rasmea-odeh-continues-uphill-battle-stares-down-injustice/)
 
-http://therealnews.com/t2/index.php?option=com_content&task=view&id=31&Itemid=74&jumival=13427
+[http://therealnews.com/t2/index.php?option=com_content&task=view&id=31&Itemid=74&jumival=13427](http://therealnews.com/t2/index.php?option=com_content&task=view&id=31&Itemid=74&jumival=13427)
 
-http://hosted2.ap.org/FLJAJ/47fc20af259a4738b446eeb3e972ec98/Article_2015-03-12-US--Immigration-Israel%20Bombings/id-d708f5a39188439d887e9e272a2537b3
+[http://hosted2.ap.org/FLJAJ/47fc20af259a4738b446eeb3e972ec98/Article_2015-03-12-US--Immigration-Israel%20Bombings/id-d708f5a39188439d887e9e272a2537b3](http://hosted2.ap.org/FLJAJ/47fc20af259a4738b446eeb3e972ec98/Article_2015-03-12-US--Immigration-Israel%20Bombings/id-d708f5a39188439d887e9e272a2537b3)
 
-http://truth-out.org/news/item/29658-us-judge-sentences-us-citizen-based-on-israeli-military-documents
+[http://truth-out.org/news/item/29658-us-judge-sentences-us-citizen-based-on-israeli-military-documents](http://truth-out.org/news/item/29658-us-judge-sentences-us-citizen-based-on-israeli-military-documents)
 
 Much more archived [here](http://justice4rasmea.org/press/) and [here](http://www.stopfbi.net/about/press-coverage).
 
 **ADDITIONAL CALLS TO ACTION**
+
 - Please do not forget the importance of planning events, fundraisers and rallies in support of Rasmea as she moves through the appeal process! Send your plans to [jess.sundin@gmail.com](mailto: jess.sundin@gmail.com) so we can post your event on justice4rasmea.org and share with others.
 
 - Remember that supporters can directly donate to Rasmea's defense campaign at [justice4rasmea.org/donate](justice4rasmea.org/donate).
