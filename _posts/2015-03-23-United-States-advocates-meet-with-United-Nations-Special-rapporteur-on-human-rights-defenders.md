@@ -25,5 +25,5 @@ Advocates also informed the Rapporteur about the persistent threats and violence
  
 “We are pleased that the UN Special Rapporteur on Human Rights Defenders is taking note of the harassment that people in the U.S. face, simply for standing up for human rights,” said Meena Jagannath, attorney with the Community Justice Project based in Miami, which works with the Dream Defenders and helped submit a report to the UN Committee Against Torture on behalf of the parents of Mike Brown and Ferguson-St. Louis groups last November. “We hope the global community can impress upon the U.S. government the importance of respecting the right to dissent.”
  
-********PHOTOS AVAILABLE********
-<br>##
+**********PHOTOS AVAILABLE**********
+<br>**##**
