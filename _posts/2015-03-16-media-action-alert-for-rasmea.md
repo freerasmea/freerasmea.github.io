@@ -78,6 +78,6 @@ http://truth-out.org/news/item/29658-us-judge-sentences-us-citizen-based-on-isra
 Much more archived [here](http://justice4rasmea.org/press/) and [here](http://www.stopfbi.net/about/press-coverage).
 
 **ADDITIONAL CALLS TO ACTION**
-- Please do not forget the importance of planning events, fundraisers and rallies in support of Rasmea as she moves through the appeal process! Send your plans to jess.sundin@gmail.com so we can post your event on justice4rasmea.org and share with others.
+- Please do not forget the importance of planning events, fundraisers and rallies in support of Rasmea as she moves through the appeal process! Send your plans to [jess.sundin@gmail.com](mailto: jess.sundin@gmail.com) so we can post your event on justice4rasmea.org and share with others.
 
-- Remember that supporters can directly donate to Rasmea's defense campaign at justice4rasmea.org/donate.
+- Remember that supporters can directly donate to Rasmea's defense campaign at [justice4rasmea.org/donate](justice4rasmea.org/donate).
