@@ -12,6 +12,18 @@ published: true
  
 - [BFP Exclusive— PTSD, Community, and Character: Notes on the Trial of Rasmea Odeh, _Boiling Frogs Post,  Mark Mondalek, Mar. 12, 2015_](http://www.boilingfrogspost.com/2015/03/12/bfp-exclusive-ptsd-community-and-character-notes-on-the-trial-of-rasmea-odeh/)
 
+- [Suburban Palestinian immigrant sentenced to 18 months in prison in terror-related case, _Chicago Sun-Times,  Kim Janssen, Mar. 12, 2015_](http://chicago.suntimes.com/news-chicago/7/71/434837/suburban-palestinian-immigrant-sentenced-x-years-terror-related-case)
+
+- [Palestinian Activist Rasmea Odeh Sentenced in Immigration Fraud Case, _Colorlines,  Julianne Hing, Mar. 12, 2015_](http://colorlines.com/archives/2015/03/palestinian_activist_rasmea_odeh_sentenced_in_immigration_fraud_case.html)
+ 
+- [Chicago activist gets prison term for immigration crime, _The Detroit News,  Staff, Mar. 12, 2015_](http://www.detroitnews.com/story/news/local/wayne-county/2015/03/12/activist-odeh/70198118/)
+
+- [Judge sentences Rasmea Odeh, insisting case is not “political”, _Electronic Intifada,  Ali Abunimah, Mar. 12, 2015_](http://electronicintifada.net/blogs/ali-abunimah/judge-sentences-rasmea-odeh-insisting-case-not-political)
+
+- [Victory as Rasmea Odeh goes home after sentencing, _FightBack! News,  Tom Burke, Mar. 12, 2015_](http://www.fightbacknews.org/2015/3/12/victory-rasmea-odeh-goes-home-after-sentencing)
+ 
+- [Activist Rasmieh Odeh sentenced for immigration lies, _Detroit Free Press,  Niraj Warikoo, Mar. 12, 2015_](http://www.freep.com/story/news/local/michigan/wayne/2015/03/12/ramieh-odeh-sentencing/70198650/)
+
 
 ## Post-Verdict Coverage
 
