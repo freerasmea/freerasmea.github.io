@@ -28,9 +28,9 @@ published: true
 
 - [Judge sentences Rasmea Odeh, insisting case is not “political”, _Electronic Intifada,  Ali Abunimah, Mar. 12, 2015_](http://electronicintifada.net/blogs/ali-abunimah/judge-sentences-rasmea-odeh-insisting-case-not-political)
 
-- [Victory as Rasmea Odeh goes home after sentencing, _FightBack! News,  Tom Burke, Mar. 12, 2015_](http://www.fightbacknews.org/2015/3/12/victory-rasmea-odeh-goes-home-after-sentencing)
+- [Victory as Rasmea Odeh goes home after sentencing, _FightBack! News, Tom Burke, Mar. 12, 2015_](http://www.fightbacknews.org/2015/3/12/victory-rasmea-odeh-goes-home-after-sentencing)
  
-- [Chicago activist gets prison for immigration crime, _Jacksonville, ED WHITE, Mar. 12, 2015_](http://hosted2.ap.org/FLJAJ/47fc20af259a4738b446eeb3e972ec98/Article_2015-03-12-US--Immigration-Israel%20Bombings/id-d708f5a39188439d887e9e272a2537b3)
+- [Chicago activist gets prison for immigration crime, _Jacksonville, Ed White, Mar. 12, 2015_](http://hosted2.ap.org/FLJAJ/47fc20af259a4738b446eeb3e972ec98/Article_2015-03-12-US--Immigration-Israel%20Bombings/id-d708f5a39188439d887e9e272a2537b3)
 
 
 ## Post-Verdict Coverage
