@@ -16,7 +16,7 @@ We are also asking supporters to respond directly to any negative press you iden
 
 The **specific target of this action** alert is a particularly damaging article by the Chicago Tribune:
 
-http://www.chicagotribune.com/news/local/breaking/ct-terrorist-bombing-sentencing-met-20150312-story.html
+[http://www.chicagotribune.com/news/local/breaking/ct-terrorist-bombing-sentencing-met-20150312-story.html](http://www.chicagotribune.com/news/local/breaking/ct-terrorist-bombing-sentencing-met-20150312-story.html)
 
 Letters of 400 words or less can be submitted by email to [ctc-tribletter@tribune.com](mailto: ctc-tribletter@tribune.com). Write the letter in the body of your email. Do not send an attached file.
 
