@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: "March 23, 2015"
 category: news
 excerpt: "Human rights advocates from the U.S. met Friday in Geneva with the United Nations Special Rapporteur on Human Rights Defenders, to call for support for human rights advocates in the U.S. who face police harassment, arrest and other state violence for their efforts to stand up for their rights and the rights of others."
