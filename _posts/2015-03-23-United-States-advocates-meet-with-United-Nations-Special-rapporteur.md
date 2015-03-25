@@ -6,7 +6,6 @@ excerpt: "Human rights advocates from the U.S. met Friday in Geneva with the Uni
 ---
 
 **For Immediate Release**
-<br>March 23, 2015    
 
 Contacts:    
 Rasmea Defense Committee #Justice4Rasmea: Hatem Abudayyeh, [hatem85@yahoo.com](mailto: hatem85@yahoo.com), 773.301.4108      
