@@ -22,7 +22,7 @@ _<br> image designed by Leila Abdelrazeq_
 <tr><td style="border:none;"><input type="hidden" name="on1" value="Color">Color</td></tr><tr><td><select name="os1">
 	<option value="White">White </option>
 	<option value="Red">Red </option></select></td></tr>
-<tr><td style="border:none;"><input type="hidden" name="on2" value="Size">Size</td></tr><tr><td><select name="os2">
+<tr><td style="border:none;"><input type="hidden" name="on2" value="Size">Size</td></tr><tr><td style="border:none;"><select name="os2">
 	<option value="Small">Small </option>
 	<option value="Medium">Medium </option>
 	<option value="Large">Large </option>
