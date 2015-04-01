@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Purchase from this shop as another way to donate to Rasmea's defense! 
-_All orders placed through Paypal._
+_All orders must be placed through Paypal._
 
 <br>**Sheroes T-shirts, $25**
 <img src="/assets/img/Sheroes_White.jpg" alt="Sheroes" style="width: 550px;"/>
