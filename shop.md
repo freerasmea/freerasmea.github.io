@@ -49,18 +49,18 @@ _<br> made by [Revolutionary Lemonade Stand](http://www.revolutionarylemonadesta
 <tr><td><input type="hidden" name="on0" value="Cut">Cut</td></tr><tr><td><select name="os0">
 	<option value="Womens">Womens </option>
 	<option value="Mens">Mens </option>
-</select> </td></tr>
+</select></td></tr>
 <tr><td><input type="hidden" name="on1" value="Color">Color</td></tr><tr><td><select name="os1">
 	<option value="White">White </option>
 	<option value="Red">Red </option>
-</select> </td></tr>
+</select></td></tr>
 <tr><td><input type="hidden" name="on2" value="Size">Size</td></tr><tr><td><select name="os2">
 	<option value="Small">Small </option>
 	<option value="Medium">Medium </option>
 	<option value="Large">Large </option>
 	<option value="X-Large">X-Large </option>
 	<option value="XX-Large">XX-Large </option>
-</select> </td></tr>
+</select></td></tr>
 </table>
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
