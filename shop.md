@@ -27,16 +27,6 @@ _<br> image designed by Leila Abdelrazeq_
 	<option value="Womens, White, Lrg">Womens — White, Lrg $25.00 USD</option>
 	<option value="Womens, White, XL">Womens — White, XL $25.00 USD</option>
 	<option value="Womens, White, XXL">Womens — White, XXL $25.00 USD</option>
-	<option value="Mens, Red, Sml">Mens — Red, Sml $25.00 USD</option>
-	<option value="Mens, Red, Med">Mens — Red, Med $25.00 USD</option>
-	<option value="Mens, Red, Lrg">Mens — Red, Lrg $25.00 USD</option>
-	<option value="Mens, Red, XL">Mens — Red, XL $25.00 USD</option>
-	<option value="Mens, Red, XXL">Mens — Red, XXL $25.00 USD</option>
-    <option value="Womens, Red, Sml">Womens — Red, Sml $25.00 USD</option>
-	<option value="Womens, Red, Med">Womens — Red, Med $25.00 USD</option>
-	<option value="Womens, Red, Lrg">Womens — Red, Lrg $25.00 USD</option>
-	<option value="Womens, Red, XL">Womens — Red, XL $25.00 USD</option>
-	<option value="Womens, Red, XXL">Womens — Red, XXL $25.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
@@ -64,16 +54,6 @@ _<br> made by [Revolutionary Lemonade Stand](http://www.revolutionarylemonadesta
 	<option value="Womens, White, Lrg">Womens — White, Lrg $25.00 USD</option>
 	<option value="Womens, White, XL">Womens — White, XL $25.00 USD</option>
 	<option value="Womens, White, XXL">Womens — White, XXL $25.00 USD</option>
-	<option value="Mens, Red, Sml">Mens — Red, Sml $25.00 USD</option>
-	<option value="Mens, Red, Med">Mens — Red, Med $25.00 USD</option>
-	<option value="Mens, Red, Lrg">Mens — Red, Lrg $25.00 USD</option>
-	<option value="Mens, Red, XL">Mens — Red, XL $25.00 USD</option>
-	<option value="Mens, Red, XXL">Mens — Red, XXL $25.00 USD</option>
-    <option value="Womens, Red, Sml">Womens — Red, Sml $25.00 USD</option>
-	<option value="Womens, Red, Med">Womens — Red, Med $25.00 USD</option>
-	<option value="Womens, Red, Lrg">Womens — Red, Lrg $25.00 USD</option>
-	<option value="Womens, Red, XL">Womens — Red, XL $25.00 USD</option>
-	<option value="Womens, Red, XXL">Womens — Red, XXL $25.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
