@@ -29,7 +29,7 @@ _<br> image designed by Leila Abdelrazeq_
 	<option value="X-Large">X-Large </option>
 	<option value="XX-Large">XX-Large </option></select></td></tr>
 </table>
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
@@ -41,7 +41,7 @@ _<br> made by [Revolutionary Lemonade Stand](http://www.revolutionarylemonadesta
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="7M4MVYPVL35KQ">
+<input type="hidden" name="hosted_button_id" value="6L6M7ZT38QHQE">
 <table>
 <tr><td style="border:none;"><input type="hidden" name="on0" value="Cut">Cut</td></tr><tr><td><select name="os0">
 	<option value="Womens">Womens </option>
