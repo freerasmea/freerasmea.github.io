@@ -17,11 +17,11 @@ _<br> image designed by Leila Abdelrazeq_
 <input type="hidden" name="hosted_button_id" value="7M4MVYPVL35KQ">
 <table>
 <tr><td><input type="hidden" name="on0" value="Sheroes Tee">Sheroes Tee</td></tr><tr><td><select name="os0">
-	<option value="Mens, White, Sml">Mens — White, Sml $25.00 USD</option>
-	<option value="Mens, White, Med">Mens — White, Med $25.00 USD</option>
-	<option value="Mens, White, Lrg">Mens — White, Lrg $25.00 USD</option>
-	<option value="Mens, White, XL">Mens — White, XL $25.00 USD</option>
-	<option value="Mens, White, XXL">Mens — White, XXL $25.00 USD</option>
+	<option value="Mens — White, Sml">Mens — White, Sml $25.00 USD</option>
+	<option value="Mens — White, Med">Mens — White, Med $25.00 USD</option>
+	<option value="Mens — White, Lrg">Mens — White, Lrg $25.00 USD</option>
+	<option value="Mens — White, XL">Mens — White, XL $25.00 USD</option>
+	<option value="Mens — White, XXL">Mens — White, XXL $25.00 USD</option>
     <option value="Womens, White, Sml">Womens, White, Sml $25.00 USD</option>
 	<option value="Womens, White, Med">Womens, White, Med $25.00 USD</option>
 	<option value="Womens, White, Lrg">Womens, White, Lrg $25.00 USD</option>
