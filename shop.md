@@ -17,16 +17,26 @@ _<br> image designed by Leila Abdelrazeq_
 <input type="hidden" name="hosted_button_id" value="7M4MVYPVL35KQ">
 <table>
 <tr><td><input type="hidden" name="on0" value="Sheroes Tee">Sheroes Tee</td></tr><tr><td><select name="os0">
-	<option value="White, Sml">White, Sml $25.00 USD</option>
-	<option value="White, Med">White, Med $25.00 USD</option>
-	<option value="White, Lrg">White, Lrg $25.00 USD</option>
-	<option value="White, XL">White, XL $25.00 USD</option>
-	<option value="White, XXL">White, XXL $25.00 USD</option>
-	<option value="Red, Sml">Red, Sml $25.00 USD</option>
-	<option value="Red, Med">Red, Med $25.00 USD</option>
-	<option value="Red, Lrg">Red, Lrg $25.00 USD</option>
-	<option value="Red, XL">Red, XL $25.00 USD</option>
-	<option value="Red, XXL">Red, XXL $25.00 USD</option>
+	<option value="Mens, White, Sml">Mens, White, Sml $25.00 USD</option>
+	<option value="Mens, White, Med">Mens, White, Med $25.00 USD</option>
+	<option value="Mens, White, Lrg">Mens, White, Lrg $25.00 USD</option>
+	<option value="Mens, White, XL">Mens, White, XL $25.00 USD</option>
+	<option value="Mens, White, XXL">Mens, White, XXL $25.00 USD</option>
+    <option value="Womens, White, Sml">Womens, White, Sml $25.00 USD</option>
+	<option value="Womens, White, Med">Womens, White, Med $25.00 USD</option>
+	<option value="Womens, White, Lrg">Womens, White, Lrg $25.00 USD</option>
+	<option value="Womens, White, XL">Womens, White, XL $25.00 USD</option>
+	<option value="Womens, White, XXL">Womens, White, XXL $25.00 USD</option>
+	<option value="Mens, Red, Sml">Mens, Red, Sml $25.00 USD</option>
+	<option value="Mens, Red, Med">Mens, Red, Med $25.00 USD</option>
+	<option value="Mens, Red, Lrg">Mens, Red, Lrg $25.00 USD</option>
+	<option value="Mens, Red, XL">Mens, Red, XL $25.00 USD</option>
+	<option value="Mens, Red, XXL">Mens, Red, XXL $25.00 USD</option>
+    <option value="Womens, Red, Sml">Womens, Red, Sml $25.00 USD</option>
+	<option value="Womens, Red, Med">Womens, Red, Med $25.00 USD</option>
+	<option value="Womens, Red, Lrg">Womens, Red, Lrg $25.00 USD</option>
+	<option value="Womens, Red, XL">Womens, Red, XL $25.00 USD</option>
+	<option value="Womens, Red, XXL">Womens, Red, XXL $25.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
@@ -44,16 +54,26 @@ _<br> made by [Revolutionary Lemonade Stand](http://www.revolutionarylemonadesta
 <input type="hidden" name="hosted_button_id" value="6L6M7ZT38QHQE">
 <table>
 <tr><td><input type="hidden" name="on0" value="I Support Rasmea Tee">I Support Rasmea Tee</td></tr><tr><td><select name="os0">
-	<option value="White, Sml">White, Sml $25.00 USD</option>
-	<option value="White, Med">White, Med $25.00 USD</option>
-	<option value="White, Lrg">White, Lrg $25.00 USD</option>
-	<option value="White, XL">White, XL $25.00 USD</option>
-	<option value="White, XXL">White, XXL $25.00 USD</option>
-	<option value="Red, Sml">Red, Sml $25.00 USD</option>
-	<option value="Red, Med">Red, Med $25.00 USD</option>
-	<option value="Red, Lrg">Red, Lrg $25.00 USD</option>
-	<option value="Red, XL">Red, XL $25.00 USD</option>
-	<option value="Red, XXL">Red, XXL $25.00 USD</option>
+		<option value="Mens, White, Sml">Mens, White, Sml $25.00 USD</option>
+	<option value="Mens, White, Med">Mens, White, Med $25.00 USD</option>
+	<option value="Mens, White, Lrg">Mens, White, Lrg $25.00 USD</option>
+	<option value="Mens, White, XL">Mens, White, XL $25.00 USD</option>
+	<option value="Mens, White, XXL">Mens, White, XXL $25.00 USD</option>
+    <option value="Womens, White, Sml">Womens, White, Sml $25.00 USD</option>
+	<option value="Womens, White, Med">Womens, White, Med $25.00 USD</option>
+	<option value="Womens, White, Lrg">Womens, White, Lrg $25.00 USD</option>
+	<option value="Womens, White, XL">Womens, White, XL $25.00 USD</option>
+	<option value="Womens, White, XXL">Womens, White, XXL $25.00 USD</option>
+	<option value="Mens, Red, Sml">Mens, Red, Sml $25.00 USD</option>
+	<option value="Mens, Red, Med">Mens, Red, Med $25.00 USD</option>
+	<option value="Mens, Red, Lrg">Mens, Red, Lrg $25.00 USD</option>
+	<option value="Mens, Red, XL">Mens, Red, XL $25.00 USD</option>
+	<option value="Mens, Red, XXL">Mens, Red, XXL $25.00 USD</option>
+    <option value="Womens, Red, Sml">Womens, Red, Sml $25.00 USD</option>
+	<option value="Womens, Red, Med">Womens, Red, Med $25.00 USD</option>
+	<option value="Womens, Red, Lrg">Womens, Red, Lrg $25.00 USD</option>
+	<option value="Womens, Red, XL">Womens, Red, XL $25.00 USD</option>
+	<option value="Womens, Red, XXL">Womens, Red, XXL $25.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
