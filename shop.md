@@ -45,15 +45,15 @@ _<br> made by [Revolutionary Lemonade Stand](http://www.revolutionarylemonadesta
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="6L6M7ZT38QHQE">
 <table>
-<tr><td><input type="hidden" name="on0" value="Cut">Cut</td><td><select name="os0">
+<tr><td><input type="hidden" name="on0" value="Cut">Cut</td></tr><tr><td><select name="os0">
 	<option value="Womens">Womens </option>
 	<option value="Mens">Mens </option>
-</select> </td>
-<td><input type="hidden" name="on1" value="Color">Color</td><td><select name="os1">
+</select> </td></tr>
+<tr><td><input type="hidden" name="on1" value="Color">Color</td></tr><tr><td><select name="os1">
 	<option value="White">White </option>
 	<option value="Red">Red </option>
-</select> </td>
-<td><input type="hidden" name="on2" value="Size">Size</td><td><select name="os2">
+</select> </td></tr>
+<tr><td><input type="hidden" name="on2" value="Size">Size</td></tr><tr><td><select name="os2">
 	<option value="Small">Small </option>
 	<option value="Medium">Medium </option>
 	<option value="Large">Large </option>
