@@ -51,7 +51,7 @@ _<br> made by [Revolutionary Lemonade Stand](http://www.revolutionarylemonadesta
 	<option value="White">White </option>
 	<option value="Red">Red </option>
 </select></td></tr>
-<tr><td style="border:none;"><input type="hidden" name="on2" value="Size">Size</td></tr><tr><td><select name="os2">
+<tr><td style="border:none;"><input type="hidden" name="on2" value="Size">Size</td></tr><tr><td style="border:none;"><select name="os2">
 	<option value="Small">Small </option>
 	<option value="Medium">Medium </option>
 	<option value="Large">Large </option>
