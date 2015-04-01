@@ -16,30 +16,22 @@ _<br> image designed by Leila Abdelrazeq_
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="7M4MVYPVL35KQ">
 <table>
-<tr><td><input type="hidden" name="on0" value="Sheroes Tee">Sheroes Tee</td></tr><tr><td><select name="os0">
-	<option value="Mens — White, Sml">Mens — White, Sml $25.00 USD</option>
-	<option value="Mens — White, Med">Mens — White, Med $25.00 USD</option>
-	<option value="Mens — White, Lrg">Mens — White, Lrg $25.00 USD</option>
-	<option value="Mens — White, XL">Mens — White, XL $25.00 USD</option>
-	<option value="Mens — White, XXL">Mens — White, XXL $25.00 USD</option>
-	<option value="Mens, Red, Sml">Mens — Red, Sml $25.00 USD</option>
-	<option value="Mens, Red, Med">Mens — Red, Med $25.00 USD</option>
-	<option value="Mens, Red, Lrg">Mens — Red, Lrg $25.00 USD</option>
-	<option value="Mens, Red, XL">Mens — Red, XL $25.00 USD</option>
-	<option value="Mens, Red, XXL">Mens — Red, XXL $25.00 USD</option>
-     <option value="Womens, White, Sml">Womens — White, Sml $25.00 USD</option>
-	<option value="Womens, White, Med">Womens — White, Med $25.00 USD</option>
-	<option value="Womens, White, Lrg">Womens — White, Lrg $25.00 USD</option>
-	<option value="Womens, White, XL">Womens — White, XL $25.00 USD</option>
-	<option value="Womens, White, XXL">Womens — White, XXL $25.00 USD</option>
-    <option value="Womens, Red, Sml">Womens — Red, Sml $25.00 USD</option>
-	<option value="Womens, Red, Med">Womens — Red, Med $25.00 USD</option>
-	<option value="Womens, Red, Lrg">Womens — Red, Lrg $25.00 USD</option>
-	<option value="Womens, Red, XL">Womens — Red, XL $25.00 USD</option>
-	<option value="Womens, Red, XXL">Womens — Red, XXL $25.00 USD</option>
+<tr><td><input type="hidden" name="on0" value="Cut">Cut</td></tr><tr><td><select name="os0">
+	<option value="Womens">Womens </option>
+	<option value="Mens">Mens </option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on1" value="Color">Color</td></tr><tr><td><select name="os1">
+	<option value="White">White </option>
+	<option value="Red">Red </option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on2" value="Size">Size</td></tr><tr><td><select name="os2">
+	<option value="Small">Small </option>
+	<option value="Medium">Medium </option>
+	<option value="Large">Large </option>
+	<option value="X-Large">X-Large </option>
+	<option value="XX-Large">XX-Large </option>
 </select> </td></tr>
 </table>
-<input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
