@@ -15,7 +15,7 @@ _<br> image designed by Leila Abdelrazeq_
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="7M4MVYPVL35KQ">
-<table cellspacing="10">
+<table cellspacing="5">
 <tr><td style="border:none;"><input type="hidden" name="on0" value="Cut">Cut</td></tr><tr><td style="border:none;"><select name="os0">
 	<option value="Womens">Womens </option>
 	<option value="Mens">Mens </option> </select></td></tr>
