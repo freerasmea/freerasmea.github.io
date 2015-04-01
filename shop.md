@@ -15,11 +15,11 @@ _<br> image designed by Leila Abdelrazeq_
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="7M4MVYPVL35KQ">
-<table cellspacing="1">
-<tr><td style="border:none;"><input type="hidden" name="on0" value="Cut">Cut</td></tr><tr><td style="border:none;"><select name="os0">
+<table>
+<tr><td style="border:none; height:10px"><input type="hidden" name="on0" value="Cut">Cut</td></tr><tr><td style="border:none;"><select name="os0">
 	<option value="Womens">Womens </option>
 	<option value="Mens">Mens </option> </select></td></tr>
-<tr><td style="border:none;"><input type="hidden" name="on1" value="Color">Color</td></tr><tr><td style="border:none;"><select name="os1">
+<tr><td style="border:none; height:10px"><input type="hidden" name="on1" value="Color">Color</td></tr><tr><td style="border:none;"><select name="os1">
 	<option value="White">White </option>
 	<option value="Red">Red </option></select></td></tr>
 <tr><td style="border:none;"><input type="hidden" name="on2" value="Size">Size</td></tr><tr><td style="border:none;"><select name="os2">
