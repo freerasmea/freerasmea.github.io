@@ -48,12 +48,12 @@ _<br> made by [Revolutionary Lemonade Stand](http://www.revolutionarylemonadesta
 <tr><td><input type="hidden" name="on0" value="Cut">Cut</td></tr><tr><td><select name="os0">
 	<option value="Womens">Womens </option>
 	<option value="Mens">Mens </option>
-</select> </td></tr>
-<tr><td><input type="hidden" name="on1" value="Color">Color</td></tr><tr><td><select name="os1">
+</select> </td>
+<td><input type="hidden" name="on1" value="Color">Color</td></tr><tr><td><select name="os1">
 	<option value="White">White </option>
 	<option value="Red">Red </option>
-</select> </td></tr>
-<tr><td><input type="hidden" name="on2" value="Size">Size</td></tr><tr><td><select name="os2">
+</select> </td>
+<td><input type="hidden" name="on2" value="Size">Size</td></tr><tr><td><select name="os2">
 	<option value="Small">Small </option>
 	<option value="Medium">Medium </option>
 	<option value="Large">Large </option>
