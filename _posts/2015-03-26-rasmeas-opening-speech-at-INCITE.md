@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: "march 26, 2015"
 location: "Chicago, IL"
 category: news
