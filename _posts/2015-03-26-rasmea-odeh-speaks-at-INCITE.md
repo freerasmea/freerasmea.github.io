@@ -6,7 +6,7 @@ category: news
 excerpt: "Rasmea delivers a powerful speech to the opening plenary of INCITE! Color of Violence 4 Conference"
 ---
 
-![Angela-Davis-and-Rasmea Odeh-at-INCITE!.jpg]({{site.baseurl}}/assets/img/Angela-Davis-and-Rasmea Odeh-at-INCITE!.jpg)
+![Angela-Davis-and-Rasmea-Odeh-at-INCITE!.jpg]({{site.baseurl}}/assets/img/Angela-Davis-and-Rasmea-Odeh-at-INCITE!.jpg)
 
 ## Rasmea Odeh speech to the opening plenary of the INCITE! Color of Violence 4 Conference 
 
