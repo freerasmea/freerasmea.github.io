@@ -3,6 +3,7 @@ published: false
 date: "march 26, 2015"
 location: "Chicago, IL"
 category: news
+excerpt: "Rasmea delivers a powerful speech to the opening plenary of INCITE! Color of Violence 4 Conference"
 ---
 
 ## Rasmea Odeh speech to the opening plenary of the INCITE! Color of Violence 4 Conference
