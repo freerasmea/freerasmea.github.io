@@ -12,9 +12,9 @@ _Presented by the Arab Jewish Partnership for Peace and Justice in the Middle Ea
 ![SupportingAndDefendingCivilRights.jpg]({{site.baseurl}}/assets/img/SupportingAndDefendingCivilRights.jpg)
 
 When: Sunday, April 19, 2015, 1–4pm
-Where: Alhambra Palace Restaurant, 
-1240 West Randolph St.
-Chicago, IL 60607
+<br>Where: Alhambra Palace Restaurant, 
+<br>1240 West Randolph St.
+<br>Chicago, IL 60607
 
 Keynote Speaker: Ahmad Abuznaid, Co-founder and the Legal & Policy Director of the Dream Defenders.
 Update on Rasmea Odeh's case by Michael Deutsch, lead attorny.
