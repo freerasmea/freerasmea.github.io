@@ -17,6 +17,6 @@ We are asking Rasmea’s supporters to take the following action steps to ensure
 
 - Call the ACRL’s Chairman of the Board, Nabih Ayad, at 313-633-0231, to demand he rescind his invitation to McQuade;
  
-- Tweet the ACRL at @ACRLMICH demanding the same; and
+- Tweet the ACRL at [@ACRLMICH](https://twitter.com/@ACRLMICH) demanding the same; and
 
 - Write the ACRL a [Facebook message here](https://www.facebook.com/acrl.michigan)
