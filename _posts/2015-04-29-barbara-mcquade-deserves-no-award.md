@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Tell the Arab-American Civil Rights League that Barbara McQuade deserves no award!
