@@ -6,6 +6,9 @@ published: true
 
 <img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
 
+### [Barbara Mcquade Deserves No Award](http://justice4rasmea.org/news/2015/04/28/barbara-mcquade-deserves-no-award/)
+Michigan-based Arab-American Civil Rights League (ACRL) will be presenting U.S. Attorney Barbara McQuade with an award at its upcoming “Justice Award Tribute” event Friday, May 1st, in Detroit, MI. This award comes on the heels of McQuade’s supervision of the unjust arrest, trial, and conviction of our beloved community icon Rasmea Odeh. Tell ACRL this is unacceptable!
+
 ### [Media Action Alert for Rasmea!](http://justice4rasmea.org/news/2015/03/16/media-action-alert-for-rasmea/)
 On March 12, 2015, Rasmea Odeh was sentenced to 18 months in prison after an unjust conviction last November, but she is challenging that conviction, and our organizing has helped her remain free on bond, pending the outcome of her appeal. Help spread her story and highlight her case in the 4 to 8 months before the appeal.
 
