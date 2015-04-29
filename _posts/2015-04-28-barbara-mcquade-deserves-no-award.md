@@ -1,5 +1,8 @@
 ---
 published: true
+date: "April 28, 2015"
+category: news
+excerpt: "Michigan-based Arab-American Civil Rights League (ACRL) will be presenting U.S. Attorney Barbara McQuade with an award at its upcoming “Justice Award Tribute” event Friday, May 1st, in Detroit, MI.  This award comes on the heels of McQuade’s supervision of the unjust arrest, trial, and conviction of our beloved community icon Rasmea Odeh. Tell ACRL this is unacceptable!"
 ---
 
 ## Tell the Arab-American Civil Rights League that Barbara McQuade deserves no award!
