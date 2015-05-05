@@ -1,6 +1,6 @@
 ---
 published: true
-date: "May 6, 015"
+date: "May 6, 2015"
 location: "Chicago, IL"
 category: events
 excerpt: "SJP Columbia will be hosting an exclusive Palestinian women's panel."
