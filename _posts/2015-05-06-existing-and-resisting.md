@@ -3,7 +3,7 @@ published: true
 date: "May 6, 2015"
 location: "Chicago, IL"
 category: events
-excerpt: "SJP Columbia will be hosting an exclusive Palestinian women's panel."
+excerpt: "SJP Columbia will be hosting an exclusive Palestinian women's panel featuring Rasmea Odeh, Faten Dabis, Sahar Halabi, and Rania Salem."
 ---
 
 ## Existing and Resisting: Palestinian Women Tell Their Stories
