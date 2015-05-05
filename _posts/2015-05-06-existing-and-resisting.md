@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: "May 6, 015"
 location: "Chicago, IL"
 category: events
