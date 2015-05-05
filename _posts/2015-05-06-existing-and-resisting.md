@@ -6,6 +6,8 @@ category: events
 excerpt: "SJP Columbia will be hosting an exclusive Palestinian women's panel featuring Rasmea Odeh, Faten Dabis, Sahar Halabi, and Rania Salem."
 ---
 
+![columbia-college-event.png]({{site.baseurl}}/assets/img/columbia-college-event.png)
+
 ## Existing and Resisting: Palestinian Women Tell Their Stories
 
 SJP Columbia will be hosting an exclusive Palestinian women's panel on May 6th. We will be joined with these powerhouses: Rasmea Odeh, Faten Dabis, Sahar Halabi, and Rania Salem as they share their narratives.
