@@ -1,5 +1,9 @@
 ---
 published: false
+date: "May 6, 015"
+location: "Chicago, IL"
+category: events
+excerpt: "SJP Columbia will be hosting an exclusive Palestinian women's panel."
 ---
 
 ## Existing and Resisting: Palestinian Women Tell Their Stories
