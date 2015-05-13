@@ -10,7 +10,7 @@ excerpt: "A panel discussion on political prisoners, with an emphasis on Palesti
 
 ## Resistance and Detention: featuring Lamis Deek, Suzanne Adely, Alejandro Molina, and Brooke Reynolds
 
-**FROM PALESTINE TO PUERTO RICO: FREE ALL POLITICAL PRISONERS!**
+### FROM PALESTINE TO PUERTO RICO: FREE ALL POLITICAL PRISONERS!
 
 **When:** Thursday, May 14th, 6pm
 <br>**Where:** Hunter College, room W714
