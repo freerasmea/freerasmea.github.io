@@ -1,5 +1,9 @@
 ---
 published: true
+date: "May 14, 2015"
+location: "New York, NY"
+category: events
+excerpt: "A panel discussion on political prisoners, with an emphasis on Palestinian and Puerto Rican political prisoners"
 ---
 
 ![resistance-and-detention-event.png]({{site.baseurl}}/assets/img/resistance-and-detention-event.png)
