@@ -12,7 +12,7 @@ excerpt: "A panel discussion on political prisoners, with an emphasis on Palesti
 
 **FROM PALESTINE TO PUERTO RICO: FREE ALL POLITICAL PRISONERS!**
 
-<br>When: Thursday, May 14th, 6pm
+When: Thursday, May 14th, 6pm
 <br>Where: Hunter College, room W714
 
 Join Students for Justice in Palestine at Hunter College for our last event of the year - a panel discussion on political prisoners. With an emphasis on Palestinian and Puerto Rican political prisoners, we will be joined by speakers with experience and knowledge about struggles for liberation from prison.
