@@ -8,7 +8,7 @@ excerpt: "A panel discussion on political prisoners, with an emphasis on Palesti
 
 ![resistance-and-detention-event.png]({{site.baseurl}}/assets/img/resistance-and-detention-event.png)
 
-## Resistance and Detention: featuring Lamis Deek, Suzanne Adely, Alejandro Molina, and Brooke Reynolds
+## [ Resistance and Detention: featuring Lamis Deek, Suzanne Adely, Alejandro Molina, and Brooke Reynolds](https://www.facebook.com/events/698926610229462/)
 
 ### FROM PALESTINE TO PUERTO RICO: FREE ALL POLITICAL PRISONERS!
 
