@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ![resistance-and-detention-event.png]({{site.baseurl}}/assets/img/resistance-and-detention-event.png)
