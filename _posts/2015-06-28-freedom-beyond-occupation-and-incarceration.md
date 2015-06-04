@@ -4,6 +4,7 @@ date: "June 28, 2015"
 location: "Chicago, IL"
 type: events
 excerpt: Join us for an afternoon with Angela Davis and Rasmea Odeh
+category: events
 ---
 
 
