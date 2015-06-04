@@ -8,7 +8,7 @@ excerpt: "Rasmea Odeh is asking you to live stream this event in your city or to
 
 ## Live stream legal update on Rasmea Odeh appeal with Defense Attorney Michael Deutsch and Rasmea
 
-### Palestinian activist Rasmea Odeh is asking to speak to organized groups of supporters by video conference on Thursday, June 11, 2015, 6:30 p.m. CDT, the day after her defense attorney Michael Deutsch files her [appeal](http://uspcn.org/2015/05/22/happy-birthday-rasmea-celebrate-by-donating-to-her-defense/).
+### Palestinian activist Rasmea Odeh is asking to speak to organized groups of supporters by video conference on **Thursday, June 11, 2015, 6:30 p.m. CDT**, the day after her defense attorney Michael Deutsch files her [appeal](http://uspcn.org/2015/05/22/happy-birthday-rasmea-celebrate-by-donating-to-her-defense/).
 
 Rasmea is asking you to live stream this event in your city or town so she can speak with you, and so Deutsch can explain the appeal process and what to expect as we struggle for justice. **See below for details on how to set up your event.**
 
