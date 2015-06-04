@@ -8,7 +8,7 @@ excerpt: "Rasmea Odeh is asking you to live stream this event in your city or to
 
 ## Live stream legal update on Rasmea Odeh appeal with Defense Attorney Michael Deutsch and Rasmea
 
-**Palestinian activist Rasmea Odeh is asking to speak to organized groups of supporters by video conference on Thursday, June 11, 2015, 6:30 p.m. CDT**, the day after her defense attorney Michael Deutsch files her [appeal](http://uspcn.org/2015/05/22/happy-birthday-rasmea-celebrate-by-donating-to-her-defense/).
+### Palestinian activist Rasmea Odeh is asking to speak to organized groups of supporters by video conference on Thursday, June 11, 2015, 6:30 p.m. CDT, the day after her defense attorney Michael Deutsch files her [appeal](http://uspcn.org/2015/05/22/happy-birthday-rasmea-celebrate-by-donating-to-her-defense/).
 
 Rasmea is asking you to live stream this event in your city or town so she can speak with you, and so Deutsch can explain the appeal process and what to expect as we struggle for justice. **See below for details on how to set up your event.**
 
@@ -31,7 +31,7 @@ If you wish to ask questions from your location it may be more convenient to hav
 
 The live stream will be broadcast on the StopFBI.net You Tube Channel. Confirm the broadcast link and other day-of-event information by emailing the organizers at
 **[stopfbi@gmail.com](mailto:stopfbi@gmail.com), RE: Rasmea live stream**
-___________
+<br>___________
 _**Time for live stream event**_
 Eastern 7:30pm
 Central 6:30pm
