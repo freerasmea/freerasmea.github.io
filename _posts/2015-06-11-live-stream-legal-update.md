@@ -31,7 +31,8 @@ If you wish to ask questions from your location it may be more convenient to hav
 
 The live stream will be broadcast on the StopFBI.net You Tube Channel. Confirm the broadcast link and other day-of-event information by emailing the organizers at
 **[stopfbi@gmail.com](mailto:stopfbi@gmail.com), RE: Rasmea live stream**
-<br>___________
+
+<br>_____________
 _**Time for live stream event**_
 Eastern 7:30pm
 Central 6:30pm
