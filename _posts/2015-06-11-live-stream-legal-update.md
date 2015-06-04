@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Live stream legal update on Rasmea Odeh appeal with Defense Attorney Michael Deutsch and Rasmea
 
