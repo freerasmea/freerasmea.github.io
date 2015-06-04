@@ -36,7 +36,7 @@ ________________
 
 _**Time for live stream event**_
 
-- Eastern 7:30pm
-- Central 6:30 pm
-- Mountain 5:30pm
-- Pacific 4:30pm
+<br>Eastern 7:30pm
+<br>Central 6:30 pm
+<br>Mountain 5:30pm
+<br>Pacific 4:30pm
