@@ -1,10 +1,11 @@
 ---
-published: false
+published: true
 date: "June 28, 2015"
 location: "Chicago, IL"
 type: events
 excerpt: Join us for an afternoon with Angela Davis and Rasmea Odeh
 ---
+
 
 ![FreedomBeyondOccupation&Incarceration.png]({{site.baseurl}}/assets/img/FreedomBeyondOccupation&Incarceration.png)
 
