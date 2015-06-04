@@ -23,6 +23,7 @@ category: events
 
 Organized by the Rasmea Defense Committee and Black Lives Matter Chicago, Black on Both Sides, Black Youth Project 100, Chicago Alliance Against Racist and Political Repression, Coalition to Protect People's Rights, Committee Against Political Repression, Committee to Stop FBI Repression, Southside Together Organizing for Power/Fearless Leading by the Youth, United States Palestinian Community Network, We Charge Genocide.
 
-#JUSTICE4RASMEA | #BLACKLIVESMATTER
+#JUSTICE4RASMEA
+#BLACKLIVESMATTER
 
 Contact: [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org)
