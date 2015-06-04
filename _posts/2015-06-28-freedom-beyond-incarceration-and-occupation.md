@@ -6,6 +6,8 @@ type: events
 excerpt: Join us for an afternoon with Angela Davis and Rasmea Odeh
 ---
 
+![FreedomBeyondIncarceration&Occupation.png]({{site.baseurl}}/assets/img/FreedomBeyondIncarceration&Occupation.png)
+
 ## FREEDOM BEYOND OCCUPATION & INCARCERATION
 ### <br> an afternoon with Angela Davis & Rasmea Odeh
 
