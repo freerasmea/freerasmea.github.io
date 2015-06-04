@@ -1,7 +1,10 @@
 ---
 published: true
+date: "June 11, 2015"
+location: anywhere
+category: events
+excerpt: "Rasmea Odeh is asking you to live stream this event in your city or town so she can speak with you, and so Deutsch can explain the appeal process and what to expect as we struggle for justice."
 ---
-
 
 ## Live stream legal update on Rasmea Odeh appeal with Defense Attorney Michael Deutsch and Rasmea
 
