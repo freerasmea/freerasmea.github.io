@@ -35,7 +35,6 @@ The live stream will be broadcast on the StopFBI.net You Tube Channel. Confirm t
 ________________
 
 _**Time for live stream event**_
-
 <br>Eastern 7:30pm
 <br>Central 6:30 pm
 <br>Mountain 5:30pm
