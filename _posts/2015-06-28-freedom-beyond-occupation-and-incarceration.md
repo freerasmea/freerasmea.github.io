@@ -10,8 +10,8 @@ category: events
 
 ![FreedomBeyondOccupation&Incarceration.png]({{site.baseurl}}/assets/img/FreedomBeyondOccupation&Incarceration.png)
 
-## FREEDOM BEYOND OCCUPATION & INCARCERATION,
-###an afternoon with Angela Davis & Rasmea Odeh
+## FREEDOM BEYOND OCCUPATION & INCARCERATION
+### An afternoon with Angela Davis & Rasmea Odeh
 
 **WHEN:**
 <br>Sunday, June 28, 2:30 pm
