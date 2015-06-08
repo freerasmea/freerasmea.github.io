@@ -23,16 +23,16 @@ category: events
 <br>750 S. Halsted St., Student Center East
 <br>Illinois Room, 3rd floor
 
-- Organized by the Rasmea Defense Committee and 
-- Black Lives Matter Chicago
-- Black on Both Sides
-- Black Youth Project 100
-- Chicago Alliance Against Racist and Political Repression
-- Coalition to Protect People's Rights
-- Committee Against Political Repression
-- Committee to Stop FBI Repression
-- Southside Together Organizing for Power/Fearless Leading by the Youth
-- United States Palestinian Community Network
-- We Charge Genocide
+Organized by the Rasmea Defense Committee and 
+<br>Black Lives Matter Chicago
+<br>Black on Both Sides
+<br>Black Youth Project 100
+<br>Chicago Alliance Against Racist and Political Repression
+<br>Coalition to Protect People's Rights
+<br>Committee Against Political Repression
+<br>Committee to Stop FBI Repression
+<br>Southside Together Organizing for Power/Fearless Leading by the Youth
+<br>United States Palestinian Community Network
+<br>We Charge Genocide
 
 Contact: [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org)
