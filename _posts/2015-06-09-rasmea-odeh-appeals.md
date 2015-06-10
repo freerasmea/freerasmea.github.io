@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Rasmea Odeh appeals unjust conviction & sentencing
