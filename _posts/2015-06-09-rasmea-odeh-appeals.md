@@ -30,4 +30,4 @@ Finally, Deutsch argues that the 18 month prison sentence should be thrown out, 
 
 On Thursday, June 11, Deutsch will appear with Rasmea via [livestream](http://uspcn.org/2015/06/03/june-11th-live-stream-legal-update-with-deutsch-rasmea/), to further explain the appeals process and what’s next in the fight for #Justice4Rasmea. After filing today’s brief, he told the Rasmea Defense Committee that “justice requires Rasmea’s conviction be reversed and she be afforded a fair trial.”
 
-For more information and background on Odeh’s case, visit www.justice4rasmea.org. 
+For more information and background on Odeh’s case, visit [www.justice4rasmea.org](http://justice4rasmea.org/about/). 
