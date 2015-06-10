@@ -2,7 +2,7 @@
 published: true
 date: "May 22, 2015"
 category: news
-excerpt: "Rasmea Odeh is celebrating her birthday in Chicago, and preparing for her appeal in a Cincinnati courtroom. Please donate to her defense!"
+excerpt: "Rasmea Odeh is celebrating her birthday in Chicago and preparing for her appeal in a Cincinnati courtroom. Please donate to her defense!"
 ---
 
 
