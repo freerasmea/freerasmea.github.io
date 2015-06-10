@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Happy Birthday Rasmea! Celebrate by Donating to Her Defense!
 
