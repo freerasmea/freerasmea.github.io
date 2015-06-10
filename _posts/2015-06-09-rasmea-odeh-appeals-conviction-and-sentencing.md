@@ -4,7 +4,7 @@ category: news
 excerpt: "Lead defense attorney Michael Deutsch filed a brief with the Sixth Circuit U.S. Court of Appeals to appeal the conviction and sentencing of Palestinian community leader Rasmea Odeh, arguing that Odeh was denied her right to present her complete defense, and that the trial court was wrong to allow prejudicial documents from Israel’s military court."
 ---
 
-## Rasmea Odeh appeals unjust conviction & sentencing
+## Rasmea Odeh Appeals Unjust Conviction and Sentencing
 
 **For media inquiries: Hatem Abudayyeh, 773.301.4108, [hatem85@yahoo.com](mailto:hatem85@yahoo.com)**
 
