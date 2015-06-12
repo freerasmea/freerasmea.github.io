@@ -6,7 +6,7 @@ excerpt: "View the livestream on Rasmea's appeals process"
 
 ![deutsch-rasmea.jpg]({{site.baseurl}}/assets/img/deutsch-rasmea.jpg)
 
-## Watch Michael Deutsch and Rasmea's Livestream on the Appeal's Process
+## Watch Michael Deutsch and Rasmea's Livestream on the Appeals Process
 
 Dear Friends and Supporters, 
 
