@@ -1,5 +1,7 @@
 ---
 published: true
+category: news
+excerpt: "View the livestream on Rasmea's appeals process"
 ---
 
 ![deutsch-rasmea.jpg]({{site.baseurl}}/assets/img/deutsch-rasmea.jpg)
