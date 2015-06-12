@@ -1,6 +1,8 @@
 ---
-published: false
+published: true
 ---
+
+![FreedomBeyondOccupation&Incarceration.png]({{site.baseurl}}/assets/img/FreedomBeyondOccupation&Incarceration.png)
 
 ## Watch Michael Deutsch and Rasmea's Livestream on the Appeal's Process
 
