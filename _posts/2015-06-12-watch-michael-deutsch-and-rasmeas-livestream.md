@@ -2,7 +2,7 @@
 published: true
 ---
 
-![FreedomBeyondOccupation&Incarceration.png]({{site.baseurl}}/assets/img/FreedomBeyondOccupation&Incarceration.png)
+![deutsch-rasmea.jpg]({{site.baseurl}}/assets/img/deutsch-rasmea.jpg)
 
 ## Watch Michael Deutsch and Rasmea's Livestream on the Appeal's Process
 
