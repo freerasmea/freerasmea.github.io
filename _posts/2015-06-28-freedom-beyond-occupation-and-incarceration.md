@@ -7,9 +7,10 @@ excerpt: Join us for an afternoon with Angela Davis and Rasmea Odeh
 category: events
 ---
 
+
 ![FreedomBeyondOccupation&Incarceration.png]({{site.baseurl}}/assets/img/FreedomBeyondOccupation&Incarceration.png)
 
-## FREEDOM BEYOND OCCUPATION & INCARCERATION
+## [FREEDOM BEYOND OCCUPATION & INCARCERATION](http://justice4rasmea.bpt.me/)
 
 ### An afternoon with Angela Davis & Rasmea Odeh
 <br>
@@ -20,6 +21,8 @@ category: events
 <br>University of Ill. Chicago (UIC) 
 <br>750 S. Halsted St., Student Center East
 <br>Illinois Room, 3rd floor
+
+[### RSVP HERE](http://justice4rasmea.bpt.me/)
 
 Organized by the Rasmea Defense Committee and 
 <br>Black Lives Matter Chicago
