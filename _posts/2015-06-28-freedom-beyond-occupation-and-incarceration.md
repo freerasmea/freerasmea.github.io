@@ -22,7 +22,7 @@ category: events
 <br>750 S. Halsted St., Student Center East
 <br>Illinois Room, 3rd floor
 
-[### RSVP HERE](http://justice4rasmea.bpt.me/)
+### [RSVP HERE](http://justice4rasmea.bpt.me/)
 
 Organized by the Rasmea Defense Committee and 
 <br>Black Lives Matter Chicago
