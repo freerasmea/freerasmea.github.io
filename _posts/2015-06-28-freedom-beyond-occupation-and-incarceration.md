@@ -36,4 +36,6 @@ Organized by the Rasmea Defense Committee and
 <br>United States Palestinian Community Network
 <br>We Charge Genocide
 
+RSVP: [http://justice4rasmea.bpt.me/](http://justice4rasmea.bpt.me/)
+
 Contact: [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org)
