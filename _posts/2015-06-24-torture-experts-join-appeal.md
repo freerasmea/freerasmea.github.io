@@ -2,6 +2,7 @@
 published: true
 category: news
 excerpt: Internationally recognized experts on the effects of torture are weighing in on the appeal of prominent Palestinian American activist Rasmea Odeh.
+date: "June 24, 2015"
 ---
 
 ## Torture experts join appeal of Rasmea Odeh’s unjust conviction
