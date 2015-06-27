@@ -23,14 +23,14 @@ The government claims that Rasmea failed to disclose that she was convicted by t
 
 Despite this, Rasmea’s case on immigration charges went to trial in Detroit in November 2014.
 
-![Rasmea and Supporters]({{site.baseurl}}/assets/img/rasmea_supporters.jpg)
-_Rasmea and Supporters_  
-
 There, Federal Judge Gershwin Drain allowed the Israeli military court conviction to be entered into evidence, but barred testimony about her torture at the hands of her Israeli captors. That ruling eliminated the testimony of expert witness Dr. Mary Fabri, a clinical psychologist who has decades of experience working with torture survivors. Fabri was prepared to testify that the allegedly false answers on the immigration forms were the result of Rasmea’s chronic Post-Traumatic Stress Disorder (PTSD). 
 
 Rasmea never set out to hide her past. She had testified about her torture at the United Nations when she was released in 1979. As her lead attorney, Michael Deutsch, said, “It was well known that she was convicted, and traded [in a prisoner exchange]. The U.S. Embassy knew it, the State Department knew it, and Immigration should have known it.” 
 
 Never really about immigration, the case against Rasmea grew out of the investigation of 23 anti-war and Palestinian community organizers in Chicago and Minneapolis, who were subpoenaed to a federal grand jury in 2010. Make no mistake. Rasmea came under attack by the U.S. government because she is Palestinian, and because for decades, she has organized for Palestinian liberation and self-determination, the Right of Return, and an end to Israeli occupation and colonization. Palestine support work, especially the Boycott Divestment Sanctions (BDS) movement, has made a number of recent gains, and the long arm of federal law enforcement has attempted to crack down on it, like it has on all effective and impactful movements for social justice in the history of this country. Rasmea’s prosecution is part of this crackdown.
+
+![Rasmea and Supporters]({{site.baseurl}}/assets/img/rasmea_supporters.jpg)
+_Rasmea and Supporters_  
 
 ### The fight for justice
 
