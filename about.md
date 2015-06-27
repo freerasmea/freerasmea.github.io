@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About The Case
+title: The Case of Rasmea Odeh
 published: true
 ---
 
