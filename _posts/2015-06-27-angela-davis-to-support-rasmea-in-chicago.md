@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+date: "June 27, 2015"
+category: news
+excerpt: "Prominent Black Chicago groups, including Black Youth Project 100, Black Lives Matter, We Charge Genocide, Southsiders Together Organizing for Power (STOP), and Chicago Alliance Against Racist and Political Repression, will join Arab and Palestinian groups in welcoming Angela Davis, Professor Emerita at the University of California, Santa Cruz, to Chicago, where she will keynote a sold out event in support of wrongfully convicted Palestinian American activist and organizer, Rasmea Odeh."
 ---
 
 **NEWS ALERT: For Immediate Release | Rasmea Defense Committee**
