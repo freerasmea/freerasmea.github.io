@@ -10,8 +10,7 @@ excerpt: "Prominent Black Chicago groups, including Black Youth Project 100, Bla
 
 ## Legendary Activist Angela Davis in Chicago Sunday to Support Rasmea Odeh
 
-**_ Former political prisoner to keynote sold-out event to support wrongfully convicted Palestinian American activist and organizer._**
-
+_**Former political prisoner to keynote sold-out event to support wrongfully convicted Palestinian American activist and organizer.**_
 ### Sunday, June 28th, at 2:30 PM
 **UIC Student Center East, 750 S. Halsted, 3rd Floor Conference Center**
 
