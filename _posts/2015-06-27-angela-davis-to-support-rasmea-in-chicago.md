@@ -8,7 +8,7 @@ excerpt: "Prominent Black Chicago groups, including Black Youth Project 100, Bla
 **NEWS ALERT: For Immediate Release | Rasmea Defense Committee**
 <br>Press contacts: Hatem Abudayyeh, 773.301.4108, hatem85@yahoo.com; Nadine Naber, 734.476.9241, ncnaber@gmail.com 
 
-## Legendary Activist Angela Davis in Chicago Sunday to support Rasmea Odeh
+## Legendary Activist Angela Davis in Chicago Sunday to Support Rasmea Odeh
 
 Former political prisoner to keynote sold-out event to support wrongfully convicted Palestinian American activist and organizer.
 
