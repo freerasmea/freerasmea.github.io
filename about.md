@@ -4,9 +4,10 @@ title: About The Case
 published: true
 ---
 
+## The Case of Rasmea Odeh: A Palestinian Hero
+
 ![Rasmea Odeh]({{site.baseurl}}/assets/img/rasmea_keffiyeh.jpg)
 _Rasmea Odeh_  
-
 
 **Rasmea Odeh** is a leading member of Chicago’s Palestinian, Arab, and Muslim communities, and her decade of service in Chicago has changed the lives of thousands of people, particularly disenfranchised Arab women and their families. She has been with the Arab American Action Network (AAAN) since 2004, and is responsible for the management of day-to-day operations and the coordination of its Arab Women’s Committee, which has a membership of nearly 600 and leads the organization’s work in the areas of defending civil liberties and immigrants’ rights. She is a mentor to hundreds of immigrant women, as well as many members of the AAAN’s staff and board, and is a well-known and respected organizer throughout Chicagoland, the U.S. and the world.
 
