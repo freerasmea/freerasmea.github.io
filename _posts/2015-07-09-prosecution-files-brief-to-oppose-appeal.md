@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Prosecution tells appeals court: deny a full defense to Rasmea Odeh, victim of rape and torture
