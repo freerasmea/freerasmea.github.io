@@ -5,7 +5,7 @@ excerpt: "Federal prosecutor Jonathan Tukel filed a brief with the U.S. Court of
 ---
 
 ## Rasmea's prosecutors tell appeals court: deny a full defense to victim of rape and torture
-<br>Rasmea Defense Committee
+Rasmea Defense Committee
 <br>Thursday, July 9th, 2015
 
 Federal prosecutor Jonathan Tukel filed a [brief](http://justice4rasmea.org/assets/img/Tukel.pdf) with the U.S. Court of Appeals for the Sixth Circuit yesterday, opposing [Rasmea Odeh’s call to overturn her conviction](http://justice4rasmea.org/news/2015/06/09/rasmea-odeh-appeals-conviction-and-sentencing/) and sentencing on immigration charges.  He argues that the lower court was right to deny Rasmea her full defense, including decisions to bar the testimony of a torture expert, to restrict Rasmea’s own testimony, and to allow documents obtained via torture by the occupying Israeli military. 
