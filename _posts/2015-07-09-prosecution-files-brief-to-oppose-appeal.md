@@ -1,5 +1,7 @@
 ---
 published: true
+category: news
+excerpt: "Federal prosecutor Jonathan Tukel filed a brief with the U.S. Court of Appeals for the Sixth Circuit yesterday, opposing Rasmea Odeh’s call to overturn her conviction and sentencing on immigration charges."
 ---
 
 ## Prosecution tells appeals court: deny a full defense to Rasmea Odeh, victim of rape and torture
