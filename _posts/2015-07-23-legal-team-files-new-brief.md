@@ -1,5 +1,8 @@
 ---
 published: false
+date: "July 23, 2015"
+category: news
+excerpt: null
 ---
 
 **Rasmea Defense Committee
