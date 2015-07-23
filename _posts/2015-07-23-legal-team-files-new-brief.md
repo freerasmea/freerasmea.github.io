@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: "July 23, 2015"
 category: news
 excerpt: null
