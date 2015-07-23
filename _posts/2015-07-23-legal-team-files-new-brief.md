@@ -5,14 +5,14 @@ category: news
 excerpt: "Rasmea’s legal defense team filed a new brief in the U.S. Court of Appeals for the Sixth Circuit, demolishing the July 8th arguments of Assistant U.S. Attorney Jonathan Tukel, who is opposing her bid for a new trial."
 ---
 
-![rasmea_laughing.jpg]({{site.baseurl}}/assets/img/rasmea_laughing.jpg)
-
 Rasmea Defense Committee
 <br>Press Statement 
 <br>July 23rd, 2015
 <br>Media contact: Hatem Abudayyeh, 773.301.4108, hatem85@yahoo.com
 
 ## Rasmea’s legal team files new brief, appeals fight continues
+
+![rasmea_laughing.jpg]({{site.baseurl}}/assets/img/rasmea_laughing.jpg)
 
 On July 20th, Rasmea Odeh’s legal defense team filed a [new brief](http://justice4rasmea.org/assets/img/Doc-20-Reply-Brief.pdf) in the U.S. Court of Appeals for the Sixth Circuit, demolishing the July 8th arguments of Assistant U.S. Attorney Jonathan Tukel, who is [opposing her bid for a new trial](http://justice4rasmea.org/assets/img/Tukel.pdf). 
 
