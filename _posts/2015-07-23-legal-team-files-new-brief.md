@@ -2,7 +2,7 @@
 published: true
 date: "July 23, 2015"
 category: news
-excerpt: null
+excerpt: "Rasmea Odeh’s legal defense team filed a new brief in the U.S. Court of Appeals for the Sixth Circuit, demolishing the July 8th arguments of Assistant U.S. Attorney Jonathan Tukel, who is opposing her bid for a new trial."
 ---
 
 **Rasmea Defense Committee
