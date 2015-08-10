@@ -4,7 +4,11 @@ permalink: /press/
 published: true
 ---
 
+
 ## Post-Hearing Coverage
+- [Radio Autonomía: Zapatismo in the Bay – July 2015 Show (Rasmea Odeh), _Radio Autonomía, Jul. 26, 2015_](https://radioautonomia.wordpress.com/2015/07/26/radio-autonomia-zapatismo-in-the-bay-july-2015-show-rasmea-odeh/)
+
+- [Hatem Abudayyeh provides an update on Rasmea's case, _Vassar College Radio,  13:50 – 22:28., Jul. 23, 2015_](http://www.classwars.org/jul23.mp3)
 
 - [US Judge Sentences US Citizen Based on Israeli Military Documents, _Truthout,  Dahr Jamail, Mar. 16, 2015_](http://truth-out.org/news/item/29658-us-judge-sentences-us-citizen-based-on-israeli-military-documents)
 
