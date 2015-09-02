@@ -4,8 +4,10 @@ title: Take Action
 published: true
 ---
 
-
 <img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
+
+### [All out for Cincinnati to support Rasmea at her appeal](http://justice4rasmea.org/events/2015/10/14/all-out-for-cincinnati/)
+Come to Cincinnati on the morning of October 14th for a rally in front of the courthouse and filling the courthouse afterwards as Rasmea's defense and the prosecution each present their oral arguments to a three judge panel.
 
 ### [Media Action Alert for Rasmea!](http://justice4rasmea.org/news/2015/03/16/media-action-alert-for-rasmea/)
 On March 12, 2015, Rasmea Odeh was sentenced to 18 months in prison after an unjust conviction last November, but she is challenging that conviction, and our organizing has helped her remain free on bond, pending the outcome of her appeal. Help spread her story and highlight her case in the 4 to 8 months before the appeal.
