@@ -1,5 +1,8 @@
 ---
 published: false
+category: events
+excerpt: "Come to Cincinnati on the morning of October 14th for a rally in front of the courthouse and filling the courthouse afterwards as Rasmea's defense and the prosecution each present their oral arguments to a three judge panel."
+location: "cincinnati, OH"
 ---
 
 ## All out for Cincinnati to support Rasmea at her appeal Wednesday, October 14, 2015!
