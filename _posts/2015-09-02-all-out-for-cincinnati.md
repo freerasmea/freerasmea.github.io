@@ -7,6 +7,7 @@ date: "October 14, 2015"
 ---
 
 
+
 ## All out for Cincinnati to support Rasmea at her appeal Wednesday, October 14, 2015!
 
 [Tell us that you're coming to Cincinnati!](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform?c=0&w=1)
@@ -23,6 +24,7 @@ We will organize a support **rally in front of the courthouse at 8 AM EST on Wed
 <br>540 Potter Stewart U.S. Courthouse
 <br>100 E. 5th Street
 <br>Cincinnati, OH 45202
+
 _Bus and carpool info from Chicago coming soon!**_
 
 Register [here](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform?c=0&w=1) to join us in Cincinnati on October 14, participate in a **[week of action for Rasmea between September 8 and September 14](http://www.stopfbi.net/take-action/2015/8/19/week-justice-rasmea-september-8-14)**, visit [www.justice4rasmea.org](www.justice4rasmea.org) for more information, and/or email [justice4rasmea@uspcn.org](mailto: justice4rasmea@uspcn.org) with any questions.
