@@ -13,7 +13,7 @@ date: "October 14, 2015"
 
 ### Stand with Rasmea and fill the appeals courthouse in Cincinnati!
 
-We will organize a support **rally in front of the courthouse at 8 AM EST on Wednesday, October 14, 2015**, and then fill the courtroom immediately thereafter, as Rasmea's defense and the prosecution each present their oral arguments to a three judge panel.
+We will organize a support **rally in front of the courthouse at 8 AM EST on Wednesday, October 14, 2015**, and then fill the courtroom immediately thereafter, as Rasmea's defense and the prosecution each present their oral arguments to a three-judge panel.
 
 **WHEN:**
 <br>Wednesday, October 14, 2015, at 8 AM EST (oral argument for the appeal starts at 9 AM EST)
