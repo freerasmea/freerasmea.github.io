@@ -7,7 +7,7 @@ published: true
 <img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
 
 ### [All Out for Cincinnati to Support Rasmea at Her Appeal](http://justice4rasmea.org/events/2015/10/14/all-out-for-cincinnati/)
-Come to Cincinnati on the morning of October 14th for a rally in front of the courthouse and filling the courthouse afterwards as Rasmea's defense and the prosecution each present their oral arguments to a three judge panel.
+Come to Cincinnati on the morning of October 14th for a rally in front of the courthouse and filling the courthouse afterwards as Rasmea's defense and the prosecution each present their oral arguments to a three-judge panel.
 
 _____
 
