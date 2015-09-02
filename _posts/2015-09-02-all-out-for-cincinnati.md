@@ -19,11 +19,11 @@ We will organize a support **rally in front of the courthouse at 8 AM EST on Wed
 **WHEN:
 <br>Wednesday, October 14, 2015, at 8 AM EST (oral argument for the appeal starts at 9 AM EST)
 
-**WHERE:
+WHERE:
 <br>U.S. Court of Appeals for the 6th Circuit
 <br>540 Potter Stewart U.S. Courthouse
 <br>100 E. 5th Street
-<br>Cincinnati, OH 45202
+<br>Cincinnati, OH 45202**
 
 _Bus and carpool info from Chicago coming soon!**_
 
