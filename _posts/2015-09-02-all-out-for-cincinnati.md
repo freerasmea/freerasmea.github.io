@@ -6,8 +6,6 @@ location: "Cincinnati, OH"
 date: "October 14, 2015"
 ---
 
-
-
 ## All out for Cincinnati to support Rasmea at her appeal Wednesday, October 14, 2015!
 
 [Tell us that you're coming to Cincinnati!](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform?c=0&w=1)
