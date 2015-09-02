@@ -27,7 +27,7 @@ We will organize a support **rally in front of the courthouse at 8 AM EST on Wed
 
 **_Bus and carpool info from Chicago coming soon!_**
 
-Register [here](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform?c=0&w=1) to join us in Cincinnati on October 14, participate in a **[week of action for Rasmea between September 8 and September 14](http://www.stopfbi.net/take-action/2015/8/19/week-justice-rasmea-september-8-14)**, visit [www.justice4rasmea.org](http://justice4rasmea.org/) for more information, and/or email [justice4rasmea@uspcn.org](mailto: justice4rasmea@uspcn.org) with any questions.
+Register [here](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform?c=0&w=1) to join us in Cincinnati on October 14, participate in a **[week of action for Rasmea between September 8 and September 14](http://www.stopfbi.net/take-action/2015/8/19/week-justice-rasmea-september-8-14)**, visit [www.justice4rasmea.org](http://justice4rasmea.org/) for more information, and/or email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) with any questions.
 
 The Rasmea Defense Committee contends that Judge Gershwin Drain [did not allow for a full and fair trial](http://justice4rasmea.org/news/2014/11/10/rasmea-found-guilty/), and believes that is why Rasmea was convicted and sentenced to 18 months in prison and deportation. We are confident that she has solid arguments on appeal, and wrote in late July that the "defense argues conclusively that the government 'never really addresses the basic constitutional deprivations asserted in Ms. Odeh’s [opening appellate brief](http://www.stopfbi.net/sites/default/files/appellantbrief.pdf),' and that Rasmea is 'entitled to present her complete defense to the jury,' which can only happen in a new trial."
 
@@ -39,4 +39,4 @@ We have been doing non-stop fundraising, organizing public events, and pitching 
 
 **There is still much more organizing to be done!**
 
-Register [here](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform?c=0&w=1) to join us in Cincinnati on October 14, participate in a [week of action for Rasmea between September 8 and September 14](http://www.stopfbi.net/take-action/2015/8/19/week-justice-rasmea-september-8-14), visit [www.justice4rasmea.org](http://justice4rasmea.org/) for more information, and/or email [justice4rasmea@uspcn.org](mailto: justice4rasmea@uspcn.org) with any questions.
+Register [here](https://docs.google.com/forms/d/1608nKSQe46T7-vK9w6ui_aAGhiH7mFxHCPLUQgqCxDQ/viewform?c=0&w=1) to join us in Cincinnati on October 14, participate in a [week of action for Rasmea between September 8 and September 14](http://www.stopfbi.net/take-action/2015/8/19/week-justice-rasmea-september-8-14), visit [www.justice4rasmea.org](http://justice4rasmea.org/) for more information, and/or email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) with any questions.
