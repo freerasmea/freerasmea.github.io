@@ -1,10 +1,11 @@
 ---
-published: false
+published: true
 date: "September 4, 2015"
 location: "River Forest, IL"
 category: Events
 excerpt: "Learn about Rasmea’s case and the upcoming Week of Action for Rasmea, with Nesreen Hasan and Muhammad Sankari of the Rasmea Defense Committee."
 ---
+
 
 ## Justice for Rasmea odeh 
 
