@@ -38,7 +38,7 @@ While in Cincinnati, we will organize a support **rally in front of the courthou
 
 [Crowdfund to help pay for the buses](https://www.youcaring.com/rasmea-defense-committee-435256), [get on the bus for the appeal](https://docs.google.com/forms/d/1v5hyF1IVhpOY8Yma1JMWMWOMFUMLQeN3Vyg9pHXHs-0/viewform?c=0&w=1), visit [www.justice4rasmea.org](http://justice4rasmea.org/) for more information, and / or [email justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) with any questions.
 
-####
+____________
 
 The Rasmea Defense Committee contends that Judge Gershwin Drain d[id not allow for a full and fair trial](http://justice4rasmea.org/news/2014/11/10/rasmea-found-guilty/), and believes that is why Rasmea was convicted and sentenced to 18 months in prison and deportation.  We are confident that she has solid arguments on appeal, and wrote in late July that the “defense argues conclusively that the government ‘never really addresses the basic constitutional deprivations asserted in Ms. Odeh’s [opening appellate brief](http://www.stopfbi.net/sites/default/files/appellantbrief.pdf),’ and that Rasmea is ‘entitled to present her complete defense to the jury,’ which can only happen in a new trial.”
 
