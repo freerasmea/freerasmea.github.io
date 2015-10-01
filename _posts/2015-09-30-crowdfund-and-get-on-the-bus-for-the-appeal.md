@@ -8,6 +8,7 @@ date: "NOW!"
 
 
 
+
 ## [Crowdfund](https://www.youcaring.com/rasmea-defense-committee-435256) & [GET ON THE BUS](https://docs.google.com/forms/d/1v5hyF1IVhpOY8Yma1JMWMWOMFUMLQeN3Vyg9pHXHs-0/viewform?c=0&w=1) from Chicago for Rasmea's appeal!
 ### Stand with Rasmea and fill the appeals courthouse in Cincinnati!
 
