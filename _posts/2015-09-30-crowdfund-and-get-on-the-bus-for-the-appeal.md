@@ -3,7 +3,7 @@ published: true
 location: "Chicago, IL"
 category: events
 excerpt: "Please help us raise money to get to Rasmea's appeal in Cincinnati! We will leave at 10 PM the night before the appeal, Tuesday, October 13th, 2015. It is imperative that we stand with Rasmea and fill the courthouse one last time!"
-date: "NOW!"
+date: "October 14, 2015"
 ---
 
 ![Rasmea Odeh]({{site.baseurl}}/assets/img/rasmea_keffiyeh.jpg) 
