@@ -4,7 +4,11 @@ title: Take Action
 published: true
 ---
 
+
 <img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
+
+### Crowdfund & GET ON THE BUS from Chicago for Rasmea's appeal!
+Please help us raise money to get to Cincinnati! We will leave at 10 PM the night before the appeal, Tuesday, October 13th, 2015. It is imperative that we stand with Rasmea and fill the courthouse one last time!
 
 ### [All Out for Cincinnati to Support Rasmea at Her Appeal](http://justice4rasmea.org/events/2015/10/14/all-out-for-cincinnati/)
 Come to Cincinnati on the morning of October 14th for a rally in front of the courthouse and filling the courthouse afterwards as Rasmea's defense and the prosecution each present their oral arguments to a three-judge panel.
