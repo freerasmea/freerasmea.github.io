@@ -12,6 +12,7 @@ location: "Cincinnati, OH"
 **_Stand with Rasmea and fill the appeals courthouse in Cincinnati! Buses and carloads attending from Chicago; Ft. Wayne & Indianapolis, IN; Cleveland, Youngstown, Columbus & Cincinnati, OH; Florida; Milwaukee & Madison, WI; Grand Rapids, Flint, Dearborn & Detroit, MI; Minneapolis; and more!_**
 
 **Chicagoans:**
+
 - Still a few spots left if you wanna [GET ON THE BUS](https://docs.google.com/forms/d/1v5hyF1IVhpOY8Yma1JMWMWOMFUMLQeN3Vyg9pHXHs-0/viewform?c=0&w=1) from Chicago for the appeal!
 
 - We're only about $1,500 short of raising the money to pay for the two buses we're taking from Chicago to Cincinnati. **Please help us reach the goal [here](https://www.youcaring.com/rasmea-defense-committee-435256)**!
