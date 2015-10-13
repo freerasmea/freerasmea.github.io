@@ -9,11 +9,13 @@ location: "Cincinnati, OH"
 ![Rasmea Odeh]({{site.baseurl}}/assets/img/rasmealaughing.jpg) 
 
 ## Chicagoans & All: everything you need to know about Rasmea’s appeal in Cincinnati
-_Stand with Rasmea and fill the appeals courthouse in Cincinnati! Buses and carloads attending from Chicago; Ft. Wayne & Indianapolis, IN; Cleveland, Youngstown, Columbus & Cincinnati, OH; Florida; Milwaukee & Madison, WI; Grand Rapids, Flint, Dearborn & Detroit, MI; Minneapolis; and more!_
+**_Stand with Rasmea and fill the appeals courthouse in Cincinnati! Buses and carloads attending from Chicago; Ft. Wayne & Indianapolis, IN; Cleveland, Youngstown, Columbus & Cincinnati, OH; Florida; Milwaukee & Madison, WI; Grand Rapids, Flint, Dearborn & Detroit, MI; Minneapolis; and more!_**
 
 **Chicagoans:**
 - Still a few spots left if you wanna [GET ON THE BUS](https://docs.google.com/forms/d/1v5hyF1IVhpOY8Yma1JMWMWOMFUMLQeN3Vyg9pHXHs-0/viewform?c=0&w=1) from Chicago for the appeal!
+
 - We're only about $1,500 short of raising the money to pay for the two buses we're taking from Chicago to Cincinnati. **Please help us reach the goal [here](https://www.youcaring.com/rasmea-defense-committee-435256)**!
+
 - We will be gathering at 10 PM the night before the appeal, Tuesday, October 13th, 2015, but **you cannot just show up. You've gotta [sign up](https://docs.google.com/forms/d/1v5hyF1IVhpOY8Yma1JMWMWOMFUMLQeN3Vyg9pHXHs-0/viewform?c=0&w=1) first**, and then you'll be told where the pick up points are.
 - Those who are driving their own cars and can take others, or would like to carpool, should [contact Joe Iosbaker](mailto: joeiosbaker@gmail.com) by Tuesday morning, October 13th, at the absolute latest.
 
