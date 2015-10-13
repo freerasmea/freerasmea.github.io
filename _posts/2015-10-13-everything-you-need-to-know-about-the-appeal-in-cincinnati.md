@@ -2,7 +2,7 @@
 published: true
 category: news
 excerpt: "Stand with Rasmea and fill the appeals courthouse in Cincinnati! Here is everything you need to know about getting there and what's going to happen."
-date: "October 14, 2015"
+date: "October 13, 2015"
 location: "Cincinnati, OH"
 ---
 
