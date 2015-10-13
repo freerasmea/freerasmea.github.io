@@ -29,20 +29,21 @@ While in Cincinnati, we will organize a support **rally in front of the courthou
 ### WHERE: U.S. Court of Appeals for the 6th Circuit, 540 Potter Stewart U.S. Courthouse, 100 E. 5th Street, Cincinnati, OH 45202
 
 **More info for everyone, those riding the bus and those getting there on their own:**
+
 - Important new development: there is **NO OVERFLOW ROOM** in this courthouse, so the Rasmea Defense Committee is working with Rasmea and her attorneys to prioritize whom amongst us will be filling the courtroom. All the other supporters will hold vigil and continue our picket outside. Defense committee leaders Nesreen Hasan and Jess Sundin will be the point people for getting folks inside. **Please respect their and our decisions!**
 
--Those who the defense committee and attorneys determine are entering the courtroom will start lining up between 8:20 and 8:30 AM, to ensure that we are in the courtroom well before 9 AM. **Late comers will not be allowed in the courtroom.**
+- Those who the defense committee and attorneys determine are entering the courtroom will start lining up between 8:20 and 8:30 AM, to ensure that we are in the courtroom well before 9 AM. **Late comers will not be allowed in the courtroom.**
 
--**Please do not volunteer to speak to any media or press in attendance.** The defense committee has a media team made up of the only folks authorized to speak to the press. 
+- **Please do not volunteer to speak to any media or press in attendance.** The defense committee has a media team made up of the only folks authorized to speak to the press. 
 
--There will also be a rally / press conference outside the courthouse after the oral arguments. **Lead defense attorney Michael Deutsch will address the media** and Rasmea's supporters, and then **we will hear from a number of solidarity speakers, including Frank Chapman**, Field Organizer for the Chicago Alliance Against Racist and Political Repression.
+- There will also be a rally / press conference outside the courthouse after the oral arguments. **Lead defense attorney Michael Deutsch will address the media** and Rasmea's supporters, and then **we will hear from a number of solidarity speakers, including Frank Chapman**, Field Organizer for the Chicago Alliance Against Racist and Political Repression.
 
 **This is basic information for our presence INSIDE the courtroom:**
-_**What do you need to bring to get into the courtroom?**_ Must bring ID: it can be a Drivers license, State I.D., or Passport.
+_ **What do you need to bring to get into the courtroom?**_ Must bring ID: it can be a Drivers license, State I.D., or Passport.
 
-_**What to wear to court?**_  No "I Support Rasmea" clothes, buttons, or signs.
+_ **What to wear to court?**_  No "I Support Rasmea" clothes, buttons, or signs.
 
-_**How to act in court?**_
+_ **How to act in court?**_
 - No talking in the courtroom
 - No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
 
