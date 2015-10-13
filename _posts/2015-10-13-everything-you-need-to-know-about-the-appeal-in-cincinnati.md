@@ -5,7 +5,7 @@ published: false
 rasmealaughing.jpg
 
 ## Chicagoans & All: everything you need to know about Rasmea’s appeal in Cincinnati
-_Stand with Rasmea and fill the appeals courthouse in Cincinnati!  Buses and carloads attending from Chicago; Ft. Wayne & Indianapolis, IN; Cleveland, Youngstown, Columbus & Cincinnati, OH; Florida; Milwaukee & Madison, WI; Grand Rapids, Flint, Dearborn & Detroit, MI; Minneapolis; and more!_
+_Stand with Rasmea and fill the appeals courthouse in Cincinnati! Buses and carloads attending from Chicago; Ft. Wayne & Indianapolis, IN; Cleveland, Youngstown, Columbus & Cincinnati, OH; Florida; Milwaukee & Madison, WI; Grand Rapids, Flint, Dearborn & Detroit, MI; Minneapolis; and more!_
 
 **Chicagoans:**
 - Still a few spots left if you wanna [GET ON THE BUS](https://docs.google.com/forms/d/1v5hyF1IVhpOY8Yma1JMWMWOMFUMLQeN3Vyg9pHXHs-0/viewform?c=0&w=1) from Chicago for the appeal!
