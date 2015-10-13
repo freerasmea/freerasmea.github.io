@@ -40,15 +40,18 @@ While in Cincinnati, we will organize a support **rally in front of the courthou
 - There will also be a rally / press conference outside the courthouse after the oral arguments. **Lead defense attorney Michael Deutsch will address the media** and Rasmea's supporters, and then **we will hear from a number of solidarity speakers, including Frank Chapman**, Field Organizer for the Chicago Alliance Against Racist and Political Repression.
 
 **This is basic information for our presence INSIDE the courtroom:**
-_ **What do you need to bring to get into the courtroom?**_ Must bring ID: it can be a Drivers license, State I.D., or Passport.
 
-_ **What to wear to court?**_  No "I Support Rasmea" clothes, buttons, or signs.
+_**What do you need to bring to get into the courtroom?**_ Must bring ID: it can be a Drivers license, State I.D., or Passport.
 
-_ **How to act in court?**_
+_**What to wear to court?**_ No "I Support Rasmea" clothes, buttons, or signs.
+
+_**How to act in court?**_
+
 - No talking in the courtroom
 - No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
 
 _**What not to bring to court?**_
+
 - No cell phones.
 - No cameras or recording devices.
 - No food or drink.
