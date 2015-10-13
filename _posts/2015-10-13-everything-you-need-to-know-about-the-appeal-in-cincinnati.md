@@ -48,12 +48,15 @@ _**What to wear to court?**_ No "I Support Rasmea" clothes, buttons, or signs.
 _**How to act in court?**_
 
 - No talking in the courtroom
+
 - No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
 
 _**What not to bring to court?**_
 
 - No cell phones.
+
 - No cameras or recording devices.
+
 - No food or drink.
 
 The Rasmea Defense Committee contends that Judge Gershwin Drain [did not allow for a full and fair trial](http://justice4rasmea.org/news/2014/11/10/rasmea-found-guilty/), and believes that is why Rasmea was convicted and sentenced to 18 months in prison and deportation. **We are confident that she has solid arguments on appeal**, and wrote in late July that the “defense argues conclusively that the government ‘never really addresses the basic constitutional deprivations asserted in Ms. Odeh’s [opening appellate brief](http://www.stopfbi.net/sites/default/files/appellantbrief.pdf),’ and that Rasmea is ‘entitled to present her complete defense to the jury,’ which can only happen in a new trial.”
