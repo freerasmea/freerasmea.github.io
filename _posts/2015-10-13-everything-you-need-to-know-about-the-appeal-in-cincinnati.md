@@ -19,6 +19,7 @@ location: "Cincinnati, OH"
 - We're only about $1,500 short of raising the money to pay for the two buses we're taking from Chicago to Cincinnati. **Please help us reach the goal [here](https://www.youcaring.com/rasmea-defense-committee-435256)**!
 
 - We will be gathering at 10 PM the night before the appeal, Tuesday, October 13th, 2015, but **you cannot just show up. You've gotta [sign up](https://docs.google.com/forms/d/1v5hyF1IVhpOY8Yma1JMWMWOMFUMLQeN3Vyg9pHXHs-0/viewform?c=0&w=1) first**, and then you'll be told where the pick up points are.
+
 - Those who are driving their own cars and can take others, or would like to carpool, should [contact Joe Iosbaker](mailto: joeiosbaker@gmail.com) by Tuesday morning, October 13th, at the absolute latest.
 
 As her defense attorneys have said since the beginning of this ordeal, “You [Rasmea’s supporters] provide public testimony when you rally outside the courthouse and then file in to fill the courtroom. Public testimony of not only the power of Rasmea’s positive influence on her friends and colleagues, and the people she organizes, but public testimony also of the fact that she did not receive a fair trial and that there are people who are going to hold the system—prosecutors and judges—accountable.”
@@ -50,15 +51,12 @@ _**What to wear to court?**_
 _**How to act in court?**_
 
 - No talking in the courtroom
-
 - No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
 
 _**What not to bring to court?**_
 
 - No cell phones.
-
 - No cameras or recording devices.
-
 - No food or drink.
 
 The Rasmea Defense Committee contends that Judge Gershwin Drain [did not allow for a full and fair trial](http://justice4rasmea.org/news/2014/11/10/rasmea-found-guilty/), and believes that is why Rasmea was convicted and sentenced to 18 months in prison and deportation. **We are confident that she has solid arguments on appeal**, and wrote in late July that the “defense argues conclusively that the government ‘never really addresses the basic constitutional deprivations asserted in Ms. Odeh’s [opening appellate brief](http://www.stopfbi.net/sites/default/files/appellantbrief.pdf),’ and that Rasmea is ‘entitled to present her complete defense to the jury,’ which can only happen in a new trial.”
