@@ -2,8 +2,7 @@
 published: true
 ---
 
-
-rasmealaughing.jpg
+![Rasmea Odeh]({{site.baseurl}}/assets/img/rasmealaughing.jpg) 
 
 ## Chicagoans & All: everything you need to know about Rasmea’s appeal in Cincinnati
 _Stand with Rasmea and fill the appeals courthouse in Cincinnati! Buses and carloads attending from Chicago; Ft. Wayne & Indianapolis, IN; Cleveland, Youngstown, Columbus & Cincinnati, OH; Florida; Milwaukee & Madison, WI; Grand Rapids, Flint, Dearborn & Detroit, MI; Minneapolis; and more!_
