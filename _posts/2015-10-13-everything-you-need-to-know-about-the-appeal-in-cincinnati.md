@@ -6,6 +6,7 @@ date: "October 13, 2015"
 location: "Cincinnati, OH"
 ---
 
+
 ![Rasmea Odeh]({{site.baseurl}}/assets/img/rasmealaughing.jpg) 
 
 ## Chicagoans & All: everything you need to know about Rasmea’s appeal in Cincinnati
@@ -81,5 +82,3 @@ P.S. See these most recent articles and statements about the case:
 - [Busloads from Chicago to travel to Rasmea Odeh hearing in Cincinnati](http://www.fightbacknews.org/2015/10/8/busloads-chicago-travel-rasmea-odeh-hearing-cincinnati)
 - [Oral arguments for Odeh's appeal set for Oct. 14](http://www.arabamericannews.com/news/news/id_10994/Argument-for-Odehs-appeal-set-for-Oct-14.html)
 - [L.A. standing with Rasmea Odeh](http://www.fightbacknews.org/2015/10/8/la-standing-rasmea-odeh)
-
-#Justice4Rasmea
