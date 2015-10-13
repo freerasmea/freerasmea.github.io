@@ -41,9 +41,11 @@ While in Cincinnati, we will organize a support **rally in front of the courthou
 
 **This is basic information for our presence INSIDE the courtroom:**
 
-_**What do you need to bring to get into the courtroom?**_ Must bring ID: it can be a Drivers license, State I.D., or Passport.
+_**What do you need to bring to get into the courtroom?**_ 
+<br>Must bring ID: it can be a Drivers license, State I.D., or Passport.
 
-_**What to wear to court?**_ No "I Support Rasmea" clothes, buttons, or signs.
+_**What to wear to court?**_ 
+<br>No "I Support Rasmea" clothes, buttons, or signs.
 
 _**How to act in court?**_
 
