@@ -3,7 +3,9 @@ published: true
 date: "October 13, 2015"
 category: news
 excerpt: "On Wednesday, October 14th, 2015, in the U.S. Court of Appeals for the 6th Circuit, three appellate judges will hear oral arguments in the case of Rasmea Odeh, the prominent Palestinian-American activist from Chicago who was convicted last November in what supporters called a “travesty of justice.”"
+location: "Cincinnati, OH"
 ---
+
 
 **For Immediate Release: Rasmea Defense Committee**
 <br>Press Contact: Hatem Abudayyeh, National Spokesperson, 773-301-4108, hatem85@yahoo.com
