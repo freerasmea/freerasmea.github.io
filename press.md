@@ -5,7 +5,16 @@ published: true
 ---
 
 
+
 ## Post-Hearing Coverage
+
+- [Why Every Black Activist Should Stand With Rasmea Odeh, _Huffington Post, Marc Lamont Hill, Oct. 13, 2015_](http://www.huffingtonpost.com/marc-lamont-hill/black-activist-should-stand-with-rasmea-odeh_b_8288682.html)
+
+- [The Campaign Against Rasmea Odeh, _Jacobin Magazine, Mark Mondalek, Oct. 13, 2015_](https://www.jacobinmag.com/2015/10/rasmea-odeh-palestine-israel-midwest-23-bds-fbi/)
+
+- [US appeal court to hear Rasmea Odeh was denied fair trial, _The Electronic Intifada, Charlotte Silver, Oct. 13, 2015_](https://electronicintifada.net/content/us-appeal-court-hear-rasmea-odeh-was-denied-fair-trial/14911)
+
+- [Immigration Fraud Charges as a Tool of Repression: Statement Condemning Prosecution of Rasmea Odeh,_Defending Dissent Foundation,  Chip Gibbons, Oct. 13, 2015_](http://bordc.org/blog/immigration-fraud-charges-tool-repression-statement-condemning-prosecution-rasmea-odeh)
 
 - [Radio Autonomía: Zapatismo in the Bay – July 2015 Show (Rasmea Odeh), _Radio Autonomía, Jul. 26, 2015_](https://radioautonomia.wordpress.com/2015/07/26/radio-autonomia-zapatismo-in-the-bay-july-2015-show-rasmea-odeh/)
 
