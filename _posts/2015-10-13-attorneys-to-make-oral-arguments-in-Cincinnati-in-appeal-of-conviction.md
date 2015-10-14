@@ -2,7 +2,6 @@
 published: true
 ---
 
-
 **For Immediate Release: Rasmea Defense Committee**
 <br>Press Contact: Hatem Abudayyeh, National Spokesperson, 773-301-4108, hatem85@yahoo.com
  
