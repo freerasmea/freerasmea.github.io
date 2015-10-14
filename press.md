@@ -14,7 +14,7 @@ published: true
 
 - [US appeal court to hear Rasmea Odeh was denied fair trial, _The Electronic Intifada, Charlotte Silver, Oct. 13, 2015_](https://electronicintifada.net/content/us-appeal-court-hear-rasmea-odeh-was-denied-fair-trial/14911)
 
-- [Immigration Fraud Charges as a Tool of Repression: Statement Condemning Prosecution of Rasmea Odeh,_Defending Dissent Foundation,  Chip Gibbons, Oct. 13, 2015_](http://bordc.org/blog/immigration-fraud-charges-tool-repression-statement-condemning-prosecution-rasmea-odeh)
+- [Immigration Fraud Charges as a Tool of Repression: Statement Condemning Prosecution of Rasmea Odeh, _Defending Dissent Foundation,  Chip Gibbons, Oct. 13, 2015_](http://bordc.org/blog/immigration-fraud-charges-tool-repression-statement-condemning-prosecution-rasmea-odeh)
 
 - [Radio Autonomía: Zapatismo in the Bay – July 2015 Show (Rasmea Odeh), _Radio Autonomía, Jul. 26, 2015_](https://radioautonomia.wordpress.com/2015/07/26/radio-autonomia-zapatismo-in-the-bay-july-2015-show-rasmea-odeh/)
 
