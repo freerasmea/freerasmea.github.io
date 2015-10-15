@@ -36,7 +36,7 @@ The Rasmea Defense Committee organized two busloads of Chicagoans to Cincinnati,
 
 ####
 
-The Rasmea Defense Committee is led by  United States Palestinian Community Network (USPCN), Committee to Stop FBI Repression (CSFR), and Coalition to Protect People’s Rights (CPPR). 
+The [Rasmea Defense Committee](http://justice4rasmea.org/defense-committee/) is led by  [United States Palestinian Community Network (USPCN)](http://uspcn.org/), [Committee to Stop FBI Repression (CSFR)](http://www.stopfbi.net/), and Coalition to Protect People’s Rights (CPPR). 
 
 [www.justice4rasmea.org](http://justice4rasmea.org/)
 [@Justice4Rasmea](https://twitter.com/Justice4Rasmea)
