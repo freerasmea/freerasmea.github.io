@@ -39,5 +39,5 @@ ____
 The [Rasmea Defense Committee](http://justice4rasmea.org/defense-committee/) is led by  [United States Palestinian Community Network (USPCN)](http://uspcn.org/), [Committee to Stop FBI Repression (CSFR)](http://www.stopfbi.net/), and Coalition to Protect People’s Rights (CPPR). 
 
 [www.justice4rasmea.org](http://justice4rasmea.org/)
-[@Justice4Rasmea](https://twitter.com/Justice4Rasmea)
-**#Justice4Rasmea**
+<br>[@Justice4Rasmea](https://twitter.com/Justice4Rasmea)
+<br>**#Justice4Rasmea**
