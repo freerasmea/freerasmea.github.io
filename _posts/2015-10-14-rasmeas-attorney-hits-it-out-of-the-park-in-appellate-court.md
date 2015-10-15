@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 date: "october 14, 2015"
 category: news
 excerpt: "Appealing the November 2014 federal conviction of prominent Palestinian-American activist Rasmea Odeh, lead defense attorney Michael Deutsch gave a powerful oral argument in front of a panel of three judges in Cincinnati, at the U.S. Court of Appeals for the 6th Circuit."
 ---
+
 
 ## Rasmea’s attorney hits it out of the park in appellate court
 
