@@ -16,6 +16,7 @@ published: true
 
 - [Odeh's attorney to appellate judges: Rasmea did not get a fair trial, _Arab American News, Oct. 15, 2015_](http://www.arabamericannews.com/news/news/id_11210/Odehs-attorney-to-appellate-judges:-Rasmea-did-not-get-a-fair-trial.html)
 
+- [#Justice4Rasmea Cincinnati Appeal Hearing, _ImportantCool.com audio report, JohnsDoeMain, Oct. 15, 2015_](https://www.youtube.com/watch?v=yGTzCngsXHc&feature=youtu.be)
 
 ## Post-Hearing Coverage
 
