@@ -14,7 +14,7 @@ published: true
 
 - [Rasmea Odeh & Supporters Fight for Justice in the Appeals Court, _The Chicago Monitor, Bill Chambers, Oct. 15, 2015_](http://chicagomonitor.com/2015/10/rasmea-odeh-supporters-fight-for-justice-in-the-appeals-court/)
 
-- [Rasmea Odeh appeals, supporters await ruling, _FightBack! News, Tom Burke, Oct. 15, 2015_](http://www.fightbacknews.org/2015/10/15/rasmea-odeh-appeals-supporters-await-ruling)
+- [Odeh's attorney to appellate judges: Rasmea did not get a fair trial, _Arab American News, Oct. 15, 2015_](http://www.arabamericannews.com/news/news/id_11210/Odehs-attorney-to-appellate-judges:-Rasmea-did-not-get-a-fair-trial.html)
 
 
 ## Post-Hearing Coverage
