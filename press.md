@@ -18,6 +18,11 @@ published: true
 
 - [#Justice4Rasmea Cincinnati Appeal Hearing, _ImportantCool.com audio report, JohnsDoeMain, Oct. 14, 2015_](https://www.youtube.com/watch?v=yGTzCngsXHc&feature=youtu.be)
 
+- [#Justice4Rasmea Cincinnati Appeal Hearing, _DemocracyNow!, Oct. 14, 2015_](http://www.democracynow.org/2015/10/14/headlines/ohio_court_considers_appeal_of_palestinian_activist_rasmea_odeh)
+
+- [When I See Them I See Us, _Black-Palestinian Solidarity video, Oct. 14, 2015_](https://www.youtube.com/watch?v=xsdpg-9cmSw&feature=youtu.be)
+
+
 
 ## Post-Hearing Coverage
 
