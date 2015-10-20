@@ -4,6 +4,11 @@ permalink: /press/
 published: true
 ---
 
+## Post-Appeal Coverage
+
+- [Rasmea Odeh appeals, supporters await ruling, _FightBack! News, Tom Burke, Oct. 15, 2015_](http://www.fightbacknews.org/2015/10/15/rasmea-odeh-appeals-supporters-await-ruling)
+ 
+- [Rasmea’s Defense Team Makes a Strong Argument at Her Appeal, _Palestine in America, Roya Naderi, Oct. 18, 2015_](https://www.jacobinmag.com/2015/10/rasmea-odeh-palestine-israel-midwest-23-bds-fbi/)
 
 
 ## Post-Hearing Coverage
