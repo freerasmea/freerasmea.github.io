@@ -24,9 +24,12 @@ published: true
 
 
 
+
 ## Post-Hearing Coverage
 
 - [Why Every Black Activist Should Stand With Rasmea Odeh, _Huffington Post, Marc Lamont Hill, Oct. 13, 2015_](http://www.huffingtonpost.com/marc-lamont-hill/black-activist-should-stand-with-rasmea-odeh_b_8288682.html)
+
+- [Palestinian Justice Activist Rasmea Odeh to Challenge US Court, _telesur tv, Oct. 13, 2015_](http://www.telesurtv.net/english/news/Palestinian-Justice-Activist-Rasmea-Odeh-to-Challenge-US-Court-20151013-0036.html)
 
 - [The Campaign Against Rasmea Odeh, _Jacobin Magazine, Mark Mondalek, Oct. 13, 2015_](https://www.jacobinmag.com/2015/10/rasmea-odeh-palestine-israel-midwest-23-bds-fbi/)
 
