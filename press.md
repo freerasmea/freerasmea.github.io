@@ -22,7 +22,7 @@ published: true
 
 - [When I See Them I See Us, _Black-Palestinian Solidarity video, Oct. 14, 2015_](https://www.youtube.com/watch?v=xsdpg-9cmSw&feature=youtu.be)
 
-
+- [Jewish Group Calls for Court to Drop Unjust Charges Against Palestinian-American Leader, Rasmea Odeh, _Jewish Voice for Peace, Oct. 14, 2015_](https://jewishvoiceforpeace.org/jewish-group-calls-for-court-to-drop-unjust-charges-against-palestinian-american-leader-rasmea-odeh/)
 
 
 ## Post-Hearing Coverage
