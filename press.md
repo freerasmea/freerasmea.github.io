@@ -10,11 +10,11 @@ published: true
 
 - [Rasmea Odeh appeals, supporters await ruling, _FightBack! News, Tom Burke, Oct. 15, 2015_](http://www.fightbacknews.org/2015/10/15/rasmea-odeh-appeals-supporters-await-ruling)
 
-- [Rasmea Odeh appeals, supporters await ruling, _FightBack! News, Tom Burke, Oct. 15, 2015_](https://electronicintifada.net/blogs/charlotte-silver/appeal-judges-grill-rasmea-odehs-prosecutors)
+- [Appeal judges grill Rasmea Odeh’s prosecutors, _The Electronic Intifada, Charlotte Silver, Oct. 15, 2015_](https://electronicintifada.net/blogs/charlotte-silver/appeal-judges-grill-rasmea-odehs-prosecutors)
+
+- [Rasmea Odeh & Supporters Fight for Justice in the Appeals Court, _The Chicago Monitor, Bill Chambers, Oct. 15, 2015_](http://chicagomonitor.com/2015/10/rasmea-odeh-supporters-fight-for-justice-in-the-appeals-court/)
 
 - [Rasmea Odeh appeals, supporters await ruling, _FightBack! News, Tom Burke, Oct. 15, 2015_](http://www.fightbacknews.org/2015/10/15/rasmea-odeh-appeals-supporters-await-ruling)
-
-- [Appeal judges grill Rasmea Odeh’s prosecutors, _The Electronic Intifada, Charlotte Silver, Oct. 15, 2015_](https://electronicintifada.net/blogs/charlotte-silver/appeal-judges-grill-rasmea-odehs-prosecutors)
 
 
 ## Post-Hearing Coverage
