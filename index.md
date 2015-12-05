@@ -4,7 +4,7 @@ title: Free Rasmea Odeh!
 callouts:
   -
     heading: "About the Case"
-    section: "Rasmea Odeh is a 67 year old Palestinian American community leader who was tortured by the Israeli government in 1969. On November 10th in front of supporters in the courtroom, Rasmea was found guilty of one count of Unlawful Procurement of Naturalization and sentenced to 18 months in prison and deportation. The appeals court heard oral arguments on October 14 and we will receive a decision 1–4 months from now. Rasmea has been unjustly convicted, but her struggle is far from over. We still need your support to ensure that we win justice.
+    section: "Rasmea Odeh is a 67 year old Palestinian American community leader who was tortured by the Israeli government in 1969. On November 10th in front of supporters in the courtroom, Rasmea was unjustly convicted of one count of Unlawful Procurement of Naturalization and sentenced to 18 months in prison and deportation. The appeals court heard oral arguments on October 14th and we are currently awaiting the decision. Rasmea's struggle is far from over and we still need your support to ensure that we win justice.
 "
   -
     heading: "Government repression of Palestinians"
