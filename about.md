@@ -6,6 +6,7 @@ published: true
 
 
 
+
 ## The Case of Rasmea Odeh: A Palestinian Hero
 
 ![Rasmea Odeh]({{site.baseurl}}/assets/img/rasmea_keffiyeh.jpg)
@@ -42,8 +43,8 @@ Rasmea’s case is not only about the U.S. carrying out Israel’s agenda, but a
 
 Rasmea was convicted in the unjust trial in November, and imprisoned in a Michigan county jail for a month, under very difficult conditions, including almost three weeks in solitary confinement. Supporters across the country rallied for – and won – her release on bond. 
 
-In March 2015, Rasmea was sentenced to 18 months in prison and subsequent deportation. However, because of our organizing efforts, she is staying free on bond pending appeal. The sentence was a huge blow to the prosecutor, who asked for 5-7 years. Her appeal was filed by defense attorneys on June 9, the prosecution replied on July 8, and the defense rebuttal was sent to the U.S. Court of Appeals for the Sixth Circuit on July 20. **The appeals court will hear oral arguments in Cincinnati on Wednesday, October 14th, 2015, at 9 AM, and we will mobilize to support Rasmea there.** Email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) to join us!
- 
-The fight is far from over, and we still need your support to ensure that we win **#Justice4Rasmea**. 
+In March 2015, Rasmea was sentenced to 18 months in prison and subsequent deportation. However, because of our organizing efforts, she is staying free on bond pending appeal. The sentence was a huge blow to the prosecutor, who asked for 5-7 years. Her appeal was filed by defense attorneys on June 9, the prosecution replied on July 8, and the defense rebuttal was sent to the U.S. Court of Appeals for the Sixth Circuit on July 20. The appeals court heard oral arguments in Cincinnati on Wednesday, October 14, and Deutsch made a powerful argument for Rasmea deserving a new trial. **We will get a decision 1-4 months from now**, but the fight is far from over, and we still need your support to ensure that we win **#Justice4Rasmea**.
+
+Email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) to join us!
 
 > “We can find justice someplace. Maybe not in this court, maybe in another place. There is justice in this world, we will find it. We will face injustice and we have to change this world, not just in this country, in all the world in all the places there is no justice, we have to bring the justice together. In spite of everything, we are the stronger people, not the government who is unjust.”
