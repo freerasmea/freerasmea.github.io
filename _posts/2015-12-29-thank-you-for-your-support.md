@@ -49,5 +49,5 @@ At Chicago’s People’s Thanksgiving, Rasmea gave a [keynote address](https://
 
 But we can and will do more! Please continue to visit [www.justice4rasmea.org](http://justice4rasmea.org/), organize public events, pitch her story to the media or write about it yourself, and [donate to the legal and political defense](http://justice4rasmea.org/donate/)! Just as it’s shouted at every #BlackLivesMatter protest in the country every day, it’s also true in the fight for #Justice4Rasmea: “We believe that we will win!”
 
-The Rasmea Defense Committee is led by United States Palestinian Community Network (USPCN), Committee to Stop FBI Repression (CSFR), and Coalition to Protect People’s Rights (CPPR)
+The [Rasmea Defense Committee](http://justice4rasmea.org/defense-committee/) is led by [United States Palestinian Community Network (USPCN)](http://uspcn.org/), [Committee to Stop FBI Repression (CSFR)](http://www.stopfbi.net/), and Coalition to Protect People’s Rights (CPPR)
 December 29, 2015
