@@ -16,6 +16,7 @@ In addition, Rasmea’s defense team—Michael Deutsch, Jim Fennerty, Dennis Cun
 
 ### So we’re again asking for your support, and to [donate generously to Rasmea’s defense](http://justice4rasmea.org/donate/) as we prepare for the next round of this fight.
 <br>
+
 ![Deutsch, Fennerty, and Rasmea in Cincinnati (Photo: Ahmed Hamad)]({{site.baseurl}}/assets/img/rasmea-attorneys-after-appeal.jpg)
 
 All of you know that she was unjustly convicted last year, and that we just presented our appeal a couple of months ago. There have been some intermittent updates on the legal proceedings since then, but as we ask for your continued support—**because there is much legal and political work still to be done**—we want to give you the latest summary.
