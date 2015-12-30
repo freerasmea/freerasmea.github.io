@@ -27,7 +27,7 @@ Best case scenario is that they overturn the conviction and the sentencing; then
 
 Another option for the appellate judges would be—without reversing the conviction—to simply compel Judge Drain to allow for another evidentiary hearing with Dr. Mary Fabri, the world-renowned torture expert who diagnosed Rasmea with chronic PTSD. The purpose of the hearing would be twofold: to determine if Fabri truly is an expert, and whether her testimony is relevant. The prosecution, we are sure, will be allowed to have one of its own psychiatrists assess Rasmea as well. There is no guarantee that the judge will allow Fabri to testify in front of a jury after the evidentiary hearing, but we believe it is highly unlikely that, if compelled to grant this hearing, he will again rule that her testimony is irrelevant and inadmissible. If he does, we can appeal again. So this route could also lead to a new trial, and if a new jury gets to hear the evidence that so far has been suppressed in open court, it can find her innocent!
 
-![Legendary Angela Davis with Rasmea]({{site.baseurl}}/assets/img/angela_davis_rasmea.jpg)_Legendary Angela Davis with Rasmea_
+![Legendary Angela Davis with Rasmea]({{site.baseurl}}/assets/img/angela_davis_rasmea.jpg)_Angela Davis with Rasmea_
 
 Alternatively, there is a tiny chance that the appellate judges uphold the conviction but disagree with the sentence. If this happens, the appellate judges send new guidelines back to Drain for re-sentencing, which will almost certainly be less than the 18 months in prison Rasmea currently must serve if the conviction is upheld.
 
