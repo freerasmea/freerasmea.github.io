@@ -1,6 +1,6 @@
 ---
 published: true
-date: "December 28, 2015"
+date: "December 29, 2015"
 category: news
 excerpt: "From filling the courthouses during trials to making phone calls, you’ve done everything we’ve asked for! We thank you for your support and ask that you continue to support us through donations and throughout the appeals process."
 ---
