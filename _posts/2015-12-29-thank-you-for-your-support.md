@@ -15,8 +15,7 @@ Dear Friends and Supporters,
 In addition, Rasmea’s defense team—Michael Deutsch, Jim Fennerty, Dennis Cunningham, Bill Goodman—and so many other People’s Law Office and National Lawyers Guild attorneys, legal clerks, assistants, researchers, etc., have been invaluable in ensuring that Rasmea is home in Chicago, organizing her Arab Women’s Committee, as work on the case moves forward. **We’re going to need at least another $50,000 in the days ahead, for the legal and community organizing expenses.**
 
 ### So we’re again asking for your support, and to [donate generously to Rasmea’s defense](http://justice4rasmea.org/donate/) as we prepare for the next round of this fight.
-<br>
-
+<br></br>
 ![Deutsch, Fennerty, and Rasmea in Cincinnati (Photo: Ahmed Hamad)]({{site.baseurl}}/assets/img/rasmea-attorneys-after-appeal.jpg)
 
 All of you know that she was unjustly convicted last year, and that we just presented our appeal a couple of months ago. There have been some intermittent updates on the legal proceedings since then, but as we ask for your continued support—**because there is much legal and political work still to be done**—we want to give you the latest summary.
