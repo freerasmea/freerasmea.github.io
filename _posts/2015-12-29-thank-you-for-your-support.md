@@ -5,6 +5,7 @@ category: news
 excerpt: "From filling the courthouses during trials to making phone calls, you’ve done everything we’ve asked for! We thank you for your support and ask that you continue to support us through donations and throughout the appeals process."
 ---
 
+![Deutsch, Fennerty, and Rasmea in Cincinnati (Photo: Ahmed Hamad)]({{site.baseurl}}/assets/img/rasmea-attorneys-after-appeal.jpg)
 
 ## Rasmea Defense Committee Thanks You!
 
