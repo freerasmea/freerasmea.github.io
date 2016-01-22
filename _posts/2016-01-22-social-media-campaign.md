@@ -1,5 +1,8 @@
 ---
 published: false
+date: "January 22, 2016"
+category: news
+excerpt: "Join the Rasmea Defense Committee for a social media campaign Wednesday, January 27th, in support of Palestinian American icon Rasmea Odeh—and prepare for an Emergency Response to the appellate court decision!"
 ---
 
 ## #Justice4Rasmea Social Media Campaign Wednesday, January 27th
