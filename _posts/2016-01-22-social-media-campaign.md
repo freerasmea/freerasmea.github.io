@@ -6,6 +6,8 @@ excerpt: "Join the Rasmea Defense Committee for a social media campaign Wednesda
 ---
 
 
+![Deutsch, Fennerty, and Rasmea in Cincinnati (Photo: Ahmed Hamad)]({{site.baseurl}}/assets/img/rasmea-attorneys-after-appeal.jpg)
+
 ## #Justice4Rasmea Social Media Campaign Wednesday, January 27th
 
 Join the Rasmea Defense Committee for a social media campaign Wednesday, January 27th, in support of Palestinian American icon Rasmea Odeh—and prepare for an Emergency Response to the appellate court decision!
