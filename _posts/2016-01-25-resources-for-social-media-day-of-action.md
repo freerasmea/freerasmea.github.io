@@ -5,6 +5,7 @@ category: news
 excerpt: "Use our Resource Guide to participate on Twitter and Facebook for a social media campaign Wednesday, January 27, 2016 with the Rasmea Defense Committee. A decision is expected any day in Rasmea's appeal of her unjust conviction for Unlawful Procurement of Naturalization."
 ---
 
+
 ## Resources for Wednesday, January 27: Join social media day of action for  #Justice4Rasmea
 
 ![social-media-day-of-action.jpg]({{site.baseurl}}/assets/img/social-media-day-of-action.jpg)
@@ -12,7 +13,6 @@ excerpt: "Use our Resource Guide to participate on Twitter and Facebook for a so
 Join the Rasmea Defense Committee for a social media campaign Wednesday, January 27, 2016, in support of Palestinian American icon, Rasmea Odeh! A decision is expected any day in Rasmea's appeal of her unjust conviction for Unlawful Procurement of Naturalization. 
 
 Participate on Twitter and Facebook on Wednesday, January 27th, using [these sample tweets, hashtags, articles, memes, and other resources](http://justice4rasmea.tumblr.com/). Rasmea has dedicated her life to the cause of a #FreePalestine and to Arab communities across the world, including the past 12 years in Chicago. So we must continue to dedicate our organizing to win #Justice4Rasmea.
- 
 
 **How to participate:**
 
