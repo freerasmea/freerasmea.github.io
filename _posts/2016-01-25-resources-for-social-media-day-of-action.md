@@ -39,3 +39,9 @@ If this worst-case scenario decision comes down **BEFORE 12 NOON**, and Rasmea i
 If the decision comes down **AFTER 12 NOON**, we are calling for protests the **NEXT DAY at 5 PM**. 
 
 Allies and supporters across the world will also be participating in the emergency response by protesting at U.S. consulates and embassies everywhere.
+
+[Rasmea Defense Committee](http://justice4rasmea.org/defense-committee/)
+<br>Coalition to Protect People's Rights
+<br>[USPCN-Chicago](http://uspcn.org/)
+<br>[Committee to Stop FBI Repression](http://www.stopfbi.net/)
+<br>[Arab Resource and Organizing Center](http://araborganizing.org/)
