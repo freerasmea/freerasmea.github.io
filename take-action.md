@@ -4,10 +4,11 @@ title: Take Action
 published: true
 ---
 
+
 <img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
 
-### [#Justice4Rasmea Social Media Campaign Wednesday, January 27th](http://justice4rasmea.org/news/2016/01/22/social-media-campaign/)
-Join the Rasmea Defense Committee for a social media campaign Wednesday, January 27th, in support of Palestinian American icon Rasmea Odeh—and prepare for an Emergency Response to the appellate court decision!
+### [#Justice4Rasmea Social Media Campaign Wednesday, January 27th](http://justice4rasmea.org/news/2016/01/25/resources-for-social-media-day-of-action/)
+Join the Rasmea Defense Committee for a social media campaign Wednesday, January 27th, in support of Palestinian American icon Rasmea Odeh—and prepare for an Emergency Response to the appellate court decision! Use our Resource Guide to participate on Facebook and Twitter.
 
 ### [Crowdfund & GET ON THE BUS from Chicago for Rasmea's appeal!](http://justice4rasmea.org/news/2015/10/13/everything-you-need-to-know-about-the-appeal-in-cincinnati/)
 Please help us raise money to get to Cincinnati! We will leave at 10 PM the night before the appeal, Tuesday, October 13th, 2015. It is imperative that we stand with Rasmea and fill the courthouse one last time!
