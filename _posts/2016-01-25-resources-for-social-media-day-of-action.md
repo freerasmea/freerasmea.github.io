@@ -17,7 +17,7 @@ Participate on Twitter and Facebook on Wednesday, January 27th, using [these sam
 
 Help us spread the word about Rasmea on every social media platform you’re on! 
 
-1. Twitter: Follow @Justice4Rasmea, re-tweet our messages, and tweet your own ([based on our resource guide](http://justice4rasmea.tumblr.com/)) throughout the day.  
+1.Twitter: Follow @Justice4Rasmea, re-tweet our messages, and tweet your own ([based on our resource guide](http://justice4rasmea.tumblr.com/)) throughout the day.  
 	
 **_Promos to send before Wednesday:_**
 
