@@ -1,6 +1,10 @@
 ---
-published: false
+published: true
+date: "January 25, 2016"
+category: news
+excerpt: "Use our Resource Guide to participate on Twitter and Facebook for a social media campaign Wednesday, January 27, 2016 with the Rasmea Defense Committee. A decision is expected any day in Rasmea's appeal of her unjust conviction for Unlawful Procurement of Naturalization."
 ---
+
 
 ## Resources for Wednesday, January 27: Join social media day of action for  #Justice4Rasmea
 
@@ -38,4 +42,3 @@ If this worst-case scenario decision comes down **BEFORE 12 NOON**, and Rasmea i
 If the decision comes down **AFTER 12 NOON**, we are calling for protests the **NEXT DAY at 5 PM**. 
 
 Allies and supporters across the world will also be participating in the emergency response by protesting at U.S. consulates and embassies everywhere.
-
