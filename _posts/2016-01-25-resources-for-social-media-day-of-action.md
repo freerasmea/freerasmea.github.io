@@ -25,13 +25,13 @@ Join the #Justice4Rasmea social media campaign Wednesday, January 27! Resources 
 
 Why is Palestinian icon facing [@TheJusticeDept](https://twitter.com/TheJusticeDept) repression? Tweet & post on FB Wed, Jan 27. #Justice4Rasmea [http://justice4rasmea.tumblr.com/](http://justice4rasmea.tumblr.com/)
 
-2. Facebook: Like and follow us at [Free-Rasmea-Now](https://www.facebook.com/Free-Rasmea-Now-678264732186412)
+2.Facebook: Like and follow us at [Free-Rasmea-Now](https://www.facebook.com/Free-Rasmea-Now-678264732186412)
 
-3. The resource page is at [http://justice4rasmea.tumblr.com/](http://justice4rasmea.tumblr.com/), where there will be images and text that you can share on whatever social media you are using. Make sure to include the #Justice4Rasmea hashtag.
+3.The resource page is at [http://justice4rasmea.tumblr.com/](http://justice4rasmea.tumblr.com/), where there will be images and text that you can share on whatever social media you are using. Make sure to include the #Justice4Rasmea hashtag.
 
-4. Go to [www.justice4rasmea.org](http://justice4rasmea.org/) for more information.
+4.Go to [www.justice4rasmea.org](http://justice4rasmea.org/) for more information.
 
-5. Prepare your city, organization, and / or campus for our Emergency Response Plan:
+5.Prepare your city, organization, and / or campus for our Emergency Response Plan:
 
 Although we are confident that we will win the appeal and have the conviction overturned, there is a chance—[as we reported right before the end of 2015](http://justice4rasmea.org/news/2015/12/29/thank-you-for-your-support/)—that the appellate court will uphold the conviction, ruling in favor of the government. If that happens, it is very likely that Rasmea will be ordered to turn herself in to federal prison authorities, while we petition to keep her out on bail.
 
