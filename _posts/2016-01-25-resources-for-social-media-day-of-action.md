@@ -4,6 +4,7 @@ date: "January 25, 2016"
 category: news
 excerpt: "Use our Resource Guide to participate on Twitter and Facebook for a social media campaign Wednesday, January 27, 2016 with the Rasmea Defense Committee. A decision is expected any day in Rasmea's appeal of her unjust conviction for Unlawful Procurement of Naturalization."
 ---
+
 ## Resources for Wednesday, January 27: Join social media day of action for #Justice4Rasmea
 
 ![social-media-day-of-action.jpg]({{site.baseurl}}/assets/img/social-media-day-of-action.jpg)
