@@ -9,7 +9,7 @@ excerpt: "Use our Resource Guide to participate on Twitter and Facebook for a so
 
 ## Resources for Wednesday, January 27: Join social media day of action for  #Justice4Rasmea
 
-![social-media-day-of-action.png]({{site.baseurl}}/assets/img/social-media-day-of-action.jpg)
+![social-media-day-of-action.jpg]({{site.baseurl}}/assets/img/social-media-day-of-action.jpg)
 
 Join the Rasmea Defense Committee for a social media campaign Wednesday, January 27, 2016, in support of Palestinian American icon, Rasmea Odeh! A decision is expected any day in Rasmea's appeal of her unjust conviction for Unlawful Procurement of Naturalization. 
 
