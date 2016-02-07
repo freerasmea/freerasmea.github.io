@@ -4,7 +4,11 @@ permalink: /press/
 published: true
 ---
 
+
 ## Post-Appeal Coverage
+- [Rasmea Odeh supporters launch online solidarity day, _The Arab American News, Jan. 19, 2016_](http://www.arabamericannews.com/news/news/id_11735/Rasmea-Odeh-supporters-launch-online-solidarity-day.html)
+
+- [Demands Grow for US to Drop Case Against Palestinian Activist, _teleSUR tv, Jan. 28, 2016_](http://www.telesurtv.net/english/news/Supporters-Campaign-to-Free-US-Palestinian-Activist-Rasmea-Odeh-20160128-0005.html)
 
 - [Rasmea’s Defense Team Makes a Strong Argument at Her Appeal, _Palestine in America, Roya Naderi, Oct. 18, 2015_](http://palestineinamerica.com/2015/10/rasmeas-defense-team-makes-a-strong-argument-at-her-appeal/)
 
