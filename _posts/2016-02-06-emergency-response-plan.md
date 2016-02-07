@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 category: news
 excerpt: "We are expecting that a decision will be coming down from the appellate court very soon, so prepare your city, organization, and/or campus for our Emergency Response Plan."
 date: "February, 6, 2016"
 ---
+
 
 ## Emergency Response Plan for #Justice4Rasmea
 
