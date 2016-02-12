@@ -43,11 +43,14 @@ If the decision **is announced AFTER 12 NOON**, we are calling for protests the 
 
 When you post it, link the picture to [bit.ly/1TLFjUT](http://justice4rasmea.org/news/2016/02/06/emergency-response-plan/), which takes you straight to the Emergency Response Plan page.
 
+![ERP-for-rasmea.jpg]({{site.baseurl}}/_posts/ERP-for-rasmea.jpg)
 
+**3. International Women's Day is March 8.**
 
-3. International Women's Day is March 8.
+Organize events on or around this date, to celebrate an important international holiday, and also to incorporate the theme of #Justice4Rasmea. Already, San Francisco and Chicago have announced events.
+![rasmea-fights-back-event.jpg]({{site.baseurl}}/_posts/rasmea-fights-back-event.jpg)
 
-Organize events on or around this date, to celebrate an important international holiday, and also to incorporate the theme of #Justice4Rasmea. Already, San Francisco (left) and Chicago (right) have announced events.
+![womens-day-event-poster.jpg]({{site.baseurl}}/_posts/womens-day-event-poster.jpg)
 
 Thank you all for your support!
 Rasmea Defense Committee
