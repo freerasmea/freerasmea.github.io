@@ -1,5 +1,8 @@
 ---
 published: false
+date: "February 11, 2016"
+category: news
+excerpt: "Thank you for participating in our social media day of action! See our reach and prepare for the appellate court's decision with our Emergency Response Plan."
 ---
 
 ![justice-for-rasmea.jpg]({{site.baseurl}}/_posts/justice-for-rasmea.jpg)
