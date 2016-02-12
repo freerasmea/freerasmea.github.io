@@ -22,23 +22,26 @@ Towards the end of the night, we sent a direct message to our friend and Brazili
 
 And of course #Justice4Rasmea was all over Facebook as well, with postings of many of our [memes](http://justice4rasmea.tumblr.com/) and other pictures.
 
+![twitter-image.jpeg]({{site.baseurl}}/_posts/twitter-image.jpeg)
+
+
 As we near the decision on Rasmea's appeal, we are asking for supporters to do three things:
 
-1. Prepare for our Emergency Response Plan.
+**1. Prepare for our [Emergency Response Plan](http://justice4rasmea.org/news/2016/02/06/emergency-response-plan/).**
 
-We DO NOT know when exactly, but are expecting that a decision will be coming down from the appellate court very soon, so prepare your city, organization, and / or campus.
+**We DO NOT know when exactly**, but are expecting that a decision will be coming down from the appellate court very soon, so prepare your city, organization, and / or campus.
 
-Although we are confident that we will win the appeal and have the conviction overturned, there is a chance—as we reported right before the end of 2015—that the appellate court will uphold the conviction, ruling in favor of the government. If that happens, it is very likely that Rasmea will be ordered to turn herself in to federal prison authorities, while we petition to keep her out on bail.
+Although we are confident that we will win the appeal and have the conviction overturned, there is a chance—[as we reported right before the end of 2015](http://justice4rasmea.org/news/2015/12/29/thank-you-for-your-support/)—that the appellate court will uphold the conviction, ruling in favor of the government. If that happens, it is very likely that Rasmea will be ordered to turn herself in to federal prison authorities, while we petition to keep her out on bail.
 
-If this worst-case scenario decision is announced BEFORE 12 NOON, and Rasmea is ordered to prison, we are calling for protests the VERY SAME DAY at 5 PM at federal buildings across the country.
+If this worst-case scenario decision **is announced BEFORE 12 NOON**, and Rasmea is ordered to prison, we are calling for protests the **VERY SAME DAY at 5 PM** at federal buildings across the country.
 
-If the decision is announced AFTER 12 NOON, we are calling for protests the NEXT DAY at 5 PM. Allies and supporters across the world will also be participating in the emergency response by protesting at U.S. consulates and embassies everywhere.
+If the decision **is announced AFTER 12 NOON**, we are calling for protests the **NEXT DAY at 5 PM**. Allies and supporters across the world will also be participating in the emergency response by protesting at U.S. consulates and embassies everywhere.
 
-New York and Minneapolis have already publicized their readiness, and you should too!
+[New York](https://www.facebook.com/NYCSJP/photos/pb.899935043353125.-2207520000.1455156161./1129740100372617/?type=3&theater) and [Minneapolis](http://antiwarcommittee.org/2016/01/26/emergency-response-plan-for-justice4rasmea/) have already publicized their readiness, and you should too!
 
-2. Use this meme for your profile picture on all your platforms. 
+**2. Use this meme for your profile picture on all your platforms.**
 
-When you post it, link the picture to bit.ly/1TLFjUT, which takes you straight to the Emergency Response Plan page.
+When you post it, link the picture to [bit.ly/1TLFjUT](http://justice4rasmea.org/news/2016/02/06/emergency-response-plan/), which takes you straight to the Emergency Response Plan page.
 
 
 
