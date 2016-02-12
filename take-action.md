@@ -5,6 +5,7 @@ published: true
 ---
 
 <img src="{{site.baseurl}}/assets/img/ERP-for-rasmea.jpg">
+
 ### Use this meme for your profile image on all social media platforms.
 
 When you post it, link the picture to [bit.ly/1TLFjUT](http://justice4rasmea.org/news/2016/02/06/emergency-response-plan/), which takes you straight to the Emergency Response Plan page.
