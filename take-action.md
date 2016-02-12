@@ -4,8 +4,9 @@ title: Take Action
 published: true
 ---
 
-
-<img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
+### Use this meme for your profile image on all social media platforms.
+<img src="{{site.baseurl}}/assets/img/ERP-for-rasmea.jpg">
+When you post it, link the picture to [bit.ly/1TLFjUT](http://justice4rasmea.org/news/2016/02/06/emergency-response-plan/), which takes you straight to the Emergency Response Plan page.
 
 ### [#Justice4Rasmea Social Media Campaign Wednesday, January 27th](http://justice4rasmea.org/news/2016/01/25/resources-for-social-media-day-of-action/)
 Join the Rasmea Defense Committee for a social media campaign Wednesday, January 27th, in support of Palestinian American icon Rasmea Odeh—and prepare for an Emergency Response to the appellate court decision! Use our Resource Guide to participate on Facebook and Twitter.
@@ -17,6 +18,8 @@ Please help us raise money to get to Cincinnati! We will leave at 10 PM the nigh
 Come to Cincinnati on the morning of October 14th for a rally in front of the courthouse and filling the courthouse afterwards as Rasmea's defense and the prosecution each present their oral arguments to a three-judge panel.
 
 _____
+
+<img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
 
 ### [Media Action Alert for Rasmea!](http://justice4rasmea.org/news/2015/03/16/media-action-alert-for-rasmea/)
 On March 12, 2015, Rasmea Odeh was sentenced to 18 months in prison after an unjust conviction last November, but she is challenging that conviction, and our organizing has helped her remain free on bond, pending the outcome of her appeal. Help spread her story and highlight her case in the 4 to 8 months before the appeal.
