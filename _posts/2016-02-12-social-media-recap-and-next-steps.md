@@ -59,4 +59,4 @@ Organize events on or around this date, to celebrate an important international 
 ![womens-day-event-poster.jpg]({{site.baseurl}}/assets/img/womens-day-event-poster.jpg)
 
 Thank you all for your support!
-Rasmea Defense Committee
+<br>Rasmea Defense Committee
