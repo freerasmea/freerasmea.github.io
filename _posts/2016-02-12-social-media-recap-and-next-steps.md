@@ -6,6 +6,7 @@ excerpt: "Thank you for participating in our social media day of action! See our
 ---
 
 
+
 ![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/justice-for-rasmea.jpg)
 
 The Rasmea Defense Committee, [United States Palestinian Community Network](http://uspcn.org/), Committee to Stop FBI Repression, Coalition to Protect People’s Rights, and Arab Resource and Organizing Center thank you for participating in our January 27, 2016, social media day of action in support of #Justice4Rasmea. The campaign was an incredible success, with articles from [Telesur](http://www.telesurtv.net/english/news/Supporters-Campaign-to-Free-US-Palestinian-Activist-Rasmea-Odeh-20160128-0005.html), [Arab American News](http://www.arabamericannews.com/news/news/id_11735/rp_0/act_print/rf_1/Print.html), and [Russia Today](https://www.rt.com/news/330533-palestinian-activist-trial-us-israel/)—the latter’s headline reading, “#Justice4Rasmea: Palestinian activist’s supporters light up social media”—declaring the same.
@@ -52,6 +53,7 @@ When you post it, link the picture to [bit.ly/1TLFjUT](http://justice4rasmea.org
 **3. International Women's Day is March 8.**
 
 Organize events on or around this date, to celebrate an important international holiday, and also to incorporate the theme of #Justice4Rasmea. Already, San Francisco and Chicago have announced events.
+
 ![rasmea-fights-back-event.jpg]({{site.baseurl}}/assets/img/rasmea-fights-back-event.jpg)
 
 ![womens-day-event-poster.jpg]({{site.baseurl}}/assets/img/womens-day-event-poster.jpg)
