@@ -28,7 +28,7 @@ Saturday, March 5, 2016
 San Francisco, CA
 
 
-Facebook: https://www.facebook.com/events/964191720354093/
+Facebook: [https://www.facebook.com/events/964191720354093/](https://www.facebook.com/events/964191720354093/)
 
 info@araborganizing.org
 
