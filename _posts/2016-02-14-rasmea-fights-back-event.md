@@ -11,36 +11,24 @@ excerpt: "The struggle of Women, Immigrants & Political Prisoners"
 ![rasmea-fights-back-event.jpg]({{site.baseurl}}/assets/img/rasmea-fights-back-event.jpg)
 
 In honor of International Women’s Day
-
-Rasmea Fights Back:
-
-The struggle of Women, Immigrants & Political Prisoners
+<br>Rasmea Fights Back:
+<br>The struggle of Women, Immigrants & Political Prisoners
 
 
 Featuring:
-
-Nadine Naber, University of Illinois at Chicago & Rasmea Odeh Defense Committee
-
-Saturday, March 5, 2016
-
-6:30pm
-
-518 Valencia Street,
-
-San Francisco, CA
+<br>Nadine Naber, University of Illinois at Chicago & Rasmea Odeh Defense Committee
+<br>Saturday, March 5, 2016
+<br>6:30pm
+<br>518 Valencia Street,
+<br>San Francisco, CA
 
 
 Facebook: [https://www.facebook.com/events/964191720354093/](https://www.facebook.com/events/964191720354093/)
-
-info@araborganizing.org
-
-415-861-7444
-
-#Justice4Rasmea
+<br>info@araborganizing.org
+<br>415-861-7444
 
 
 Hosted by:
-
-The Arab Resource and Organizing Center (AROC)
+<br>The Arab Resource and Organizing Center (AROC)
 
 Rasmea Odeh is a 67 year old Palestinian American community leader who was tortured by the Israeli government in 1969. In 2014 Rasmea was unjustly convicted of one count of Unlawful Procurement of Naturalization and sentenced to 18 months in prison and deportation. The appeals court heard oral arguments on October 14th and we are currently awaiting the decision. Learn about her struggle against systemic targeting of Arabs and Muslims, and ways to support her defense.
