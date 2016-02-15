@@ -2,7 +2,7 @@
 published: true
 date: "March 5, 2016"
 location: "San Francisco, CA"
-category: events
+category: news
 excerpt: "The Struggle of Women, Immigrants & Political Prisoners"
 ---
 
