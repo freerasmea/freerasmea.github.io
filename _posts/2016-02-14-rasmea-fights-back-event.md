@@ -3,8 +3,9 @@ published: true
 date: "March 5, 2016"
 location: "San Francisco, CA"
 category: events
-excerpt: "The struggle of Women, Immigrants & Political Prisoners"
+excerpt: "The Struggle of Women, Immigrants & Political Prisoners"
 ---
+
 
 ## [ 5 March, San Francisco: Rasmea Fights Back – The Struggle of Women, Immigrants and Political Prisoners](http://samidoun.net/2016/02/5-march-san-francisco-rasmea-fights-back-the-struggle-of-women-immigrants-and-political-prisoners/)
 
