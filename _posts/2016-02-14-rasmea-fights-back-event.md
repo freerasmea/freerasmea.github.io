@@ -8,9 +8,9 @@ excerpt: "The Struggle of Women, Immigrants & Political Prisoners"
 
 
 
+
 ## [March 5, San Francisco: Rasmea Fights Back – The Struggle of Women, Immigrants and Political Prisoners](http://samidoun.net/2016/02/5-march-san-francisco-rasmea-fights-back-the-struggle-of-women-immigrants-and-political-prisoners/)
 
-![rasmea-fights-back-event.jpg]({{site.baseurl}}/assets/img/rasmea-fights-back-event.jpg)
 
 In honor of International Women’s Day
 <br>Rasmea Fights Back:
