@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: "March 5, 2016"
 location: "San Francisco, CA"
 category: events
