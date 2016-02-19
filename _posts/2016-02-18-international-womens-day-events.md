@@ -1,6 +1,5 @@
 ---
 published: true
-date: "March 8, 2016"
 category: events
 excerpt: "Here is a list of International Women's Day events around the country supporting or celebrating Rasmea."
 ---
