@@ -7,8 +7,9 @@ excerpt: "Here is a list of International Women's Day events around the country 
 
 
 
+
 ## International Women's Day Events
-**March 8, 2016**
+
 
 Here is a list of International Women's Day events around the country supporting or celebrating Rasmea. More events will be announced soon.
 
