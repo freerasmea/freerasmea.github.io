@@ -11,13 +11,13 @@ permalink: "/events/international-womens-day/"
 
 Here is a list of International Women's Day events around the country supporting or celebrating Rasmea. More events will be announced soon.
 
-**CHICAGO:**
+### **CHICAGO:**
 <br>Sunday, March 6
 
 **[Celebrate International Women's Day 2016!](https://www.facebook.com/events/694389607370561/)**
 ![IWD-Chicago.jpg]({{site.baseurl}}/assets/img/IWD-Chicago.jpg)
 
-**SAN FRANCISCO:**
+### **SAN FRANCISCO:**
 <br>Saturday, March 5
 
 **[Rasmea Fights Back: The Struggle of Women, Immigrants, and Political Prisoners](https://www.facebook.com/events/964191720354093/)**
