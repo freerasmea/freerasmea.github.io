@@ -15,7 +15,9 @@ Here is a list of International Women's Day events around the country supporting
 **Sunday, March 6**
 
 **[Celebrate International Women's Day 2016!](https://www.facebook.com/events/694389607370561/)**
+
 ![IWD-Chicago.jpg]({{site.baseurl}}/assets/img/IWD-Chicago.jpg)
+
 
 ### SAN FRANCISCO:
 **Saturday, March 5**
@@ -24,11 +26,14 @@ Here is a list of International Women's Day events around the country supporting
 
 ![IWD-AROC.jpg]({{site.baseurl}}/assets/img/IWD-AROC.jpg)
 
+
 ### MINNEAPOLIS:
 **Sunday, March 6**
 
 [**Minneapolis: International Women's Day event**](https://www.facebook.com/events/1105663326133418/)
+
 ![IWD-MN.jpg]({{site.baseurl}}/assets/img/IWD-MN.jpg)
+
 
 ### HOUSTON:
 **Sunday, March 6**
