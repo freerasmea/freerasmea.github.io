@@ -31,3 +31,7 @@ MINNEAPOLIS:
 [**Minneapolis: International Women's Day event**](https://www.facebook.com/events/1105663326133418/)
 
 ![IWD-MN.jpg]({{site.baseurl}}/assets/img/IWD-MN.jpg)
+
+HOUSTON:
+<br>Sunday, March 6
+[International Womens Day Get Together (Frso)](http://www.timeout.com/houston/things-to-do/international-womens-day-get-together-frso)
