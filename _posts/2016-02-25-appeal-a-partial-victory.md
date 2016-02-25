@@ -5,7 +5,7 @@ excerpt: "A ruling from the Sixth Circuit Court of Appeals represents a partial 
 ---
 
 
-**Rasmea Defense Committee**
+Rasmea Defense Committee
 <br>February 25th, 2016
 
 Media contact: 
