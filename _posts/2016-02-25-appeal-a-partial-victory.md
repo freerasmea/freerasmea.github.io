@@ -5,6 +5,7 @@ excerpt: "A ruling from the Sixth Circuit Court of Appeals represents a partial 
 ---
 
 
+
 Rasmea Defense Committee
 <br>February 25th, 2016
 
@@ -14,7 +15,7 @@ Media contact:
 
 ## Decision in Rasmea Odeh appeal a partial victory
 
-This morning, a ruling from the Sixth Circuit Court of Appeals represents a partial victory in the case of Rasmea Odeh, the legendary Palestinian American icon who was convicted of a politically motivated immigration charge in 2014, and sentenced to 18 months in prison and deportation last year.
+This morning, a [ruling from the Sixth Circuit Court of Appeals](http://www.stopfbi.net/sites/default/files/appeal%20opinion.pdf) represents a partial victory in the case of Rasmea Odeh, the legendary Palestinian American icon who was convicted of a politically motivated immigration charge in 2014, and sentenced to 18 months in prison and deportation last year.
 
 Organizers with the Rasmea Defense Committee, which represents over 50 institutions across the country, have been waiting for a decision in the appeal since last October, and are pleased with the result.
 
