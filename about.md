@@ -51,4 +51,5 @@ In February 2016, the appellate court ruled that Judge Drain erred in keeping th
 Email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) to join us!
 
 ![Rasmea After Trial]({{site.baseurl}}/assets/img/rasmea-pic-trial.jpg) 
+
 > “We can find justice someplace. Maybe not in this court, maybe in another place. There is justice in this world, we will find it. We will face injustice and we have to change this world, not just in this country, in all the world in all the places there is no justice, we have to bring the justice together. In spite of everything, we are the stronger people, not the government who is unjust.” —Rasmea to supporters after November verdict
