@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ## The Case of Rasmea Odeh: A Palestinian Hero
 
 ![Rasmea Odeh]({{site.baseurl}}/assets/img/rasmea_keffiyeh.jpg)
@@ -43,7 +44,9 @@ Rasmea’s case is not only about the U.S. carrying out Israel’s agenda, but a
 
 Rasmea was convicted in the unjust trial in November, and imprisoned in a Michigan county jail for a month, under very difficult conditions, including almost three weeks in solitary confinement. Supporters across the country rallied for – and won – her release on bond. 
 
-In March 2015, Rasmea was sentenced to 18 months in prison and subsequent deportation. However, because of our organizing efforts, she is staying free on bond pending appeal. The sentence was a huge blow to the prosecutor, who asked for 5-7 years. Her appeal was filed by defense attorneys on June 9, the prosecution replied on July 8, and the defense rebuttal was sent to the U.S. Court of Appeals for the Sixth Circuit on July 20. The appeals court heard oral arguments in Cincinnati on Wednesday, October 14, and Deutsch made a powerful argument for Rasmea deserving a new trial. **We will get a decision 1-4 months from now**, but the fight is far from over, and we still need your support to ensure that we win **#Justice4Rasmea**.
+In March 2015, Rasmea was sentenced to 18 months in prison and subsequent deportation. However, because of our organizing efforts,she is staying free on bond pending appeal. The sentence was a huge blow to the prosecutor, who asked for 5-7 years. Her appeal was filed by defense attorneys on June 9, the prosecution replied on July 8, and the defense rebuttal was sent to the U.S. Court of Appeals for the Sixth Circuit on July 20. The appeals court heard oral arguments in Cincinnati on Wednesday, October 14, and Deutsch made a powerful argument for Rasmea deserving a new trial.
+
+In February 2016, the appellate court ruled that Judge Drain erred in keeping the evidence of torture and PTSD from the jury—**a huge victory for us in the case!** It means that Rasmea should now be able to tell her entire story to the courts and the jury. We expect to receive an update on next steps from Drain in April 2016, but we should continue to organize educational events, fundraisers, and other activities to win **#Justice4Rasmea**.
 
 Email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) to join us!
 
