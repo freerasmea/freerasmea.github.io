@@ -6,6 +6,10 @@ published: true
 
 
 ## Post-Appeal Coverage
+- [Guest: Nadine Naber of the Rasmea Defense Committee, _KPFK Public Radio, Mar. 21, 2016_](http://archive.kpfk.org/index.php?shokey=rintifada)
+
+- [Guest: Hatem Abudayyeh of the Rasmea Defense Committee, _The People Speak Radio, Mar. 8, 2016_](http://bbsradio.com/podcast/people-speak-march-8-2016)
+
 - [#Justice4Rasmea: Palestinian activist’s supporters light up social media, _RT, Jan. 29, 2016_](https://www.rt.com/news/330533-palestinian-activist-trial-us-israel/)
 
 - [Rasmea Odeh supporters launch online solidarity day, _The Arab American News, Jan. 29, 2016_](http://www.arabamericannews.com/news/news/id_11735/Rasmea-Odeh-supporters-launch-online-solidarity-day.html)
