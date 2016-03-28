@@ -6,7 +6,7 @@ published: true
 
 
 ## Post-Appeal Coverage
-- [Guest: Nadine Naber of the Rasmea Defense Committee, _KPFK Public Radio, Mar. 21, 2016_](http://archive.kpfk.org/index.php?shokey=rintifada)
+- [Guest: Nadine Naber of the Rasmea Defense Committee, _KPFK Public Radio, Mar. 14, 2016_](http://archive.kpfk.org/index.php?shokey=rintifada)
 
 - [Guest: Hatem Abudayyeh of the Rasmea Defense Committee, _The People Speak Radio, Mar. 8, 2016_](http://bbsradio.com/podcast/people-speak-march-8-2016)
 
