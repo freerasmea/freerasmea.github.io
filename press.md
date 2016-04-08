@@ -4,8 +4,10 @@ permalink: /press/
 published: true
 ---
 
-
 ## Post-Appeal Coverage
+
+- [A New Day for Rasmea Odeh: Throwing the Spotlight on Israeli Torture, _Reader Support News, Dennis J. Bernstein, Apr. 3, 2016_](http://www.telesurtv.net/english/news/Supporters-Campaign-to-Free-US-Palestinian-Activist-Rasmea-Odeh-20160128-0005.html)
+
 - [Guest: Nadine Naber of the Rasmea Defense Committee, _KPFK Public Radio, Mar. 14, 2016_](http://archive.kpfk.org/index.php?shokey=rintifada)
 
 - [Guest: Hatem Abudayyeh of the Rasmea Defense Committee, _The People Speak Radio, Mar. 8, 2016_](http://bbsradio.com/podcast/people-speak-march-8-2016)
