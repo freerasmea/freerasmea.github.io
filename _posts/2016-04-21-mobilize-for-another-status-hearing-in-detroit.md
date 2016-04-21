@@ -1,5 +1,8 @@
 ---
 published: true
+date: "April 21, 2016"
+category: news
+excerpt: "On Monday, June 13, 2016, Rasmea Odeh will appear with her attorneys before Judge Gershwin Drain for a status conference at the federal courthouse in Detroit, Michigan. Supporters will travel to Detroit to urge for a new trial."
 ---
 ## Rasmea's supporters to mobilize for another status hearing in Detroit
 
