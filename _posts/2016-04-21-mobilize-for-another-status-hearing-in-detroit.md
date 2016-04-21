@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Rasmea's supporters to mobilize for another status hearing in Detroit
 
