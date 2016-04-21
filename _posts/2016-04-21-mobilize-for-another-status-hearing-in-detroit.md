@@ -20,7 +20,7 @@ Rasmea suffers from Post-Traumatic Stress Disorder (PTSD) because of this tortur
 Members of the committee were in DC just this week pressing Rasmea&#39;s case to legislators, including Congressmen Danny Davis and Luis Gutierrez, respectively.
 
 
-The committee is asking supporters to make plans to be in Detroit on the morning of June 13, and to [donate](http://justice4rasmea.org/donate/) to support the legal and community-based organizing work ahead. For more information, visit justice4rasmea.org and follow #Justice4Rasmea.
+The committee is asking supporters to make plans to be in Detroit on the morning of June 13, and to [donate](http://justice4rasmea.org/donate/) to support the legal and community-based organizing work ahead. For more information, visit [justice4rasmea.org](http://justice4rasmea.org/) and follow #Justice4Rasmea.
 
 
 Media links:
