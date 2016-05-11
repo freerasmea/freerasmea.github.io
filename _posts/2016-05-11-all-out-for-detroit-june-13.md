@@ -51,14 +51,14 @@ _**What to wear to court?**_
 <br>No “I Support Rasmea” clothes, buttons, or signs.
 
 _**How to act in court?**_
-<br>- 	No talking in the courtroom
-<br>- 	No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
+<br>•	No talking in the courtroom
+<br>•	No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
 
 
 _**What not to bring to court?**_
-<br>-   No cell phones.
-<br>- 	No cameras or recording devices.
-<br>- 	No food or drink.
+<br>•	No cell phones.
+<br>•	No cameras or recording devices.
+<br>•	No food or drink.
 
 <br>
 **For everyone:**
