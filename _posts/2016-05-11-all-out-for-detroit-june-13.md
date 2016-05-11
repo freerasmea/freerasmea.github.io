@@ -11,42 +11,42 @@ Rasmea suffers from Post-Traumatic Stress Disorder (PTSD) because of this tortur
 
 Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any evidence about the rape and torture.  Now, after the appeals court decision, the judge must determine new legal avenues to exclude the expert testimony.  **If he cannot, Rasmea may be granted a new trial!** 
 
-**Make your travel plans now to be with the Rasmea Defense Committee, U.S. Palestinian Community Network (USPCN), Committee to Stop FBI Repression, and the Coalition to Protect People’s Rights—in support of our hero!**
+### Make your travel plans now to be with the Rasmea Defense Committee, [U.S. Palestinian Community Network (USPCN)](http://uspcn.org/), [Committee to Stop FBI Repression](http://www.stopfbi.net/), and the Coalition to Protect People’s Rights—in support of our [hero](http://justice4rasmea.org/about/)!
 
-WHEN: Monday, June 13th, 2016
-Rally outside the courthouse at 10 AM Eastern Time 
-Hearing begins at 11 AM Eastern Time 
+**WHEN:** Monday, June 13th, 2016
+<br>Rally outside the courthouse at 10 AM Eastern Time 
+<br>Hearing begins at 11 AM Eastern Time 
 
-WHERE: U.S. Courthouse for the Eastern District of Michigan
-231 W. Lafayette Blvd.
-Detroit, Michigan 48226
+**WHERE:** U.S. Courthouse for the Eastern District of Michigan
+<br>231 W. Lafayette Blvd.
+<br>Detroit, Michigan 48226
 
-More information for those attending the hearing:
+**More information for those attending the hearing:**
 
-•	Confirm with us that you are attending, and provide us with transportation information, by filling out this form.
+•	**Confirm with us that you are attending**, and provide us with transportation information, by filling out **[this form]**(https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1).
 
-•	Please be at the courthouse at 10 AM Eastern for a rally and picket.  We will then start lining up between 10:20 and 10:30 AM, to ensure that we are in the courtroom well before 11 AM.  Late comers will not be allowed in the courtroom.
+•	**Please be at the courthouse at 10 AM Eastern for a rally and picket.** We will then start lining up between 10:20 and 10:30 AM, to ensure that we are in the courtroom well before 11 AM. **Late comers will not be allowed in the courtroom.**
 
-•	Please do not volunteer to speak to any media or press in attendance.  The defense committee has a media team made up of the only people authorized to speak to the press.
+•	**Please do not volunteer to speak to any media or press in attendance.** The defense committee has a media team made up of the only people authorized to speak to the press.
 
-•	There will also be a rally / press conference outside the courthouse after the hearing.  Lead defense attorney Michael Deutsch will address the media and Rasmea’s supporters, and then we will hear from a number of solidarity speakers, including Frank Chapman, Field Organizer for the Chicago Alliance Against Racist and Political Repression, Jess Sundin of CSFR, representatives of the #BlackLivesMatter movement, members of the Detroit / Dearborn community, and others.
+•	There will also be a rally / press conference outside the courthouse after the hearing. **Lead defense attorney Michael Deutsch will address the media** and Rasmea’s supporters, and then we will hear from a number of solidarity speakers, including **Frank Chapman**, Field Organizer for the Chicago Alliance Against Racist and Political Repression, **Jess Sundin** of CSFR, representatives of the **#BlackLivesMatter movement**, members of the Detroit / Dearborn community, and others.
 
-•	This is basic information for our presence INSIDE the courtroom: 
+•	This is basic information for our presence **INSIDE** the courtroom: 
 
-What do you need to bring to get into the courtroom? Must bring ID: it can be a driver’s license, state ID, or passport.
+**What do you need to bring to get into the courtroom?** Must bring ID: it can be a driver’s license, state ID, or passport.
 
-What to wear to court?  No “I Support Rasmea” clothes, buttons, or signs.
+**What to wear to court?**  No “I Support Rasmea” clothes, buttons, or signs.
 
-How to act in court?
-o	No talking in the courtroom
-o	No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
+**How to act in court?**
+	o	No talking in the courtroom
+	o	No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
 
-What not to bring to court?
-o	No cell phones.
-o	No cameras or recording devices.
-o	No food or drink.
+**What not to bring to court?**
+	o	No cell phones.
+	o	No cameras or recording devices.
+	o	No food or drink.
 
-For everyone: 
+**For everyone:**
 
 •	Visit justice4rasmea.org, follow @Justice4Rasmea and #Justice4Rasmea on twitter, and like our Facebook page; or email justice4rasmea@uspcn.org for more information!
 
