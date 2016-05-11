@@ -11,7 +11,9 @@ date: "May 11, 2016"
 ### Join us to win Justice4Rasmea by attending Rasmea’s next court hearing in downtown Detroit, Michigan, on Monday, June 13th, 2016, at 10 AM Eastern time!
 
 
-Rasmea and her defense committee recently won a [huge victory](http://justice4rasmea.org/news/2016/02/26/Rasmea-Defense-Committee-celebrating-today-planning-next-steps/), as the Sixth Circuit Court of Appeals sent her case back to trial judge Gershwin Drain, saying he had wrongfully barred the testimony of a torture expert that was critical to the defense. At the trial, Rasmea was not allowed to tell the entire story of her arrest and forced confession in Palestine in 1969, when she endured over three weeks of vicious sexual, physical, and psychological torture at the hands of the Israeli military. ![rasmea-child.jpg]({{site.baseurl}}/assets/img/rasmea-child.jpg)
+Rasmea and her defense committee recently won a [huge victory](http://justice4rasmea.org/news/2016/02/26/Rasmea-Defense-Committee-celebrating-today-planning-next-steps/), as the Sixth Circuit Court of Appeals sent her case back to trial judge Gershwin Drain, saying he had wrongfully barred the testimony of a torture expert that was critical to the defense. At the trial, Rasmea was not allowed to tell the entire story of her arrest and forced confession in Palestine in 1969, when she endured over three weeks of vicious sexual, physical, and psychological torture at the hands of the Israeli military. 
+
+![rasmea-child.jpg]({{site.baseurl}}/assets/img/rasmea-child.jpg)
 
 
 Rasmea suffers from Post-Traumatic Stress Disorder (PTSD) because of this torture, which, according to world renowned psychologist, Dr. Mary Fabri, caused her to suppress the horrible recollection of the arrest when she answered questions on her immigration application in the U.S. These allegedly false answers led to her unjust conviction in the politically-motivated trial in 2014, which in turn led to her being sentenced last year to 18 months in prison and deportation. **She is currently living and working in Chicago**, free while fighting the conviction and sentence.
