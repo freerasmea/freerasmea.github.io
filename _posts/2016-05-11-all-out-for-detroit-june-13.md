@@ -19,7 +19,6 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 
 ![rasmea-child.jpg]({{site.baseurl}}/assets/img/rasmea-child.jpg) ![rasmea-supporters.jpg]({{site.baseurl}}/assets/img/rasmea-supporters.jpg)
 
-
 ### Make your travel plans now to be with the Rasmea Defense Committee, [U.S. Palestinian Community Network (USPCN)](http://uspcn.org/), [Committee to Stop FBI Repression](http://www.stopfbi.net/), and the Coalition to Protect People’s Rights—in support of our [hero](http://justice4rasmea.org/about/)!
 
 
