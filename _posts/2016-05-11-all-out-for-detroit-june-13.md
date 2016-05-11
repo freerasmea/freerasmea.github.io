@@ -30,7 +30,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 
 **More information for those attending the hearing:**
 
-•	**Confirm with us that you are attending**, and provide us with transportation information, by filling out **[this form]**(https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1).
+•	**Confirm with us that you are attending**, and provide us with transportation information, by filling out [**this form**](https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1).
 
 •	**Please be at the courthouse at 10 AM Eastern for a rally and picket.** We will then start lining up between 10:20 and 10:30 AM, to ensure that we are in the courtroom well before 11 AM. **Late comers will not be allowed in the courtroom.**
 
