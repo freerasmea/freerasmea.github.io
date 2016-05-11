@@ -37,7 +37,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 
 •	**Confirm with us that you are attending**, and provide us with transportation information, by filling out [**this form**](https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1).
 
-•	**Please be at the courthouse at 10 AM Eastern for a rally and picket.** We will then start lining up between 10:20 and 10:30 AM, to ensure that we are in the courtroom well before 11 AM. **Late comers will not be allowed in the courtroom.**
+•	**Please be at the courthouse at 10 AM Eastern for a rally and picket.** We will then start lining up between 10:20 and 10:30 AM, to ensure that we are in the courtroom well before 11 AM. _**Late comers will not be allowed in the courtroom.**_
 
 •	**Please do not volunteer to speak to any media or press in attendance.** The defense committee has a media team made up of the only people authorized to speak to the press.
 
@@ -64,7 +64,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 
 **For everyone:**
 
-•	Visit [justice4rasmea.org](http://justice4rasmea.org/), follow **@Justice4Rasmea** and **#Justice4Rasmea** on twitter, and like our [Facebook page](https://www.facebook.com/Free-Rasmea-Now-678264732186412); or email **justice4rasmea@uspcn.org** for more information!
+•	Visit [justice4rasmea.org](http://justice4rasmea.org/), follow [@Justice4Rasmea](https://twitter.com/justice4rasmea) and [#Justice4Rasmea](https://twitter.com/hashtag/Justice4Rasmea?src=hash) on twitter, and like our [Facebook page](https://www.facebook.com/Free-Rasmea-Now-678264732186412); or email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) for more information!
 
 •	[Donate online](http://justice4rasmea.org/donate/)! 
 
