@@ -7,7 +7,9 @@ date: "May 11, 2016"
 ---
 ## Rasmea Defense Committee: All out for Detroit June 13th! 
 
-**Join us to win Justice4Rasmea by attending Rasmea’s next court hearing in downtown Detroit, Michigan, on Monday, June 13th, 2016, at 10 AM Eastern time!**
+
+### Join us to win Justice4Rasmea by attending Rasmea’s next court hearing in downtown Detroit, Michigan, on Monday, June 13th, 2016, at 10 AM Eastern time!
+
 
 Rasmea and her defense committee recently won a [huge victory](http://justice4rasmea.org/news/2016/02/26/Rasmea-Defense-Committee-celebrating-today-planning-next-steps/), as the Sixth Circuit Court of Appeals sent her case back to trial judge Gershwin Drain, saying he had wrongfully barred the testimony of a torture expert that was critical to the defense. At the trial, Rasmea was not allowed to tell the entire story of her arrest and forced confession in Palestine in 1969, when she endured over three weeks of vicious sexual, physical, and psychological torture at the hands of the Israeli military. ![rasmea-child.jpg]({{site.baseurl}}/assets/img/rasmea-child.jpg)
 
