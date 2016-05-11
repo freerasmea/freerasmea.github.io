@@ -1,0 +1,74 @@
+---
+published: false
+---
+## Rasmea Defense Committee: All out for Detroit June 13th! 
+
+Join us to win #Justice4Rasmea by attending Rasmea’s next court hearing in downtown Detroit, Michigan, on Monday, June 13th, 2016, at 10 AM Eastern time!
+
+Rasmea and her defense committee recently won a huge victory, as the Sixth Circuit Court of Appeals sent her case back to trial judge Gershwin Drain, saying he had wrongfully barred the testimony of a torture expert that was critical to the defense.  At the trial, Rasmea was not allowed to tell the entire story of her arrest and forced confession in Palestine in 1969, when she endured over three weeks of vicious sexual, physical, and psychological torture at the hands of the Israeli military.
+
+Rasmea suffers from Post-Traumatic Stress Disorder (PTSD) because of this torture, which, according to world renowned psychologist, Dr. Mary Fabri, caused her to suppress the horrible recollection of the arrest when she answered questions on her immigration application in the U.S.  These allegedly false answers led to her unjust conviction in the politically-motivated trial in 2014, which in turn led to her being sentenced last year to 18 months in prison and deportation.  She is currently living and working in Chicago, free while fighting the conviction and sentence.  
+
+Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any evidence about the rape and torture.  Now, after the appeals court decision, the judge must determine new legal avenues to exclude the expert testimony.  If he cannot, Rasmea may be granted a new trial! 
+
+Make your travel plans now to be with the Rasmea Defense Committee, U.S. Palestinian Community Network (USPCN), Committee to Stop FBI Repression, and the Coalition to Protect People’s Rights—in support of our hero!
+
+WHEN: Monday, June 13th, 2016
+Rally outside the courthouse at 10 AM Eastern Time 
+Hearing begins at 11 AM Eastern Time 
+
+WHERE: U.S. Courthouse for the Eastern District of Michigan
+231 W. Lafayette Blvd.
+Detroit, Michigan 48226
+
+More information for those attending the hearing:
+
+•	Confirm with us that you are attending, and provide us with transportation information, by filling out this form.
+
+•	Please be at the courthouse at 10 AM Eastern for a rally and picket.  We will then start lining up between 10:20 and 10:30 AM, to ensure that we are in the courtroom well before 11 AM.  Late comers will not be allowed in the courtroom.
+
+•	Please do not volunteer to speak to any media or press in attendance.  The defense committee has a media team made up of the only people authorized to speak to the press.
+
+•	There will also be a rally / press conference outside the courthouse after the hearing.  Lead defense attorney Michael Deutsch will address the media and Rasmea’s supporters, and then we will hear from a number of solidarity speakers, including Frank Chapman, Field Organizer for the Chicago Alliance Against Racist and Political Repression, Jess Sundin of CSFR, representatives of the #BlackLivesMatter movement, members of the Detroit / Dearborn community, and others.
+
+•	This is basic information for our presence INSIDE the courtroom: 
+
+What do you need to bring to get into the courtroom? Must bring ID: it can be a driver’s license, state ID, or passport.
+
+What to wear to court?  No “I Support Rasmea” clothes, buttons, or signs.
+
+How to act in court?
+o	No talking in the courtroom
+o	No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
+
+What not to bring to court?
+o	No cell phones.
+o	No cameras or recording devices.
+o	No food or drink.
+
+For everyone: 
+
+•	Visit justice4rasmea.org, follow @Justice4Rasmea and #Justice4Rasmea on twitter, and like our Facebook page; or email justice4rasmea@uspcn.org for more information!
+
+•	Donate online! 
+
+•	Also follow www.uspcn.org  & www.stopfbi.net!
+
+•	See these recent media hits:
+
+A New Day for Rasmea Odeh: Throwing the Spotlight on Israeli Torture, Reader Supported News, Dennis J. Bernstein
+
+Demands Grow for US to Drop Case Against Palestinian Activist, teleSUR
+
+#Justice4Rasmea: Palestinian activist’s supporters light up social media, RT
+
+Rasmea Odeh Heads Back to Court in Ongoing Campaign Against Palestine Activism, Bill Chambers, Chicago Monitor
+
+Chicago Teachers Union honors Rev. Sekou of Ferguson, Sekou honors Rasmea Odeh, Fight Back! News
+
+Help Rasmea Win! All Out for Detroit!
+
+Sincerely,
+
+Rasmea Defense Committee
+
