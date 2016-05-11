@@ -21,7 +21,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 
 ### Make your travel plans now to be with the Rasmea Defense Committee, [U.S. Palestinian Community Network (USPCN)](http://uspcn.org/), [Committee to Stop FBI Repression](http://www.stopfbi.net/), and the Coalition to Protect People’s Rights—in support of our [hero](http://justice4rasmea.org/about/)!
 
-
+<br>
 **WHEN:** Monday, June 13th, 2016
 <br>Rally outside the courthouse at 10 AM Eastern Time 
 <br>Hearing begins at 11 AM Eastern Time 
