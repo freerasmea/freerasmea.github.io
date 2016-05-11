@@ -7,6 +7,7 @@ date: "May 11, 2016"
 ---
 ## Rasmea Defense Committee: All out for Detroit June 13th! 
 
+
 ![rasmea-child.jpg]({{site.baseurl}}/assets/img/rasmea-child.jpg) ![rasmea-supporters.jpg]({{site.baseurl}}/assets/img/rasmea-supporters.jpg)
 
 ### Join us to win #Justice4Rasmea by attending Rasmea’s next court hearing in downtown Detroit, Michigan, on Monday, June 13th, 2016, at 10 AM Eastern time!
