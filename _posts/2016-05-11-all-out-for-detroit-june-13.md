@@ -47,13 +47,15 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 **What to wear to court?**  No “I Support Rasmea” clothes, buttons, or signs.
 
 **How to act in court?**
-	o	No talking in the courtroom
-	o	No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
+- 	No talking in the courtroom
+- 	No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
+
 
 **What not to bring to court?**
-	o	No cell phones.
-	o	No cameras or recording devices.
-	o	No food or drink.
+-   No cell phones.
+- 	No cameras or recording devices.
+- 	No food or drink.
+
 
 **For everyone:**
 
