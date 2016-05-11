@@ -29,7 +29,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 **WHERE:** U.S. Courthouse for the Eastern District of Michigan
 <br>231 W. Lafayette Blvd.
 <br>Detroit, Michigan 48226
-
+<br>
 
 **More information for those attending the hearing:**
 
@@ -40,7 +40,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 •	**Please do not volunteer to speak to any media or press in attendance.** The defense committee has a media team made up of the only people authorized to speak to the press.
 
 •	There will also be a rally / press conference outside the courthouse after the hearing. **Lead defense attorney Michael Deutsch will address the media** and Rasmea’s supporters, and then we will hear from a number of solidarity speakers, including **Frank Chapman**, Field Organizer for the Chicago Alliance Against Racist and Political Repression, **Jess Sundin** of CSFR, representatives of the **#BlackLivesMatter movement**, members of the Detroit / Dearborn community, and others.
-
+<br>
 
 **This is basic information for our presence _INSIDE_ the courtroom**: 
 
@@ -58,6 +58,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 - 	No cameras or recording devices.
 - 	No food or drink.
 
+<br>
 
 **For everyone:**
 
