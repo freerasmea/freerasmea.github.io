@@ -64,7 +64,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 
 •	Visit [justice4rasmea.org](http://justice4rasmea.org/), follow **@Justice4Rasmea** and **#Justice4Rasmea** on twitter, and like our [Facebook page](https://www.facebook.com/Free-Rasmea-Now-678264732186412); or email **justice4rasmea@uspcn.org** for more information!
 
-•	[**[Donate online]**](http://justice4rasmea.org/donate/)! 
+•	[Donate online](http://justice4rasmea.org/donate/)! 
 
 •	Also follow [[www.uspcn.org]](http://uspcn.org/)  &  [[www.stopfbi.net]](http://www.stopfbi.net/)!
 
