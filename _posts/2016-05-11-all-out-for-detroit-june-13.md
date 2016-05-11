@@ -7,7 +7,7 @@ date: "May 11, 2016"
 ---
 ## Rasmea Defense Committee: All out for Detroit June 13th! 
 
-### Join us to win Justice4Rasmea by attending Rasmea’s next court hearing in downtown Detroit, Michigan, on Monday, June 13th, 2016, at 10 AM Eastern time!
+**Join us to win Justice4Rasmea by attending Rasmea’s next court hearing in downtown Detroit, Michigan, on Monday, June 13th, 2016, at 10 AM Eastern time!**
 
 Rasmea and her defense committee recently won a [huge victory](http://justice4rasmea.org/news/2016/02/26/Rasmea-Defense-Committee-celebrating-today-planning-next-steps/), as the Sixth Circuit Court of Appeals sent her case back to trial judge Gershwin Drain, saying he had wrongfully barred the testimony of a torture expert that was critical to the defense. At the trial, Rasmea was not allowed to tell the entire story of her arrest and forced confession in Palestine in 1969, when she endured over three weeks of vicious sexual, physical, and psychological torture at the hands of the Israeli military. ![rasmea-child.jpg]({{site.baseurl}}/assets/img/rasmea-child.jpg)
 
@@ -54,7 +54,6 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 	o	No food or drink.
 
 **For everyone:**
-![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/justice-for-rasmea.jpg)
 
 •	Visit [justice4rasmea.org](http://justice4rasmea.org/), follow **@Justice4Rasmea** and **#Justice4Rasmea** on twitter, and like our [Facebook page](https://www.facebook.com/Free-Rasmea-Now-678264732186412); or email **justice4rasmea@uspcn.org** for more information!
 
@@ -73,6 +72,8 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 [Rasmea Odeh Heads Back to Court in Ongoing Campaign Against Palestine Activism, _Chicago Monitor, Bill Chambers_](http://chicagomonitor.com/2016/04/rasmea-odeh-heads-back-to-court-in-ongoing-campaign-against-palestine-activism/)
 
 [Chicago Teachers Union honors Rev. Sekou of Ferguson, Sekou honors Rasmea Odeh, _Fight Back! News_](http://www.fightbacknews.org/2016/1/20/chicago-teachers-union-honors-rev-sekou-ferguson-sekou-honors-rasmea-odeh)
+
+![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/justice-for-rasmea.jpg)
 
 ### Help Rasmea Win! All Out for Detroit!
 
