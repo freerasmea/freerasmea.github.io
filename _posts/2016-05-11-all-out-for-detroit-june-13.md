@@ -22,6 +22,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 ### Make your travel plans now to be with the Rasmea Defense Committee, [U.S. Palestinian Community Network (USPCN)](http://uspcn.org/), [Committee to Stop FBI Repression](http://www.stopfbi.net/), and the Coalition to Protect People’s Rights—in support of our [hero](http://justice4rasmea.org/about/)!
 
 <br>
+
 **WHEN:** Monday, June 13th, 2016
 <br>Rally outside the courthouse at 10 AM Eastern Time 
 <br>Hearing begins at 11 AM Eastern Time 
@@ -29,6 +30,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 **WHERE:** U.S. Courthouse for the Eastern District of Michigan
 <br>231 W. Lafayette Blvd.
 <br>Detroit, Michigan 48226
+
 <br>
 
 **More information for those attending the hearing:**
@@ -49,14 +51,14 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 **What to wear to court?**  No “I Support Rasmea” clothes, buttons, or signs.
 
 **How to act in court?**
-- 	No talking in the courtroom
-- 	No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
+<br>- 	No talking in the courtroom
+<br>- 	No coming and going; if you leave the courtroom for anything other than an emergency, you will not be let back in.
 
 
 **What not to bring to court?**
--   No cell phones.
-- 	No cameras or recording devices.
-- 	No food or drink.
+<br>-   No cell phones.
+<br>- 	No cameras or recording devices.
+<br>- 	No food or drink.
 
 <br>
 
