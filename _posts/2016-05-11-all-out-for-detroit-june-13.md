@@ -22,7 +22,6 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 ### Make your travel plans now to be with the Rasmea Defense Committee, [U.S. Palestinian Community Network (USPCN)](http://uspcn.org/), [Committee to Stop FBI Repression](http://www.stopfbi.net/), and the Coalition to Protect People’s Rights—in support of our [hero](http://justice4rasmea.org/about/)!
 
 <br>
-
 **WHEN:** Monday, June 13th, 2016
 <br>Rally outside the courthouse at 10 AM Eastern Time 
 <br>Hearing begins at 11 AM Eastern Time 
@@ -32,7 +31,6 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 <br>Detroit, Michigan 48226
 
 <br>
-
 **More information for those attending the hearing:**
 
 •	**Confirm with us that you are attending**, and provide us with transportation information, by filling out [**this form**](https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1).
@@ -61,7 +59,6 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 <br>- 	No food or drink.
 
 <br>
-
 **For everyone:**
 
 •	Visit [justice4rasmea.org](http://justice4rasmea.org/), follow [@Justice4Rasmea](https://twitter.com/justice4rasmea) and [#Justice4Rasmea](https://twitter.com/hashtag/Justice4Rasmea?src=hash) on twitter, and like our [Facebook page](https://www.facebook.com/Free-Rasmea-Now-678264732186412); or email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) for more information!
