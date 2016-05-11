@@ -50,21 +50,21 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 
 •	Visit [justice4rasmea.org](http://justice4rasmea.org/), follow **@Justice4Rasmea** and **#Justice4Rasmea** on twitter, and like our [Facebook page](https://www.facebook.com/Free-Rasmea-Now-678264732186412); or email **justice4rasmea@uspcn.org** for more information!
 
-•	Donate online! 
+•	**[Donate online]**(http://justice4rasmea.org/donate/)! 
 
-•	Also follow www.uspcn.org  & www.stopfbi.net!
+•	Also follow **[www.uspcn.org]**(http://uspcn.org/)  & **[www.stopfbi.net](http://www.stopfbi.net/)**!
 
 •	See these recent media hits:
 
-A New Day for Rasmea Odeh: Throwing the Spotlight on Israeli Torture, Reader Supported News, Dennis J. Bernstein
+[A New Day for Rasmea Odeh: Throwing the Spotlight on Israeli Torture, _Reader Supported News, Dennis J. Bernstein_](http://readersupportednews.org/opinion2/277-75/36119-a-new-day-for-rasmea-odeh-throwing-the-spotlight-on-israeli-torture)
 
-Demands Grow for US to Drop Case Against Palestinian Activist, teleSUR
+[Demands Grow for US to Drop Case Against Palestinian Activist, _teleSUR_](http://www.telesurtv.net/english/news/Supporters-Campaign-to-Free-US-Palestinian-Activist-Rasmea-Odeh-20160128-0005.html)
 
-#Justice4Rasmea: Palestinian activist’s supporters light up social media, RT
+[#Justice4Rasmea: Palestinian activist’s supporters light up social media, _RT_](https://www.rt.com/news/330533-palestinian-activist-trial-us-israel/)
 
-Rasmea Odeh Heads Back to Court in Ongoing Campaign Against Palestine Activism, Bill Chambers, Chicago Monitor
+[Rasmea Odeh Heads Back to Court in Ongoing Campaign Against Palestine Activism, _Chicago Monitor, Bill Chambers_](http://chicagomonitor.com/2016/04/rasmea-odeh-heads-back-to-court-in-ongoing-campaign-against-palestine-activism/)
 
-Chicago Teachers Union honors Rev. Sekou of Ferguson, Sekou honors Rasmea Odeh, Fight Back! News
+[Chicago Teachers Union honors Rev. Sekou of Ferguson, Sekou honors Rasmea Odeh, _Fight Back! News_](http://www.fightbacknews.org/2016/1/20/chicago-teachers-union-honors-rev-sekou-ferguson-sekou-honors-rasmea-odeh)
 
 ### Help Rasmea Win! All Out for Detroit!
 
