@@ -47,7 +47,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 _**What do you need to bring to get into the courtroom?**_ 
 <br>Must bring ID: it can be a driver’s license, state ID, or passport.
 
-_**What to wear to court?**_  
+_**What to wear to court?**_
 <br>No “I Support Rasmea” clothes, buttons, or signs.
 
 _**How to act in court?**_
