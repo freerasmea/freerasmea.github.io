@@ -66,9 +66,9 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 
 •	[**[Donate online]**](http://justice4rasmea.org/donate/)! 
 
-•	Also follow [**[www.uspcn.org]**](http://uspcn.org/)  &  [**[www.stopfbi.net]**](http://www.stopfbi.net/)!
+•	Also follow [[www.uspcn.org]](http://uspcn.org/)  &  [[www.stopfbi.net]](http://www.stopfbi.net/)!
 
-•	See these recent **media** hits:
+•	See these recent media hits:
 
 [A New Day for Rasmea Odeh: Throwing the Spotlight on Israeli Torture, _Reader Supported News, Dennis J. Bernstein_](http://readersupportednews.org/opinion2/277-75/36119-a-new-day-for-rasmea-odeh-throwing-the-spotlight-on-israeli-torture)
 
