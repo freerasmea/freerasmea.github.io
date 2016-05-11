@@ -48,7 +48,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 
 **For everyone:**
 
-•	Visit justice4rasmea.org, follow @Justice4Rasmea and #Justice4Rasmea on twitter, and like our Facebook page; or email justice4rasmea@uspcn.org for more information!
+•	Visit [justice4rasmea.org](http://justice4rasmea.org/), follow **@Justice4Rasmea** and **#Justice4Rasmea** on twitter, and like our [Facebook page](https://www.facebook.com/Free-Rasmea-Now-678264732186412); or email **justice4rasmea@uspcn.org** for more information!
 
 •	Donate online! 
 
@@ -66,7 +66,7 @@ Rasmea Odeh Heads Back to Court in Ongoing Campaign Against Palestine Activism, 
 
 Chicago Teachers Union honors Rev. Sekou of Ferguson, Sekou honors Rasmea Odeh, Fight Back! News
 
-Help Rasmea Win! All Out for Detroit!
+### Help Rasmea Win! All Out for Detroit!
 
 Sincerely,
 
