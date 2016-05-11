@@ -54,7 +54,7 @@ Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any 
 	o	No food or drink.
 
 **For everyone:**
-![rasmea-supporters.jpg]({{site.baseurl}}/assets/img/rasmea-supporters.jpg)
+![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/justice-for-rasmea.jpg)
 
 •	Visit [justice4rasmea.org](http://justice4rasmea.org/), follow **@Justice4Rasmea** and **#Justice4Rasmea** on twitter, and like our [Facebook page](https://www.facebook.com/Free-Rasmea-Now-678264732186412); or email **justice4rasmea@uspcn.org** for more information!
 
