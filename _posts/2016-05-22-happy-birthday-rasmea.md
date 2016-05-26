@@ -1,6 +1,8 @@
 ---
 published: false
 ---
+
+
 ## Happy Birthday Rasmea!
 
 Sunday, May 22nd, is Rasmea's birthday, and there's no better gift she would want than for everyone to [donate to her defense fund](http://justice4rasmea.org/donate/). You all know we are headed to Detroit for a status hearing in a few weeks, and that a new trial may be on the horizon.
