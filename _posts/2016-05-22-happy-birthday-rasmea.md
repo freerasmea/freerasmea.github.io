@@ -5,7 +5,7 @@ category: news
 excerpt: "Sunday, May 22nd, is Rasmea's birthday, and there's no better gift she would want than for everyone to donate to her defense fund.  You all know we are headed to Detroit for a status hearing in a few weeks, and that a new trial may be on the horizon. Let's start raising funds in preparation!"
 ---
 
-![rasmealaughing.jpg]({{site.baseurl}}/assets/img/rasmealaughing.jpg) ![rasmealaughing.jpg]({{site.baseurl}}/assets/img/rasmealaughing.jpg)
+![rasmealaughing.jpg]({{site.baseurl}}/assets/img/rasmealaughing.jpg)
 
 ## Happy Birthday Rasmea!
 
@@ -17,7 +17,7 @@ In addition, please use this image today as your profile picture on all your pla
 
 Thank you.
  
-![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/rasmealaughing.jpg) ![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/justice-for-rasmea.jpg)
+![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/rasmealaughing.jpg) 
 
 **Reminder: All Out for Detroit June 13th!**
 
