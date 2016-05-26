@@ -1,5 +1,8 @@
 ---
 published: false
+Date: "MAY 22, 2016"
+category: news
+excerpt: "Sunday, May 22nd, is Rasmea's birthday, and there's no better gift she would want than for everyone to donate to her defense fund.  You all know we are headed to Detroit for a status hearing in a few weeks, and that a new trial may be on the horizon. Let's start raising funds in preparation!"
 ---
 
 
