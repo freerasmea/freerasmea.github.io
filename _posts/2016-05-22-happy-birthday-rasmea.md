@@ -58,14 +58,14 @@ This is basic information for our presence **INSIDE** the courtroom:
 **What to wear to court?** No “I Support Rasmea” clothes, buttons, or signs.
  
 **How to act in court?**
-- No talking in the courtroom
-- No coming and going; if you leave the courtroom for anything other than an emergency, _you will not be let back in._
+<br>- No talking in the courtroom
+<br>- No coming and going; if you leave the courtroom for anything other than an emergency, _you will not be let back in._
 
 **What not to bring to court?**
-- No cell phones.
-- No cameras or recording devices.
-- No food or drink.
-- For everyone:
+<br>- No cell phones.
+<br>- No cameras or recording devices.
+<br>- No food or drink.
+<br>- For everyone:
 
 
 Visit [justice4rasmea.org](http://justice4rasmea.org/), follow [@Justice4Rasmea](https://twitter.com/justice4rasmea) and [#Justice4Rasmea](https://twitter.com/hashtag/Justice4Rasmea?src=hash) on twitter, and like our [Facebook page](https://www.facebook.com/Free-Rasmea-Now-678264732186412/); or email justice4rasmea@uspcn.org for more information!
