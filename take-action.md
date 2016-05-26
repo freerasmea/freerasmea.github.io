@@ -7,7 +7,7 @@ published: true
 Join us to win #Justice4Rasmea by attending Rasmea’s next court hearing in downtown Detroit, Michigan, on Monday, June 13th, 2016, at 10 AM Eastern time! Sign up [here](https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1).
 
 ### [Donate for Rasmea's Birthday!](http://justice4rasmea.org/news/2016/05/22/happy-birthday-rasmea/)
-Sunday, May 22nd, is Rasmea's birthday, and there's no better gift she would want than for everyone to donate to her defense fund. You all know we are headed to Detroit for a status hearing in a few weeks, and that a new trial may be on the horizon. Let's start raising funds in preparation!
+Sunday, May 22nd, is Rasmea's birthday, and there's no better gift she would want than for everyone to [donate to her defense fund](http://justice4rasmea.org/donate/). You all know we are headed to Detroit for a status hearing in a few weeks, and that a new trial may be on the horizon. Let's start [raising funds](http://justice4rasmea.org/donate/) in preparation!
 
 _____
 
