@@ -39,7 +39,7 @@ Make your travel plans now to be with the Rasmea Defense Committee, [U.S. Palest
 <br>231 W. Lafayette Blvd.
 <br>Detroit, Michigan 48226**
  
-![justice-supporters.jpg]({{site.baseurl}}/assets/img/justice-supporters.jpg) 
+![rasmea-supporters.jpg]({{site.baseurl}}/assets/img/rasmea-supporters.jpg) 
 
 **_More information for those attending the hearing:_**
 
