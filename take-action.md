@@ -3,16 +3,20 @@ layout: page
 title: Take Action
 published: true
 ---
+### [All Out for Detroit, June 13th](http://justice4rasmea.org/news/2016/05/11/all-out-for-detroit-june-13/)
+Join us to win #Justice4Rasmea by attending Rasmea’s next court hearing in downtown Detroit, Michigan, on Monday, June 13th, 2016, at 10 AM Eastern time! Sign up [here](https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1).
+
+### [Donate for Rasmea's Birthday!](http://justice4rasmea.org/news/2016/05/22/happy-birthday-rasmea/)
+Sunday, May 22nd, is Rasmea's birthday, and there's no better gift she would want than for everyone to donate to her defense fund. You all know we are headed to Detroit for a status hearing in a few weeks, and that a new trial may be on the horizon. Let's start raising funds in preparation!
+
+_____
+
+<img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
 
 ### Use this meme for your profile image on all social media platforms.
 <img src="{{site.baseurl}}/assets/img/ERP-for-rasmea.jpg">
 
 When you post it, link the picture to [bit.ly/1TLFjUT](http://justice4rasmea.org/news/2016/02/06/emergency-response-plan/), which takes you straight to the Emergency Response Plan page.
-
-
-_____
-
-<img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
 
 ### [#Justice4Rasmea Social Media Campaign Wednesday, January 27th](http://justice4rasmea.org/news/2016/01/25/resources-for-social-media-day-of-action/)
 Join the Rasmea Defense Committee for a social media campaign Wednesday, January 27th, in support of Palestinian American icon Rasmea Odeh—and prepare for an Emergency Response to the appellate court decision! Use our Resource Guide to participate on Facebook and Twitter.
