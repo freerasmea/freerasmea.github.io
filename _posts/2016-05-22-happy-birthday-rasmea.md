@@ -5,6 +5,7 @@ category: news
 excerpt: "Sunday, May 22nd, is Rasmea's birthday, and there's no better gift she would want than for everyone to donate to her defense fund.  You all know we are headed to Detroit for a status hearing in a few weeks, and that a new trial may be on the horizon. Let's start raising funds in preparation!"
 ---
 
+![rasmealaughing.jpg]({{site.baseurl}}/assets/img/rasmealaughing.jpg) ![rasmealaughing.jpg]({{site.baseurl}}/assets/img/rasmealaughing.jpg)
 
 ## Happy Birthday Rasmea!
 
@@ -16,6 +17,7 @@ In addition, please use this image today as your profile picture on all your pla
 
 Thank you.
  
+![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/rasmealaughing.jpg) ![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/justice-for-rasmea.jpg)
 
 **Reminder: All Out for Detroit June 13th!**
 
@@ -37,7 +39,8 @@ Make your travel plans now to be with the Rasmea Defense Committee, [U.S. Palest
 <br>231 W. Lafayette Blvd.
 <br>Detroit, Michigan 48226**
  
- 
+![justice-supporters.jpg]({{site.baseurl}}/assets/img/rasmealaughing.jpg) ![justice-supporters.jpg]({{site.baseurl}}/assets/img/justice-supporters.jpg)
+  
 **_More information for those attending the hearing:_**
 
 Confirm with us that you are attending, and provide us with transportation information, by filling out [this form](https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1).
