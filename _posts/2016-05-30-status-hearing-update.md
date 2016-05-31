@@ -8,15 +8,14 @@ Just last week, Judge Gershwin Drain informed Rasmea's attorneys that the June 1
 Nevertheless, the defense committee will still be organizing a rally in front of the courthouse while the closed meeting between the judge, attorneys, and Rasmea is in session. 
 
 Supporters from Chicago, Minneapolis, Detroit, Dearborn, Grand Rapids, and Ann Arbor, at least, have committed to continue to mobilize, so [sign up RIGHT NOW](https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1) to help us win #Justice4Rasmea!
-
-WHEN: Monday, June 13th, 2016
-Rally outside the courthouse at 10 AM Eastern Time 
-
-Closed hearing in judge's chambers begins at 11 AM Eastern Time
  
-WHERE: U.S. Courthouse for the Eastern District of Michigan
-231 W. Lafayette Blvd.
-Detroit, Michigan 48226
+**WHEN: Monday, June 13th, 2016
+<br>Rally outside the courthouse at 10 AM Eastern Time**
+
+**WHERE: U.S. Courthouse for the Eastern District of Michigan
+<br>231 W. Lafayette Blvd.
+<br>Detroit, Michigan 48226**
+
 
 **Background and more info:**
 
@@ -26,7 +25,7 @@ Rasmea suffers from Post-Traumatic Stress Disorder (PTSD) because of this tortur
  
 Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any evidence about the rape and torture.  Now, after the appeals court decision, the judge must determine new legal avenues to exclude the expert testimony.  If he cannot, Rasmea may be granted a new trial!
  
-Make your travel plans now to be with the Rasmea Defense Committee, U.S. Palestinian Community Network (USPCN), Committee to Stop FBI Repression (CSFR), and the Coalition to Protect People’s Rights—in support of our hero!
+Make your travel plans now to be with the Rasmea Defense Committee, [U.S. Palestinian Community Network (USPCN)](http://uspcn.org/), [Committee to Stop FBI Repression](http://www.stopfbi.net/), and the Coalition to Protect People’s Rights—in support of our [hero](http://justice4rasmea.org/about/)!
  
 **For those attending the rally:**
 
@@ -34,4 +33,4 @@ Please be at the courthouse at 10 AM Eastern for the rally and picket. Posters a
 
 **Please do not volunteer to speak to any media or press in attendance.** The defense committee has a media team made up of the only people authorized to speak to the press.
 
-After the closed session in judge's chambers, lead defense attorney **Michael Deutsch** will address the media and Rasmea’s supporters, and then we will hear from a number of solidarity speakers, including **Frank Chapman**, Field Organizer for the Chicago Alliance Against Racist and Political Repression; a representative from CSFR; organizers with **Students for Justice in Palestine** and the **#BlackLivesMatter** movement, respectively; members of the Detroit / Dearborn community; and more.  
+After the closed session in judge's chambers, lead defense attorney **Michael Deutsch** will address the media and Rasmea’s supporters, and then we will hear from a number of solidarity speakers, including **Frank Chapman**, Field Organizer for the Chicago Alliance Against Racist and Political Repression; a representative from CSFR; organizers with **Students for Justice in Palestine** and the **#BlackLivesMatter** movement, respectively; members of the Detroit / Dearborn community; and more.
