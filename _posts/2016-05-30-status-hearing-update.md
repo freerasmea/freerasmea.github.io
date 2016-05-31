@@ -16,6 +16,7 @@ Supporters from Chicago, Minneapolis, Detroit, Dearborn, Grand Rapids, and Ann A
 <br>231 W. Lafayette Blvd.
 <br>Detroit, Michigan 48226**
 
+![rasmea-child.jpg]({{site.baseurl}}/assets/img/rasmea-child.jpg) ![rasmea-supporters.jpg]({{site.baseurl}}/assets/img/rasmea-supporters.jpg)
 
 **Background and more info:**
 
@@ -34,3 +35,33 @@ Please be at the courthouse at 10 AM Eastern for the rally and picket. Posters a
 **Please do not volunteer to speak to any media or press in attendance.** The defense committee has a media team made up of the only people authorized to speak to the press.
 
 After the closed session in judge's chambers, lead defense attorney **Michael Deutsch** will address the media and Rasmea’s supporters, and then we will hear from a number of solidarity speakers, including **Frank Chapman**, Field Organizer for the Chicago Alliance Against Racist and Political Repression; a representative from CSFR; organizers with **Students for Justice in Palestine** and the **#BlackLivesMatter** movement, respectively; members of the Detroit / Dearborn community; and more.
+
+**For everyone:**
+
+1. [Donate online](http://justice4rasmea.org/donate/)! 
+
+2. Visit [justice4rasmea.org](http://justice4rasmea.org/), follow [@Justice4Rasmea](https://twitter.com/justice4rasmea) and [#Justice4Rasmea](https://twitter.com/hashtag/Justice4Rasmea?src=hash) on twitter, and like our [Facebook page](https://www.facebook.com/Free-Rasmea-Now-678264732186412); or email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) for more information!
+
+3. Also follow [[www.uspcn.org]](http://uspcn.org/)  &  [[www.stopfbi.net]](http://www.stopfbi.net/)!
+
+4. Use [this meme](http://justice4rasmea.tumblr.com/image/138121026427) as your profile picture on all platforms!
+
+5. See these recent media hits:
+
+[A New Day for Rasmea Odeh: Throwing the Spotlight on Israeli Torture, _Reader Supported News, Dennis J. Bernstein_](http://readersupportednews.org/opinion2/277-75/36119-a-new-day-for-rasmea-odeh-throwing-the-spotlight-on-israeli-torture)
+
+[Demands Grow for US to Drop Case Against Palestinian Activist, _teleSUR_](http://www.telesurtv.net/english/news/Supporters-Campaign-to-Free-US-Palestinian-Activist-Rasmea-Odeh-20160128-0005.html)
+
+[#Justice4Rasmea: Palestinian activist’s supporters light up social media, _RT_](https://www.rt.com/news/330533-palestinian-activist-trial-us-israel/)
+
+[Rasmea Odeh Heads Back to Court in Ongoing Campaign Against Palestine Activism, _Chicago Monitor, Bill Chambers_](http://chicagomonitor.com/2016/04/rasmea-odeh-heads-back-to-court-in-ongoing-campaign-against-palestine-activism/)
+
+[Chicago Teachers Union honors Rev. Sekou of Ferguson, Sekou honors Rasmea Odeh, _Fight Back! News_](http://www.fightbacknews.org/2016/1/20/chicago-teachers-union-honors-rev-sekou-ferguson-sekou-honors-rasmea-odeh)
+
+![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/justice-for-rasmea.jpg)
+
+### Help Rasmea Win! All Out for Detroit!
+
+Sincerely,
+
+Rasmea Defense Committee
