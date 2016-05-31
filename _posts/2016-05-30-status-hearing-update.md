@@ -13,7 +13,7 @@ Just last week, Judge Gershwin Drain informed Rasmea's attorneys that the June 1
 
 Nevertheless, the defense committee will still be organizing a rally in front of the courthouse while the closed meeting between the judge, attorneys, and Rasmea is in session. 
 
-Supporters from Chicago, Minneapolis, Detroit, Dearborn, Grand Rapids, and Ann Arbor, at least, have committed to continue to mobilize, so [sign up RIGHT NOW](https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1) to help us win #Justice4Rasmea!
+Supporters from Chicago, Milwaukee, Minneapolis, Detroit, Dearborn, Grand Rapids, and Ann Arbor, at least, have committed to continue to mobilize, so [sign up RIGHT NOW](https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1) to help us win #Justice4Rasmea!
  
 **WHEN: Monday, June 13th, 2016
 <br>Rally outside the courthouse at 10 AM Eastern Time**
@@ -28,9 +28,9 @@ _**Background and more info:**_
 
 A little over two months ago, all of you supporters helped Rasmea and her defense committee win a huge victory, as the Sixth Circuit Court of Appeals sent her case back to trial judge Gershwin Drain, saying he had wrongfully barred the testimony of a torture expert that was critical to the defense.  At the trial, Rasmea was not allowed to tell the entire story of her arrest and forced confession by the Israelis in Palestine in 1969, when she endured over three weeks of vicious sexual, physical, and psychological torture at the hands of the Israeli military.
 
-Rasmea suffers from Post-Traumatic Stress Disorder (PTSD) because of this torture, which, according to world renowned psychologist, Dr. Mary Fabri, caused her to suppress the horrible recollection of the arrest when she answered questions on her immigration application in the U.S.  These allegedly false answers led to her unjust conviction in the politically-motivated trial in 2014, which in turn led to her being sentenced last year to 18 months in prison and deportation.  She is currently living and working in Chicago, free while fighting the conviction. 
+Rasmea suffers from Post-Traumatic Stress Disorder (PTSD) because of this torture, which, according to world renowned psychologist, Dr. Mary Fabri, caused her to suppress the horrible recollection of the arrest when she answered questions on her immigration application in the U.S.  These allegedly false answers led to her unjust conviction in the politically-motivated trial in 2014, which in turn led to her being sentenced last year to 18 months in prison and deportation. She is currently living and working in Chicago, free while fighting the conviction. 
  
-Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any evidence about the rape and torture.  Now, after the appeals court decision, the judge must determine new legal avenues to exclude the expert testimony.  If he cannot, Rasmea may be granted a new trial!
+Judge Drain excluded Dr. Fabri’s testimony from the trial, and disallowed any evidence about the rape and torture. Now, after the appeals court decision, the judge must determine new legal avenues to exclude the expert testimony. If he cannot, Rasmea may be granted a new trial!
  
 Make your travel plans now to be with the Rasmea Defense Committee, [U.S. Palestinian Community Network (USPCN)](http://uspcn.org/), [Committee to Stop FBI Repression](http://www.stopfbi.net/), and the Coalition to Protect People’s Rights—in support of our [hero](http://justice4rasmea.org/about/)!
  
