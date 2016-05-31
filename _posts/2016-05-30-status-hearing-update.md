@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Rasmea Defense Committee update to the mobilization for Detroit June 13th! 
 
