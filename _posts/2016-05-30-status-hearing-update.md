@@ -1,5 +1,9 @@
 ---
 published: true
+date: "May 30,2016"
+location: Detroit
+category: news
+excerpt: "The June 13th status hearing will take place in chambers, which means it will not be in open court; nevertheless, the defense committee will still be organizing a rally in front of the courthouse while the closed meeting between the judge, attorneys, and Rasmea is in session."
 ---
 ## Rasmea Defense Committee update to the mobilization for Detroit June 13th! 
 
