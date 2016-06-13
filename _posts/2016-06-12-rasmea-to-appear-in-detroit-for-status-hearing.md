@@ -20,7 +20,7 @@ excerpt: >-
 **_At the same time, 100 supporters from all over the Midwest will rally outside the federal courthouse in support of #Justice4Rasmea_**
 
 **WHEN:**
-· Monday, June 13th, 2016, at 10 AM Eastern Standard Time for support rally and Rasmea Defense Committee press availability. 
+<br>· Monday, June 13th, 2016, at 10 AM Eastern Standard Time for support rally and Rasmea Defense Committee press availability. 
 · Status conference in judge’s chambers **(closed to the press and public)** begins at 11 AM EST.  
 · Press conference with defense attorneys and other speakers after the status conference.
 
