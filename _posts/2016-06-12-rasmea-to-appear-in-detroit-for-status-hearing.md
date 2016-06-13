@@ -21,8 +21,8 @@ excerpt: >-
 
 **WHEN:**
 <br>· Monday, June 13th, 2016, at 10 AM Eastern Standard Time for support rally and Rasmea Defense Committee press availability. 
-· Status conference in judge’s chambers **(closed to the press and public)** begins at 11 AM EST.  
-· Press conference with defense attorneys and other speakers after the status conference.
+<br>· Status conference in judge’s chambers **(closed to the press and public)** begins at 11 AM EST.  
+<br>· Press conference with defense attorneys and other speakers after the status conference.
 
 **WHERE:** U.S. Courthouse for the Eastern District of Michigan, 231 W. Lafayette Blvd., downtown Detroit
  
