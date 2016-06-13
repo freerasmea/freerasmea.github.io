@@ -17,7 +17,7 @@ excerpt: >-
 **Press Contact:** Hatem Abudayyeh, National Spokesperson, 773-301-4108, [hatem85@yahoo.com](mailto:hatem85@yahoo.com)
  
 ## Palestinian-American Rasmea Odeh to appear in Judge Drain's Detroit chambers for a status conference Monday, June 13
-_At the same time, 100 supporters from all over the Midwest will rally outside the federal courthouse in support of #Justice4Rasmea_ 
+**_At the same time, 100 supporters from all over the Midwest will rally outside the federal courthouse in support of #Justice4Rasmea_**
 
 **WHEN:**
 · Monday, June 13th, 2016, at 10 AM Eastern Standard Time for support rally and Rasmea Defense Committee press availability. 
