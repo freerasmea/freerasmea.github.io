@@ -1,5 +1,16 @@
 ---
 published: false
+date: 'June 12, 2016'
+location: detroit
+category: news
+excerpt: >-
+  On Monday, June 13, 2016, Rasmea Odeh will appear with her attorneys in Judge
+  Gershwin Drain’s chambers for a closed status conference at the federal
+  courthouse in Detroit, Michigan. The Rasmea Defense Committee is mobilizing
+  one hundred supporters to be there as well—from Chicago, Milwaukee,
+  Minneapolis, Detroit, Dearborn, Grand Rapids, Ann Arbor, Cincinnati, Texas,
+  and other cities and states. They will picket outside the courthouse to urge
+  for a new trial.
 ---
 **For Immediate Release:** Rasmea Defense Committee, June 12, 2016
 
