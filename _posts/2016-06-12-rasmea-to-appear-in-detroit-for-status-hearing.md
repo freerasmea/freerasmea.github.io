@@ -1,7 +1,7 @@
 ---
 published: true
 date: 'June 12, 2016'
-location: detroit
+location: Detroit
 category: news
 excerpt: >-
   On Monday, June 13, 2016, Rasmea Odeh will appear with her attorneys in Judge
