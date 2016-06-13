@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 'June 12, 2016'
 location: detroit
 category: news
