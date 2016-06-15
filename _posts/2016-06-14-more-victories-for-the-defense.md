@@ -1,5 +1,12 @@
 ---
-published: false
+published: true
+date: 'June 14, 2016'
+category: news
+excerpt: >-
+  Over 100 people from all over the Midwest gathered in Detroit to support
+  Rasmea Odeh as she, her attorneys, and the prosecution appeared before Judge
+  Gershwin Drain for a status conference on Monday, June 13, 2016. Read more for
+  updates on the trial.
 ---
 ![victory-hearing-rasmea-speaking.jpg]({{site.baseurl}}/assets/img/victory-hearing-rasmea-speaking.jpg)
 
