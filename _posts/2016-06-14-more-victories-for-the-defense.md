@@ -41,10 +41,10 @@ And as we continue to chalk up victories, you can continue to help by [donating 
 Rasmea Defense Committee, led by U.S. Palestinian Community Network and CSFR
 Tuesday, June 14, 2016
  
-See these great [pictures](https://drive.google.com/folderview?id=0B2L4paAxP6lvQ3ZvNVF1cHdfZm8&usp=drive_web) of the rally by SJP member Hoda Katebi!
+-See these great [pictures](https://drive.google.com/folderview?id=0B2L4paAxP6lvQ3ZvNVF1cHdfZm8&usp=drive_web) of the rally by SJP member Hoda Katebi!
  
-_Rasmea Odeh: A 'symbol' for Palestinian struggle in US_, [article and video](https://mail.google.com/mail/u/0/#inbox/15551d9ffb741bfe) from Ali Harb and Dave Liens for Middle East Eye. 
+-_Rasmea Odeh: A 'symbol' for Palestinian struggle in US_, [article and video](https://mail.google.com/mail/u/0/#inbox/15551d9ffb741bfe) from Ali Harb and Dave Liens for Middle East Eye. 
  
-_Supporters rally in Detroit for activist Rasmieh Odeh_, [article](http://www.freep.com/story/news/local/michigan/2016/06/13/detroit-rally-rasmieh-odeh-federal-judge-sets-hearing-fall/85829034/) from Detroit Free Press.
+-_Supporters rally in Detroit for activist Rasmieh Odeh_, [article](http://www.freep.com/story/news/local/michigan/2016/06/13/detroit-rally-rasmieh-odeh-federal-judge-sets-hearing-fall/85829034/) from Detroit Free Press.
  
-_Rasmea Odeh appeal moves towards new trial_, [article](http://www.fightbacknews.org/2016/6/14/rasmea-odeh-appeal-moves-towards-new-trial) from Fight Back News!
+-_Rasmea Odeh appeal moves towards new trial_, [article](http://www.fightbacknews.org/2016/6/14/rasmea-odeh-appeal-moves-towards-new-trial) from Fight Back News!
