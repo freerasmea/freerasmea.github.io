@@ -40,6 +40,7 @@ And as we continue to chalk up victories, you can continue to help by [donating 
  
 Rasmea Defense Committee, led by U.S. Palestinian Community Network and CSFR
 Tuesday, June 14, 2016
+
 <br>
 -See these great [pictures](https://drive.google.com/folderview?id=0B2L4paAxP6lvQ3ZvNVF1cHdfZm8&usp=drive_web) of the rally by SJP member Hoda Katebi!
  
