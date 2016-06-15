@@ -1,8 +1,10 @@
 ---
 published: false
 ---
+![victory-hearing-rasmea-speaking.jpg]({{site.baseurl}}/assets/img/victory-hearing-rasmea-speaking.jpg)
+
 ## More victories for the defense in Rasmea’s case!
- 
+
 Over 100 people from all over the Midwest gathered in Detroit to support Rasmea Odeh as she, her attorneys, and the prosecution appeared before Judge Gershwin Drain for a status conference on Monday, June 13, 2016. 
  
 After the conference ended, Rasmea joined the waiting crowd chanting her name, and Michael Deutsch, her lead attorney, addressed the media, explaining that a tentative date for a new trial has been set for January 10, 2017!
@@ -13,7 +15,7 @@ Rasmea suffers from Post-Traumatic Stress Disorder (PTSD) because of this tortur
  
 At the status conference yesterday, the government called for a “Daubert hearing,” which is used to challenge the validity and admissibility of expert testimony (in this case, Fabri’s), and also requested to examine Rasmea with its own expert. If the hearing is granted by Judge Drain, it will happen on November 29 of this year, the International Day of Solidarity with the Palestinian People. 
  
-
+![protest-outside-courtroom.jpg]({{site.baseurl}}/assets/img/protest-outside-courtroom.jpg)
 
 Two other positive developments occurred yesterday as well.  Deutsch requested to have Rasmea’s “burdensome reporting requirements” to probation authorities reduced from once a week to once a month.  Judge Drain did not object, commenting that his earlier concerns about her being a flight risk “have been alleviated.”  He also suggested that he would be willing to ease travel restrictions and allow Rasmea to occasionally travel within the U.S.  The government wants to speak to the probationary authorities before agreeing to the end of the travel ban.
  
