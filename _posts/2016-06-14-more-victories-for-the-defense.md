@@ -45,7 +45,7 @@ ___
 <br>
 -See these great [pictures](https://drive.google.com/folderview?id=0B2L4paAxP6lvQ3ZvNVF1cHdfZm8&usp=drive_web) of the rally by SJP member Hoda Katebi!
  
--_Rasmea Odeh: A 'symbol' for Palestinian struggle in US_, [article and video](https://mail.google.com/mail/u/0/#inbox/15551d9ffb741bfe) from Ali Harb and Dave Liens for Middle East Eye. 
+-_Rasmea Odeh: A 'symbol' for Palestinian struggle in US_, [article and video](http://www.middleeasteye.net/fr/news/rasmea-odeh-symbol-palestinian-struggle-us-482497307) from Ali Harb and Dave Liens for Middle East Eye. 
  
 -_Supporters rally in Detroit for activist Rasmieh Odeh_, [article](http://www.freep.com/story/news/local/michigan/2016/06/13/detroit-rally-rasmieh-odeh-federal-judge-sets-hearing-fall/85829034/) from Detroit Free Press.
  
