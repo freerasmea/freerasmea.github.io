@@ -42,11 +42,11 @@ During her November trial, Rasmea and her defense team put the crimes of Israel 
 
 Rasmea’s case is not only about the U.S. carrying out Israel’s agenda, but also connected to racist policies here. The civil rights of Arabs and Muslims are violated with impunity, particularly those who are critical of U.S. support for Israel’s crimes against the Palestinian people. This is in the context of the long history of attacks against communities that organize for social change in this country, especially Black, Chicano and Mexicano, Puerto Rican, Native, Asian, and other oppressed nationalities.
 
-Rasmea was convicted in the unjust trial in November, and imprisoned in a Michigan county jail for a month, under very difficult conditions, including almost three weeks in solitary confinement. Supporters across the country rallied for – and won – her release on bond. 
+Rasmea was convicted in the unjust trial in November 2014, and imprisoned in a Michigan county jail for a month, under challenging conditions, including three weeks in solitary confinement. Supporters across the country rallied for – and won – her release on bond. 
 
-In March 2015, Rasmea was sentenced to 18 months in prison and subsequent deportation. However, because of our organizing efforts,she is staying free on bond pending appeal. The sentence was a huge blow to the prosecutor, who asked for 5-7 years. Her appeal was filed by defense attorneys on June 9, the prosecution replied on July 8, and the defense rebuttal was sent to the U.S. Court of Appeals for the Sixth Circuit on July 20. The appeals court heard oral arguments in Cincinnati on Wednesday, October 14, and Deutsch made a powerful argument for Rasmea deserving a new trial.
+In March 2015, Rasmea was sentenced to 18 months in prison and subsequent deportation. However, because of our organizing efforts, she is staying free on bond pending appeal. The sentence was a huge blow to the prosecutor, who asked for 5-7 years. Her appeal was filed by defense attorneys on June 9, the prosecution replied on July 8, and the defense rebuttal was sent to the U.S. Court of Appeals for the Sixth Circuit on July 20. The appeals court heard oral arguments in Cincinnati in October, and Deutsch made a powerful argument for Rasmea deserving a new trial.  
 
-In February 2016, the appellate court ruled that Judge Drain erred in keeping the evidence of torture and PTSD from the jury—**a huge victory for us in the case!** It means that Rasmea should now be able to tell her entire story to the courts and the jury. We expect to receive an update on next steps from Drain in April 2016, but we should continue to organize educational events, fundraisers, and other activities to win **#Justice4Rasmea**.
+In February 2016, the appellate court ruled that Judge Drain erred in keeping the evidence of torture and PTSD from the jury—**a huge victory for us in the case!** In Detroit again for a status conference on June 13, 2016, the defense and prosecution were told by Judge Drain to set tentative dates of November 29 for a hearing on Rasmea’s expert witness, and January 10, 2017, for a new trial. **These are not set in stone, but probably mean that Rasmea should now be able to tell her entire story to the courts and the jury.**
 
 Email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) to join us!
 
@@ -54,4 +54,4 @@ Email [justice4rasmea@uspcn.org](mailto:justice4rasmea@uspcn.org) to join us!
 
 > “We can find justice someplace. Maybe not in this court, maybe in another place. There is justice in this world, we will find it. We will face injustice and we have to change this world, not just in this country, in all the world in all the places there is no justice, we have to bring the justice together. In spite of everything, we are the stronger people, not the government who is unjust.” —Rasmea to supporters after November verdict
 
-_Updated March 25th, 2016, Rasmea Defense Committee_
+_Updated June 17, 2016, Rasmea Defense Committee_
