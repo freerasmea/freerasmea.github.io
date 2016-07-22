@@ -17,6 +17,8 @@ _Rasmea Odeh_
 
 In 2013, Rasmea received the Outstanding Community Leader Award from the Chicago Cultural Alliance, which described her as a woman who has “dedicated over 40 years of her life to the empowerment of Arab women, first in her homes of Palestine, Jordan and Lebanon, where she was an activist and practicing attorney, and then the past 10 years in Chicago.”
 
+![protesting outside courtoom]({{site.baseurl}}/assets/img/protesting-outside-courtroom.png)
+
 Rasmea is a community icon who overcame vicious torture by Israeli authorities while imprisoned in Palestine in the 1970s, and an example for the millions of Palestinians who have not given up organizing for their rights of liberation, equality, and return.
 
 ### The prosecution of a hero
@@ -26,6 +28,8 @@ In the early morning of Tuesday, October 22, 2013, then sixty-six year old Rasme
 The government claims that Rasmea failed to disclose that she was convicted by the Israelis of participating in bombings in 1969. This conviction in a military court was the result of a false confession made after she was viciously tortured and raped by Israeli military authorities for weeks. There is no due process in Israeli military courts, which “convict” over 99% of Palestinians who come before them, and “evidence” from these should not be accepted in a court in the U.S. 
 
 Despite this, Rasmea’s case on immigration charges went to trial in Detroit in November 2014.
+
+![social media]({{site.baseurl}}/assets/img/social-media.png)
 
 There, Federal Judge Gershwin Drain allowed the Israeli military court conviction to be entered into evidence, but barred testimony about her torture at the hands of her Israeli captors. That ruling eliminated the testimony of expert witness Dr. Mary Fabri, a clinical psychologist who has decades of experience working with torture survivors. Fabri was prepared to testify that the allegedly false answers on the immigration forms were the result of Rasmea’s chronic Post-Traumatic Stress Disorder (PTSD). 
 
