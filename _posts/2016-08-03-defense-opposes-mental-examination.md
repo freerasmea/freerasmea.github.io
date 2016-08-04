@@ -2,7 +2,7 @@
 published: true
 category: news
 excerpt: >-
-  View court documents of the appealâ€”the government demands a mental
+  View court documents of the appeal: the government demands a mental
   examination of Rasmea and the defense opposes.
 date: August 3
 ---
