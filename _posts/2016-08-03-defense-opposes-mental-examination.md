@@ -6,7 +6,7 @@ excerpt: >-
   examination of Rasmea and the defense opposes.
 date: August 3
 ---
-## Government Demands a Mental Examination of Rasmea; We Oppose. 
+## We Oppose the Government's Demand for a Mental Examination
 
 View the court documents regarding a mental examination of Rasmea:
 
