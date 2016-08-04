@@ -2,8 +2,8 @@
 published: false
 category: news
 excerpt: >-
-  View court documents of the appeal regarding a potential mental examination
-  for Rasmea.
+  View court documents of the appeal where the government demands a mental
+  examination of Rasmea and the defense opposes.
 ---
 ## Government Demands a Mental Examination of Rasmea; We Oppose. 
 
