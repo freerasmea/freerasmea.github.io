@@ -10,5 +10,5 @@ date: August 3
 
 View the court documents regarding a mental examination of Rasmea:
 
-The government demands the mental examination.
-The defense opposes the mental examination.
+The government demands the mental examination. ({{site.baseurl}}/assets/img/govt demand for mental exam of rasmea.pdf)
+The defense opposes the mental examination.({{site.baseurl}}/assets/img/defense opposition to demand for mental exam of rasmea.pdf)
