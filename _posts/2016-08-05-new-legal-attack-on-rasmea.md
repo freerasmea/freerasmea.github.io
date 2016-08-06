@@ -3,7 +3,7 @@ published: true
 date: 'August 5, 2016'
 category: news
 excerpt: >-
-  Prosecutors launch new legal attack on Palestinian American leader Rasmea
+  Prosecutors launch new legal attack on Palestinian American leader, Rasmea
   Odeh, regarding mental state; all out for September 22nd federal court hearing
   in Detroit.
 ---
