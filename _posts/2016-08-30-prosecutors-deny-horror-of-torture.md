@@ -1,5 +1,11 @@
 ---
 published: false
+date: 'August 30, 2016'
+category: new
+excerpt: >-
+  With Drain’s latest decision, Rasmea will be subjected to interrogation by a
+  government expert seeking to support its claim that testimony by torture
+  expert and clinical psychologist, Dr. Mary Fabri, should be excluded.
 ---
 ## Rasmea’s prosecutors deny the horror of torture; Judge Drain accepts their argument
 
