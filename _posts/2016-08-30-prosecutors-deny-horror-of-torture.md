@@ -1,7 +1,7 @@
 ---
 published: true
 date: 'August 30, 2016'
-category: new
+category: news
 excerpt: >-
   With Drain’s latest decision, Rasmea will be subjected to interrogation by a
   government expert seeking to support its claim that testimony by torture
