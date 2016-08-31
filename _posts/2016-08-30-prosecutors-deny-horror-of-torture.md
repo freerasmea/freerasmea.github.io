@@ -7,9 +7,9 @@ excerpt: >-
   government expert seeking to support its claim that testimony by torture
   expert and clinical psychologist, Dr. Mary Fabri, should be excluded.
 ---
-![latuff-rasmea-illustration.gif]({{site.baseurl}}/assets/img/latuff-rasmea-illustration.gif)
-
 ## Rasmea’s prosecutors deny the horror of torture; Judge Drain accepts their argument
+
+![latuff-rasmea-illustration.gif]({{site.baseurl}}/assets/img/latuff-rasmea-illustration.gif)
 
 Rasmea Odeh, a survivor of vicious torture at the hands of the Israeli military, will be compelled to undergo hours of psychological evaluation by a government forensic examiner, according to a ruling by Federal Judge Gershwin Drain.  Drain **cancelled a September 22 hearing on the matter** in Detroit, where supporters from across the Midwest had planned to join Rasmea.
 
