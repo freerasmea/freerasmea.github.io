@@ -9,7 +9,7 @@ excerpt: >-
 ---
 ## Rasmea’s prosecutors deny the horror of torture; Judge Drain accepts their argument
 
-Rasmea Odeh, a survivor of vicious torture at the hands of the Israeli military, will be compelled to undergo hours of psychological evaluation by a government forensic examiner, according to a ruling by Federal Judge Gershwin Drain.  Drain **cancelled a September 22 hearing on the matter**in Detroit, where supporters from across the Midwest had planned to join Rasmea.
+Rasmea Odeh, a survivor of vicious torture at the hands of the Israeli military, will be compelled to undergo hours of psychological evaluation by a government forensic examiner, according to a ruling by Federal Judge Gershwin Drain.  Drain **cancelled a September 22 hearing on the matter** in Detroit, where supporters from across the Midwest had planned to join Rasmea.
 
 The 69-year-old Rasmea is a legend in the Palestine national movement. In Drain’s courtroom in 2014, she was convicted of a politically-motivated immigration charge, and in 2015, sentenced to 18 months in prison and deportation. Rasmea appealed the decision, arguing that Drain had denied her defense the right to make its case.
 
