@@ -1,5 +1,11 @@
 ---
 published: false
+date: 'September 07, 2016'
+category: news
+excerpt: >-
+  Rasmea's defense attorneys filed a motion yesterday in response to last week’s
+  ruling by Judge Gershwin Drain that Rasmea would have to submit to up to 18
+  hours of a government expert’s examination of her mental state.
 ---
 ## Rasmea’s lawyers file motion “to protect defendant from additional harm”
 
