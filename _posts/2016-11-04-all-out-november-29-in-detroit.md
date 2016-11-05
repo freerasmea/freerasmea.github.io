@@ -11,6 +11,8 @@ excerpt: >-
 ---
 ## All out for November 29th federal court hearing—most important of the case—in Detroit!
 
+![protest-outside-courtroom.jpg]({{site.baseurl}}/assets/img/protest-outside-courtroom.jpg)
+
 **If you're not in the Midwest and can't make it to Detroit, organize a solidarity event in your city!**
 
 **WHEN:** Tuesday, November 29th, 2016, at 2 PM Eastern Standard Time (rally at 2 PM, hearing starts at 3 PM)
