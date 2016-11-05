@@ -3,7 +3,11 @@ published: false
 date: 'november 29, 2016'
 location: 'detroit, mi'
 category: news
-excerpt: null
+excerpt: >-
+  The Rasmea Defense Committee is calling on everyone to mobilize for Detroit on
+  November 29th. Supporters from Chicago and other parts of Illinois, Milwaukee,
+  Detroit / Dearborn, Grand Rapids, Minneapolis / St. Paul, Cincinnati, Indiana,
+  and other Midwest areas are already committed to attend.
 ---
 ## All out for November 29th federal court hearing—most important of the case—in Detroit!
 
