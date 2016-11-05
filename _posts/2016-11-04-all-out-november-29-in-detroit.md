@@ -1,7 +1,7 @@
 ---
 published: true
 date: 'november 29, 2016'
-location: 'detroit, mi'
+location: 'Detroit, MI'
 category: news
 excerpt: >-
   The Rasmea Defense Committee is calling on everyone to mobilize for Detroit on
