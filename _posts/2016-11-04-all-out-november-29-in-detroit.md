@@ -1,5 +1,9 @@
 ---
 published: false
+date: 'november 29, 2016'
+location: 'detroit, mi'
+category: news
+excerpt: null
 ---
 ## All out for November 29th federal court hearing—most important of the case—in Detroit!
 
