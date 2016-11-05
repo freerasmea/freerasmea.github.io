@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 'november 29, 2016'
 location: 'detroit, mi'
 category: news
