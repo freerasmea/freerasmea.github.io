@@ -9,13 +9,13 @@ excerpt: >-
   Detroit / Dearborn, Grand Rapids, Minneapolis / St. Paul, Cincinnati, Indiana,
   and other Midwest areas are already committed to attend.
 ---
-## NEW TIME - All out for November 29th federal court hearing—most important of the case—in Detroit! _Hearing time changed by the judge._ 
+## NEW TIME! All out for November 29th federal court hearing—most important of the case—in Detroit! _Hearing time changed by the judge._ 
 
 ![protest-outside-courtroom.jpg]({{site.baseurl}}/assets/img/protest-outside-courtroom.jpg)
 
 **If you're not in the Midwest and can't make it to Detroit, organize a solidarity event in your city!**
 
-**WHEN:** Tuesday, November 29th, 2016, at 2 PM Eastern Standard Time (rally at 2 PM, hearing starts at 3 PM)
+**WHEN:** Tuesday, November 29th, 2016, changed to 8 AM Eastern Standard Time (rally at 8 AM, hearing starts at 9 AM)
 
 **WHERE:** U.S. District Court, 231 W. Lafayette Blvd., downtown Detroit, Michigan
 
