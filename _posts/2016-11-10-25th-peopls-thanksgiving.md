@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 'November 19, 2016'
 location: 'Chicago, IL'
 category: events
