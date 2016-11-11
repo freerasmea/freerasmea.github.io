@@ -9,7 +9,7 @@ excerpt: >-
   Detroit / Dearborn, Grand Rapids, Minneapolis / St. Paul, Cincinnati, Indiana,
   and other Midwest areas are already committed to attend.
 ---
-## NEW TIME!! - All out for November 29th federal court hearing—most important of the case—in Detroit!
+## NEW TIME!! - All out for November 29th federal court hearing—most important of the case—in Detroit! _Hearing time changed by judge._ 
 
 ![protest-outside-courtroom.jpg]({{site.baseurl}}/assets/img/protest-outside-courtroom.jpg)
 
