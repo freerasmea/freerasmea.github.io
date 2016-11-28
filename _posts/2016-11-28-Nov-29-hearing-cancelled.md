@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 'November 28, 2016'
 category: news
 excerpt: >-
