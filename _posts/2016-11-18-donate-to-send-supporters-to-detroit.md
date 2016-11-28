@@ -6,9 +6,9 @@ excerpt: >-
   Supporters from Chicago and other parts of the Midwest are already committed
   to attend. Donate to help them get to Detroit!
 ---
-### The Rasmea Defense Committee is asking for your support to help send a charter bus from Chicago to Detroit for Rasmea's next hearing!
+##  The Rasmea Defense Committee is asking for your support to help send a charter bus from Chicago to Detroit for Rasmea's next hearing!
  
-## Please go to this page to [donate](https://www.youcaring.com/rasmeadefensecommittee-695148), and forward it far and wide!
+### Please go to this page to [donate](https://www.youcaring.com/rasmeadefensecommittee-695148), and forward it far and wide!
 
 In addition, see the specific information about Detroit below, and [let us know here](https://docs.google.com/forms/d/e/1FAIpQLSf-k4-2GM_TKeXQPWy6NjoKyRblZReGY12B2XggGJPLfOaeLQ/viewform?c=0&w=1) that you're attending the rally and hearing!  Thank you.
 
