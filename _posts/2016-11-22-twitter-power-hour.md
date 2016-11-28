@@ -1,5 +1,11 @@
 ---
 published: false
+date: 'November 22, 2016'
+category: news
+excerpt: >-
+  In anticipation of her Daubert hearing on November 29th, join the Rasmea
+  Defense Committee for twitter power hours Wednesday, November 23rd, from 12
+  Noon to 2 PM CST.
 ---
 ## Rasmea Defense Twitter Power Hours
 
