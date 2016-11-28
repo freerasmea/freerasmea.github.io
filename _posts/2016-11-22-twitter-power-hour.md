@@ -9,9 +9,9 @@ excerpt: >-
 ---
 ## Rasmea Defense Twitter Power Hours
 
-[justice-for-rasmea.jpg! (
+![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/justice-for-rasmea.jpg)
 
-Wednesday, November 23rd, from 12 Noon - 2 PM CST
+**Wednesday, November 23rd, from 12 Noon - 2 PM CST**
 
 In anticipation of her [_Daubert_ hearing on November 29th](http://justice4rasmea.org/news/2016/11/04/all-out-november-29-in-detroit/), join the Rasmea Defense Committee for twitter power hours Wednesday, November 23rd, from 12 Noon to 2 PM CST.  During these two hours, we will flood social media with messages of support for Rasmea in an online show of power!  Join us, tweet us [@Justice4Rasmea](https://twitter.com/@justice4rasmea), like the [defense's FB page](https://www.facebook.com/Free-Rasmea-Now-678264732186412/), and check out our sample tweets and memes online at [justice4rasmea.tumblr.com](justice4rasmea.tumblr.com).
 
