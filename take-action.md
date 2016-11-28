@@ -3,15 +3,21 @@ layout: page
 title: Take Action
 published: true
 ---
+### [Twitter Power Hour](http://justice4rasmea.org/news/2016/11/22/twitter-power-hour/)
+In anticipation of her Daubert hearing on November 29th, join the Rasmea Defense Committee for twitter power hours Wednesday, November 23rd, from 12 Noon to 2 PM CST.
+
+### [All Out for Detroit, November 29th](http://justice4rasmea.org/news/2016/11/04/all-out-november-29-in-detroit/)
+Join us for an important hearing in downtown Detroit, Michigan, on November 29th, 2016, at 8 AM Eastern time! Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-k4-2GM_TKeXQPWy6NjoKyRblZReGY12B2XggGJPLfOaeLQ/viewform?c=0&w=1).
+
+_____
+
+<img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
+
 ### [All Out for Detroit, June 13th](http://justice4rasmea.org/news/2016/05/11/all-out-for-detroit-june-13/)
 Join us to win #Justice4Rasmea by attending Rasmea’s next court hearing in downtown Detroit, Michigan, on Monday, June 13th, 2016, at 10 AM Eastern time! Sign up [here](https://docs.google.com/forms/d/1ru4N5poBF6KsKCmq7ufDuNAGKX7dkoaVKGMFMsvNiaw/viewform?c=0&w=1).
 
 ### [Donate for Rasmea's Birthday!](http://justice4rasmea.org/news/2016/05/22/happy-birthday-rasmea/)
 Sunday, May 22nd, is Rasmea's birthday, and there's no better gift she would want than for everyone to [donate to her defense fund](http://justice4rasmea.org/donate/). You all know we are headed to Detroit for a status hearing in a few weeks, and that a new trial may be on the horizon. Let's start [raising funds](http://justice4rasmea.org/donate/) in preparation!
-
-_____
-
-<img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
 
 ### Use this meme for your profile image on all social media platforms.
 <img src="{{site.baseurl}}/assets/img/ERP-for-rasmea.jpg">
