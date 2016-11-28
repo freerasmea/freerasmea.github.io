@@ -1,6 +1,6 @@
 ---
 published: true
-date: 'november 29, 2016'
+date: 'november 4, 2016'
 location: 'Detroit, MI'
 category: news
 excerpt: >-
