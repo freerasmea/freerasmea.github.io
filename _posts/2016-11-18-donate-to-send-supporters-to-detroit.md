@@ -37,6 +37,8 @@ Let us know once it's scheduled, by emailing info@stopfbi.net.
 
 And continue to support #Justice4Rasmea by [donating to the defense](http://justice4rasmea.org/donate/), and staying in touch through this website and justice4rasmea@uspcn.org.
 
+![latuff-rasmea-illustration.gif]({{site.baseurl}}/assets/img/latuff-rasmea-illustration.gif)
+
 **Background:**
 
 On Tuesday, November 29th, 2016, the International Day of Solidarity with the Palestinian People, Rasmea Odeh will once again be in a Detroit courtroom—this time for the most important hearing in her case to date—before Judge Gershwin Drain.  This Daubert hearing will, in all likelihood, have two mental health experts from each of the prosecution and defense sides testify before the judge, and then he will hear legal arguments as to whether the testimony of Dr. Mary Fabri—the clinical psychologist from the world-renowned Kovler Center for the Treatment of Survivors of Torture, who diagnosed Rasmea's Post-Traumatic Stress Disorder (PTSD)—is scientifically valid and applicable to the facts of the case.
@@ -59,3 +61,5 @@ Updated Nov 18th, 2016
 *************************************
 
 And Rasmea is also giving introductory remarks at the [People's Thanksgiving November 19th in Chicago](https://www.facebook.com/events/1274757732576581/)!
+
+![25th-peoples-thanksgiving.jpg]({{site.baseurl}}/assets/img/25th-peoples-thanksgiving.jpg)
