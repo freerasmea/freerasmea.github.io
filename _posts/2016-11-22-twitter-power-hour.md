@@ -33,7 +33,7 @@ Help send bus of Rasmea Defense Cmte supporters to hearing Nov 29th in Detroit. 
 
 The case of Rasmea Odeh, a #Palestinian Hero: [http://justice4rasmea.org/about/](http://justice4rasmea.org/about/) #Justice4Rasmea
 
-We need everyone to support #Justice4Rasmea and pack the courtroom for Nov 29 hearing http://justice4rasmea.org/news/2016/11/29/all-out-november-29-in-detroit/
+We need everyone to support #Justice4Rasmea and pack the courtroom for Nov 29 hearing [http://justice4rasmea.org/news/2016/11/04/all-out-november-29-in-detroit/](http://justice4rasmea.org/news/2016/11/04/all-out-november-29-in-detroit/)
 
 Read @marclamonthill on why #Black activists should support #Justice4Rasmea #BlackPalestinianSolidarity [huff.to/1G45sug](http://www.huffingtonpost.com/marc-lamont-hill/black-activist-should-stand-with-rasmea-odeh_b_8288682.html)
 
