@@ -23,19 +23,19 @@ Let us know you're joining us in Detroit on November 29th by [filling out this f
 
 **Promo tweets:**
 
-Join the #Justice4Rasmea social media campaign Wed, Nov 23, from 12 - 2 PM CST! Resources here: http://justice4rasmea.tumblr.com
+Join the #Justice4Rasmea social media campaign Wed, Nov 23, from 12 - 2 PM CST! Resources here: [http://justice4rasmea.tumblr.com](http://justice4rasmea.tumblr.com/)
 
-Why is Palestinian icon facing @TheJusticeDept repression? Tweet & post on FB Wed, Nov 23. #Justice4Rasmea http://justice4rasmea.tumblr.com
+Why is Palestinian icon facing @TheJusticeDept repression? Tweet & post on FB Wed, Nov 23. #Justice4Rasmea [http://justice4rasmea.tumblr.com](http://justice4rasmea.tumblr.com/)
 
 **Sample Tweets:**
 
-Help send bus of Rasmea Defense Cmte supporters to hearing Nov 29th in Detroit.  Donate youcaring.com/RasmeaBus #Justice4Rasmea
+Help send bus of Rasmea Defense Cmte supporters to hearing Nov 29th in Detroit.  Donate [youcaring.com/RasmeaBus](https://www.youcaring.com/rasmeadefensecommittee-695148) #Justice4Rasmea
 
-The case of Rasmea Odeh, a #Palestinian Hero: http://justice4rasmea.org/about/ #Justice4Rasmea
+The case of Rasmea Odeh, a #Palestinian Hero: [http://justice4rasmea.org/about/](http://justice4rasmea.org/about/) #Justice4Rasmea
 
 We need everyone to support #Justice4Rasmea and pack the courtroom for Nov 29 hearing http://justice4rasmea.org/news/2016/11/29/all-out-november-29-in-detroit/
 
-Read @marclamonthill on why #Black activists should support #Justice4Rasmea #BlackPalestinianSolidarity huff.to/1G45sug
+Read @marclamonthill on why #Black activists should support #Justice4Rasmea #BlackPalestinianSolidarity [huff.to/1G45sug](http://www.huffingtonpost.com/marc-lamont-hill/black-activist-should-stand-with-rasmea-odeh_b_8288682.html)
 
 All out for Detroit!  Join us in the streets Nov 29 for Rasmea’s next hearing. [http://justice4rasmea.org/news/2016/11/04/all-out-november-29-in-detroit/](http://justice4rasmea.org/news/2016/11/04/all-out-november-29-in-detroit/) #Justice4Rasmea
 
@@ -43,6 +43,6 @@ I'm going to Detroit, are you?! All out for #Detroit! Support #Justice4Rasmea on
 
 U.S. Prosecutor McQuade @USAO_MIE: The world is watching, we demand #Justice4Rasmea Odeh.
 
-VIDEO: Check out Rasmea in the @Black4Palestine video, When I See Them I See Us #Justice4Rasmea bit.ly/1K7mk4N
+VIDEO: Check out Rasmea in the @Black4Palestine video, When I See Them I See Us #Justice4Rasmea [bit.ly/1K7mk4N](https://www.youtube.com/watch?v=xsdpg-9cmSw&feature=youtu.be)
 
 Rasmea is an immigrant leader facing deportation by #DeporterInChief @BarackObama’s @DHSgov #Justice4Rasmea #Not1More
