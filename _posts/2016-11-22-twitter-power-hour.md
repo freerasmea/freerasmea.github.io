@@ -11,16 +11,17 @@ In anticipation of her [_Daubert_ hearing on November 29th](http://justice4rasme
 
 Make sure to use the hashtag #Justice4Rasmea.
 
-See you online November 23rd and in the streets November 29th!
-Let us know you're joining us in Detroit on November 29th by filling out this form!  And support Chicagoans traveling to Detroit by making a donation at youcaring.com/RasmeaBus!
+### **See you online November 23rd and in the streets November 29th!**
 
-Promo tweets:
+Let us know you're joining us in Detroit on November 29th by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSf-k4-2GM_TKeXQPWy6NjoKyRblZReGY12B2XggGJPLfOaeLQ/viewform?c=0&w=1)! And support Chicagoans traveling to Detroit by making a donation at [youcaring.com/RasmeaBus](https://www.youcaring.com/rasmeadefensecommittee-695148)!
 
-Join the #Justice4Rasmea social media campaign Wed, Nov 23, from 12 - 2 PM CST! Resources here: http://justice4rasmea.tumblr.com/
+**Promo tweets:**
 
-Why is Palestinian icon facing @TheJusticeDept repression? Tweet & post on FB Wed, Nov 23. #Justice4Rasmea http://justice4rasmea.tumblr.com/
+Join the #Justice4Rasmea social media campaign Wed, Nov 23, from 12 - 2 PM CST! Resources here: http://justice4rasmea.tumblr.com
 
-Sample Tweets:
+Why is Palestinian icon facing @TheJusticeDept repression? Tweet & post on FB Wed, Nov 23. #Justice4Rasmea http://justice4rasmea.tumblr.com
+
+**Sample Tweets:**
 
 Help send bus of Rasmea Defense Cmte supporters to hearing Nov 29th in Detroit.  Donate youcaring.com/RasmeaBus #Justice4Rasmea
 
