@@ -31,9 +31,9 @@ We need everyone to support #Justice4Rasmea and pack the courtroom for Nov 29 he
 
 Read @marclamonthill on why #Black activists should support #Justice4Rasmea #BlackPalestinianSolidarity huff.to/1G45sug
 
-All out for Detroit!  Join us in the streets Nov 29 for Rasmea’s next hearing. http://justice4rasmea.org/news/2016/11/29/all-out-november-29-in-detroit/ #Justice4Rasmea
+All out for Detroit!  Join us in the streets Nov 29 for Rasmea’s next hearing. [http://justice4rasmea.org/news/2016/11/04/all-out-november-29-in-detroit/](http://justice4rasmea.org/news/2016/11/04/all-out-november-29-in-detroit/) #Justice4Rasmea
 
-I'm going to Detroit, are you?! All out for #Detroit! Support #Justice4Rasmea on Nov 29 by signing up here: http://bit.ly/2fk6TYF
+I'm going to Detroit, are you?! All out for #Detroit! Support #Justice4Rasmea on Nov 29 by signing up here: [http://bit.ly/2fk6TYF](https://docs.google.com/forms/d/e/1FAIpQLSf-k4-2GM_TKeXQPWy6NjoKyRblZReGY12B2XggGJPLfOaeLQ/viewform?c=0&w=1)
 
 U.S. Prosecutor McQuade @USAO_MIE: The world is watching, we demand #Justice4Rasmea Odeh.
 
