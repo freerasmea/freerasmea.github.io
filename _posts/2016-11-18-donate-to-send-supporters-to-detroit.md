@@ -1,5 +1,10 @@
 ---
 published: false
+date: 'November 18, 2016'
+category: news
+excerpt: >-
+  Supporters from Chicago and other parts of the Midwest are already committed
+  to attend. Donate to help them get to Detroit!
 ---
 ### The Rasmea Defense Committee is asking for your support to help send a charter bus from Chicago to Detroit for Rasmea's next hearing!
  
