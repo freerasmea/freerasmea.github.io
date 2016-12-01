@@ -3,8 +3,9 @@ title: Press Coverage
 permalink: /press/
 published: true
 ---
-
 ## Post-Appeal Coverage
+
+- [Rasmea Odeh Defense Sees Hope in Judge’s Unexpected Move, _The Electronic Intifida, Charlotte Silver, Nov. 30, 2016_](https://electronicintifada.net/blogs/charlotte-silver/rasmea-odeh-defense-sees-hope-judges-unexpected-move)
 
 - [A New Day for Rasmea Odeh: Throwing the Spotlight on Israeli Torture, _Reader Support News, Dennis J. Bernstein, Apr. 3, 2016_](http://readersupportednews.org/opinion2/277-75/36119-a-new-day-for-rasmea-odeh-throwing-the-spotlight-on-israeli-torture)
 
