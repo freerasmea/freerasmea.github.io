@@ -18,8 +18,6 @@ excerpt: >-
 
 _Tomorrow, Wednesday, December 7, 2016–from 9 AM to 5 PM EST–please call **U.S. Attorney Barbara McQuade at 313-226-9100**, and demand that she stop wasting taxpayer money, that she stop persecuting a woman who has given so much to U.S. society, and that she Drop the Charges Against Rasmea Now!_
 
-December 6, 2016
-
 After cancelling a November 29 Daubert hearing last week, Eastern District of Michigan Federal Judge Gershwin Drain reviewed written arguments, and ruled today that Palestinian American community organizer **Rasmea Odeh will be granted a new trial**.
 
 “This is incredible news,” said Nesreen Hasan, a leader of the Rasmea Defense Committee and its lead organization, the U.S. Palestinian Community Network (USPCN). “The government has gone to great lengths to cover up the details of Israel’s torture and crimes against this mentor of mine and of so many others, this Palestinian icon. Now, the truth will finally be told, in open court.  Rasmea will be vindicated.”
