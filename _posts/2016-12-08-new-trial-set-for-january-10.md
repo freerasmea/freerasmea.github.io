@@ -10,6 +10,8 @@ excerpt: >-
 ---
 ## Rasmea Odeh’s new trial officially set for January 10; Continue to demand that McQuade Drop the Charges Now!
 
+![rasmeaprotest.jpg]({{site.baseurl}}/assets/img/rasmeaprotest.jpg)
+
 **Statement from the Rasmea Defense Committee**
 
 Media Contact: Hatem Abudayyeh, 773-301-4108, hatem85@yahoo.com
@@ -35,6 +37,8 @@ Rasmea suffers from Post-Traumatic Stress Disorder (PTSD) because of this tortur
 In filings before the ruling, the government argued that Judge Drain should again exclude Fabri’s testimony, asserting that Rasmea did not have PTSD, that she was feigning her symptoms, and therefore, that her memory could not have been impacted during the immigration process. Despite recently subjecting her to 17 hours of clinical mental examination to prove these theories, the government’s own expert affirmed the diagnosis of PTSD, and reported that Rasmea was not faking any symptoms.
 
 At the new trial next year, defense attorneys are hopeful a jury that finally gets the opportunity to hear testimony about torture and PTSD, will find Rasmea not guilty.  In the meantime, the defense committee is calling on U.S. Attorney Barbara McQuade to stop wasting taxpayer money and end this travesty of justice right now—**by dropping the charges now and letting Rasmea go free!**
+
+![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/justice-for-rasmea.jpg)
 
 “This has been a politically-motivated case from day one,” said Frank Chapman, Field Organizer for the Chicago Alliance Against Racist and Political Repression. “The whole case against Rasmea is nothing but a pretext to intimidate those who organize and struggle to realize a liberated Palestine. She has remained determined in the face of this repression, and we will continue to stand beside her. Hundreds have come out from across the country to stand with Rasmea at every hearing, and every day of her trial and appeal. These same hundreds, and thousands more, are now demanding of McQuade, ‘[#DropTheChargesNow](https://twitter.com/justice4rasmea)!’”
 
