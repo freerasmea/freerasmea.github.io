@@ -2,7 +2,12 @@
 published: true
 date: 'december 13, 2016'
 category: news
-excerpt: null
+excerpt: >-
+  U.S. Attorney Barbara McQuade announced that a grand jury she had empaneled
+  returned a new, superseding indictment against Rasmea Odeh for unlawful
+  procurement of naturalization. This new indictment is a vicious attack by
+  prosecutors desperate after a series of setbacks in their case against the
+  Chicago-based Palestinian American community leader.
 ---
 For Immediate Release
 
