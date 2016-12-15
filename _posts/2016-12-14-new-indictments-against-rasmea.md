@@ -15,7 +15,7 @@ Media contact: Hatem Abudayyeh, 773.301.4108, [hatem85@yahoo.com](mailto:hatem85
 
 ## U.S. Attorney extends political attack on Rasmea, brings new indictment against the Palestinian American
 
-![protesting-outside-courtroom-sml.png]({{site.baseurl}}/assets/img/protesting-outside-courtroom-sml)
+![protesting-outside-courtroom-sml.png]({{site.baseurl}}/assets/img/protesting-outside-courtroom-sml.png)
 
 Today, U.S. Attorney Barbara McQuade announced that a grand jury she had empaneled returned a new, superseding indictment against Rasmea Odeh for unlawful procurement of naturalization. This new indictment, just four weeks before her retrial, is a vicious attack by prosecutors desperate after a series of setbacks in their case against the Chicago-based Palestinian American community leader. From the outset, the government has attempted to exclude and discredit evidence of Rasmea’s torture at the hands of Israeli authorities, but the 6th Circuit Court of Appeals ruled against the prosecution, which [led to the retrial](http://justice4rasmea.org/news/2016/06/14/more-victories-for-the-defense/); and the government’s own expert affirmed that Rasmea lives with Post Traumatic Stress Disorder (PTSD).
 
