@@ -15,6 +15,9 @@ Dear Friends and Supporters,
   
 Against all odds, your dedication has helped us wrestle the possibility of victory from the jaws of defeat. We can’t stop, we won’t stop, and we need you to stay with us. Rasmea Odeh, Palestinian community leader, is in Chicago for the holidays, continuing her important organizing work. **And she’s home because of you!**
   
+| ![justice for rasmea]({{site.baseurl}}/assets/img/rasmea2.jpg) | **[Please continue to support the defense fund by making a generous donation NOW!](http://justice4rasmea.org/donate/) |
+|-----------------|------|
+
 
 ![justice for rasmea]({{site.baseurl}}/assets/img/rasmea2.jpg) **[Please continue to support the defense fund by making a generous donation NOW!](http://justice4rasmea.org/donate/)**
   
