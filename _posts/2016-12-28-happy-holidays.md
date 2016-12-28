@@ -30,4 +30,5 @@ As Frank Chapman, Field Organizer for the Chicago Alliance Against Racist and Po
 Thank you again, and Happy Holidays from the Rasmea Defense Committee! 
   
 #Justice4Rasmea
+
 #DropTheChargesNow
