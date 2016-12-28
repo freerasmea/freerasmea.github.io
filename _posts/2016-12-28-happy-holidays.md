@@ -15,8 +15,10 @@ Dear Friends and Supporters,
   
 Against all odds, your dedication has helped us wrestle the possibility of victory from the jaws of defeat. We can’t stop, we won’t stop, and we need you to stay with us. Rasmea Odeh, Palestinian community leader, is in Chicago for the holidays, continuing her important organizing work. **And she’s home because of you!**
   
-> **[Please continue to support the defense fund by making a generous donation NOW!](http://justice4rasmea.org/donate/)**![justice for rasmea]({{site.baseurl}}/assets/img/rasmea2.jpg)
+**[Please continue to support the defense fund by making a generous donation NOW!](http://justice4rasmea.org/donate/)**!
 
+[justice for rasmea]({{site.baseurl}}/assets/img/rasmea2.jpg)
+  
 After an unjust conviction in Detroit, Rasmea started 2016 facing a sentence of 18 months and the loss of her U.S. citizenship. With your support, and an incredible legal team, Rasmea led the continued fight for justice. You worked hard to share Rasmea’s story at events and actions in cities across the country, and **more than once, you got #Justice4Rasmea trending on Twitter.** When word came of victory in Rasmea’s appeal, you mobilized to Detroit for the June hearing to ensure she would get a new trial; and you were prepared to go there again for the retrial, where Rasmea would finally tell her story of brutal torture at the hands of Israeli soldiers.
   
 Feeling the heat just weeks before that trial date, U.S. Attorney Barbara McQuade announced a new attack on Rasmea – a new grand jury indictment that aims to ensure Rasmea stand before a jury as an accused terrorist. This move lays bare what we have said all along – **the immigration charge against Rasmea is a pretext for a broader attempt to criminalize the Palestine liberation movement.** Undoubtedly, prosecutors also hoped this desperate move would drive Rasmea’s supporters away. **We are counting on you to prove them wrong!**
