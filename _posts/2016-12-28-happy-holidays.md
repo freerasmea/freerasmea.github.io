@@ -25,8 +25,6 @@ As Frank Chapman, Field Organizer for the Chicago Alliance Against Racist and Po
   
 ![drop the charges now]({{site.baseurl}}/assets/img/rasmea3.jpg){:style="float: right; margin-left: 10px; margin-top:3px;"}[**So we’re asking for your support. Please donate generously to Rasmea’s defense, as we prepare for the next round of this fight.**](http://justice4rasmea.org/donate/)
 
-
-
 Thank you again, and Happy Holidays from the Rasmea Defense Committee! 
   
 #Justice4Rasmea
