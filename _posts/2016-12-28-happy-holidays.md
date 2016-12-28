@@ -1,5 +1,13 @@
 ---
 published: true
+date: 'December 28, 2016'
+category: news
+excerpt: >-
+  Happy Holidays from Rasmea and her defense committee. We can’t stop, we won’t
+  stop, and we need you to stay with us. Rasmea Odeh, Palestinian community
+  leader, is in Chicago for the holidays, continuing her important organizing
+  work. And she’s home because of you! Please continue to support the defense
+  fund by making a generous donation NOW!
 ---
 ##Happy Holidays from Rasmea & her Defense Committee
 
