@@ -28,6 +28,3 @@ The Rasmea Defense Committee is urging supporters to call U.S. Attorney Barbara 
 Prosecutors will be disappointed to find that these new allegations fail to erode Rasmea’s support. People have mobilized by the hundreds for countless hearings, every day of her 2014 trial, and her appeal earlier this year. “We have people ready to come from across the Midwest to stand with Rasmea in Detroit on January 10, but we are also prepared to adjust those plans to be there whenever we are needed,” says Jess Sundin of the Committee to Stop FBI Repression, who lives in Minneapolis and has mobilized dozens of Minnesotans and others in support of the defense. “We will redouble our organizing and fundraising work, and make certain Rasmea has the best defense possible.”
 
 According to lead defense attorney Michael Deutsch, “We also intend to challenge this indictment as vindictive and politically-motivated.”
-
-Visit www.justice4rasmea.org for more information.
-
