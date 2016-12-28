@@ -26,6 +26,7 @@ Feeling the heat just weeks before that trial date, U.S. Attorney Barbara McQuad
 As Frank Chapman, Field Organizer for the Chicago Alliance Against Racist and Political Repression, and one of the main supporters of the Rasmea Defense Committee, has said on many occasions, **"Rasmea's is the most important political trial in the U.S. today!"** A new trial date has been set for May 16, 2017. Rasmea’s wonderful defense team – Michael Deutsch, Jim Fennerty, Dennis Cunningham, Bill Goodman, Huwaida Arraf, and other legal workers, clerks, and volunteers – have a mountain of work to prepare the courtroom defense. At the same time, we will have more pre-trial hearings, plus the trial itself, to mobilize supporters to Detroit. **So we are going to need at least another $50,000 in the days ahead, for the legal and community organizing expenses.**
   
 [**So we’re asking for your support. Please donate generously to Rasmea’s defense, as we prepare for the next round of this fight.**](http://justice4rasmea.org/donate/)
+
 ![drop the charges now]({{site.baseurl}}/assets/img/rasmea3.jpg) 
 
 Thank you again, and Happy Holidays from the Rasmea Defense Committee! 
