@@ -9,7 +9,7 @@ excerpt: >-
   work. And she’s home because of you! Please continue to support the defense
   fund by making a generous donation NOW!
 ---
-## Happy Holidays from Rasmea & her Defense Committee
+## Happy Holidays from Rasmea & Her Defense Committee
 
 Dear Friends and Supporters,
   
