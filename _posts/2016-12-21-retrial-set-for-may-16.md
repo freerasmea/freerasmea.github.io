@@ -1,5 +1,10 @@
 ---
 published: false
+date: 'December 21, 2016'
+category: news
+excerpt: >-
+  All parties agreed on May 16, 2017, as the new starting date for Rasmea's
+  retrial. The defense committee will continue to send regular updates.
 ---
 ## Rasmea retrial set for May 16, 2017; Support the defense now!
 
