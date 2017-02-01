@@ -8,7 +8,7 @@ excerpt: >-
 ---
 For Immediate Release: Tuesday, January 31st
 
-Media Contact: Hatem Abudayyeh, Rasmea Defense Committee spokesperson, 773.301.4108, hatem85@yahoo.com
+Media Contact: Hatem Abudayyeh, Rasmea Defense Committee spokesperson, 773.301.4108, [hatem85@yahoo.com](mailto:hatem85@yahoo.com)
  
 ### Rasmea Odeh Defense Team Files Motion to Dismiss Indictment
 ## Prosecutors “Vindictive” After Losing on Appeal
