@@ -1,5 +1,10 @@
 ---
 published: false
+date: 'January 31, 2017'
+category: news
+excerpt: >-
+  Lawyers defending Palestinian American activist Rasmea Odeh moved to dismiss
+  the new indictment that was brought against her in December 2016.
 ---
 For Immediate Release: Tuesday, January 31st
 
