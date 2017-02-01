@@ -10,9 +10,8 @@ For Immediate Release: Tuesday, January 31st
 
 Media Contact: Hatem Abudayyeh, Rasmea Defense Committee spokesperson, 773.301.4108, [hatem85@yahoo.com](mailto:hatem85@yahoo.com)
  
-### Rasmea Odeh Defense Team Files Motion to Dismiss Indictment
-
-## Prosecutors “Vindictive” After Losing on Appeal
+##  Rasmea Odeh Defense Team Files Motion to Dismiss Indictment
+_**Prosecutors “Vindictive” After Losing on Appeal**_
 
 Today, the lawyers defending Palestinian American activist Rasmea Odeh moved to dismiss the new indictment that was brought against her in December 2016. The [motion and supporting brief](http://justice4rasmea.org/assets/img/MDism-I-2-and-Brief-in-Support-of-Motion-to-Dismiss.pdf) argue that the government’s “superseding indictment has substantially broadened the scope of the trial and the evidence that will be relevant and at issue.”
  
