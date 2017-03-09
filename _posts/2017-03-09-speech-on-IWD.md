@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 'March 8, 2017'
 location: Chicago
 category: news
