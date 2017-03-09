@@ -3,10 +3,14 @@ published: false
 date: 'March 8, 2017'
 location: Chicago
 category: news
+excerpt: >-
+  Rasmea Odeh received TWO standing ovations at the #InternationalWomensDay
+  event at the Chicago Teachers Union hall last night. Watch the speech and read
+  the transcription.
 ---
 ## Rasmea's speech on IWD; JVP responds to Tribune
 
-Rasmea Odeh received TWO standing ovations at the #InternationalWomensDay event at the Chicago Teachers Union hall last night.  Watch the speech here, and it is also transcribed below.
+Rasmea Odeh received TWO standing ovations at the #InternationalWomensDay event at the Chicago Teachers Union hall last night. Watch the speech here, and it is also transcribed below.
  
 In addition, our friends from Jewish Voice for Peace members Eli Massey and Lynn Pollack wrote pieces supporting and defending Rasmea from recent media attacks by contributors to the Chicago Tribune and other outlets.  We thank JVP for its support. 
  
