@@ -1,5 +1,8 @@
 ---
 published: false
+date: 'March 8, 2017'
+location: Chicago
+category: news
 ---
 ## Rasmea's speech on IWD; JVP responds to Tribune
 
