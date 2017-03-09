@@ -12,7 +12,7 @@ excerpt: >-
 
 Rasmea Odeh received TWO standing ovations at the #InternationalWomensDay event at the Chicago Teachers Union hall last night. Watch the speech [here](https://www.facebook.com/USPCN/videos/1478392545528916/), and it is also transcribed below.
  
-In addition, our friends from Jewish Voice for Peace members Eli Massey and Lynn Pollack wrote pieces supporting and defending Rasmea from recent media attacks by contributors to the Chicago Tribune and other outlets.  We thank JVP for its support. 
+In addition, our friends from Jewish Voice for Peace members [Eli Massey](http://www.chicagotribune.com/news/opinion/commentary/ct-israel-palestine-rasmieh-odeh-jewish-perspec-0309-md-20170308-story.html) and [Lynn Pollack](http://www.chicagotribune.com/news/opinion/letters/ct-rasmieh-yousef-odeh-a-woman-of-resilience-and-grace-20170307-story.html) wrote pieces supporting and defending Rasmea from recent media attacks by contributors to the Chicago Tribune and other outlets. We thank JVP for its support. 
  
 Members of the Rasmea Defense Committee in NY are also responding to a New York Times piece, and we will share that with you when it is published.
 
