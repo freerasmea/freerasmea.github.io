@@ -14,6 +14,7 @@ This piece is a response to a hatchet job on Rasmea published by the Chicago Tri
 
 Rasmea Defense Committee
 March 10, 2017
+
 ___
 
 
