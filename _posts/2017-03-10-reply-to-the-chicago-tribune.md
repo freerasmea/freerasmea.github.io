@@ -16,6 +16,7 @@ Rasmea Defense Committee
 March 10, 2017
 ___
 
+
 In [commentary](http://www.chicagotribune.com/news/opinion/commentary/ct-jewish-rasmieh-yousef-odeh-bombing-perspec-0306-jm-20170302-story.html) for the Chicago Tribune March 5th, Peggy Shapiro, who is simply described as a retired professor from the Chicago City Colleges, attacks Rasmea Odeh, an activist from Chicago’s Palestinian community.
  
 Shapiro is a [one-time Breitbart contributor](http://www.breitbart.com/national-security/2013/07/18/tiaa-cref-divestment-from-israel-dismissed-again/) and the Chicago coordinator of Stand With Us, a famously right-wing, pro-Israel advocacy group that is also anti-Palestinian and a defender of acts of violence by the Israeli military. Stand With Us has embraced Donald Trump, as his attacks on Arabs and Muslims have made Israeli President Netanyahu a supporter.
