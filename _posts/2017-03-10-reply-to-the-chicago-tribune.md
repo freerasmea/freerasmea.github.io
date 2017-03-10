@@ -13,7 +13,7 @@ excerpt: >-
 This piece is a response to a hatchet job on Rasmea published by the Chicago Tribune in commentary this past Sunday. The Trib stated today that it would not publish our letter, so we are publishing a slightly edited version ourselves.
 
 Rasmea Defense Committee
-March 10, 2017
+<br>March 10, 2017
 
 ___
 
@@ -35,4 +35,4 @@ Shapiro exposes herself. Rasmea is not guilty. She was tortured into a forced co
 Shapiro doesn’t care, because she accepts any crimes by Israel in the defense of its occupation of Palestine. She is not just a “retired professor”; she is also a purveyor of Israeli _hasbara_ (propaganda).
 
 Rasmea Defense Committee
-March 6, 2017
+<br>March 6, 2017
