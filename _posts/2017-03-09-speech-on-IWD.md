@@ -16,9 +16,9 @@ In addition, our friends from Jewish Voice for Peace members [Eli Massey](http:/
  
 Members of the Rasmea Defense Committee in NY are also responding to a New York Times piece, and we will share that with you when it is published.
 
-![rasmea-jvp.jpg]({{site.baseurl}}/assets/img/rasmea-jvp.jpg)
-
 ___
+
+![rasmea-jvp.jpg]({{site.baseurl}}/assets/img/rasmea-jvp.jpg)
 
 Good evening everyone. My name is Rasmea Odeh, and along with my friends Barbara Ransby, Angela Davis, and five other organizers from the U.S. and around the world, I signed the article that called for the women’s strike on this day. I am a Palestinian, and I have dedicated my life to the liberation of women and of my people in general. 
  
