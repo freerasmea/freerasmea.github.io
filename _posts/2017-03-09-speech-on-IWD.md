@@ -16,7 +16,7 @@ In addition, our friends from Jewish Voice for Peace members [Eli Massey](http:/
  
 Members of the Rasmea Defense Committee in NY are also responding to a New York Times piece, and we will share that with you when it is published.
 
-![rasmea_keffiyeh.jpg]({{site.baseurl}}/assets/img/rasmea_keffiyeh.jpg)
+![rasmea-jvp.jpg]({{site.baseurl}}/assets/img/rasmea-jvp.jpg)
 
 ___
 
