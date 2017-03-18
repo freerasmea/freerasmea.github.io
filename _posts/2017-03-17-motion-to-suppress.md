@@ -10,8 +10,6 @@ excerpt: >-
 ---
 ## For Immediate Release: Important Motion to Suppress Filed by Rasmea Odeh Defense Team
 
-### Important Motion to Suppress Filed by Rasmea Odeh Defense Team 
-
 ![all-out-for-detroit-rasmea.gif]({{site.baseurl}}/assets/img/all-out-for-detroit-rasmea.gif)
 
 
