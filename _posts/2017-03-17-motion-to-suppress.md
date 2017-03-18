@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 'March 17, 2017'
 category: news
 excerpt: >-
@@ -12,7 +12,8 @@ excerpt: >-
 
 ### Important Motion to Suppress Filed by Rasmea Odeh Defense Team 
 
-all out for detroit rasmea.gif
+![all-out-for-detroit-rasmea.gif]({{site.baseurl}}/assets/img/all-out-for-detroit-rasmea.gif)
+
 
 Michael Deutsch, Jim Fennerty, and the rest of the legal defense team for Rasmea Odeh are gearing up for trial, **now scheduled for May 30th**. New motions filed this week put the question of Israel and its torturers front and center, and will be considered at a **hearing on April 25th** (moved from April 4th). 
  
