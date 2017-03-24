@@ -1,5 +1,11 @@
 ---
 published: false
+date: 'March 23, 2017'
+category: news
+excerpt: >-
+  Rasmea Odeh, the 69-year old Palestinian American community leader who was
+  tortured and sexually assaulted by the Israeli military in 1969, is bringing
+  to a close her battle to win justice from the U.S. legal system.
 ---
 ## Rasmea Odeh Accepts a Plea Agreement with No Prison Time
 
