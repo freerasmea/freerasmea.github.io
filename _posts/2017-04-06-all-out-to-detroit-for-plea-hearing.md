@@ -27,7 +27,7 @@ The Rasmea Defense Committee is led by the U.S. Palestinian Community Network an
 
 *****************************************
 
-[### Rasmea Odeh accepts a plea agreement with no prison time; plea hearing April 25th in Detroit](http://justice4rasmea.org/news/2017/03/23/rasmea-accepts-plea-deal/)
+### [Rasmea Odeh accepts a plea agreement with no prison time; plea hearing April 25th in Detroit](http://justice4rasmea.org/news/2017/03/23/rasmea-accepts-plea-deal/)
 
 March 23rd, 2017 - Rasmea Odeh, the 69-year old Palestinian American community leader who was tortured and sexually assaulted by the Israeli military in 1969, **is bringing to a close her battle to win justice from the U.S. legal system.**
 
