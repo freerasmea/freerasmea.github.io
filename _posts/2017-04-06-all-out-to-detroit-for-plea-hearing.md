@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ##  All Out for Rasmea’s April 25th plea hearing in Detroit!
 
