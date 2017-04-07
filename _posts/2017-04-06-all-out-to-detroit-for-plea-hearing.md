@@ -57,7 +57,7 @@ The case of Rasmea Odeh presents us all with an example of how to resist. The cu
 
 _(This essay is adapted from speeches delivered by Rasmea Odeh at the Crossroads Fund Seeds of Change event on 31 March 2017 and at the Jewish Voice for Peace national conference on 2 April 2017.)_
 
-![rasmea-supporters.jpg]({{site.baseurl}}/assets/img/rasmea-supporters.jpg)
+![rasmea_supporters.jpg]({{site.baseurl}}/assets/img/rasmea_supporters.jpg)
 
 I was an infant during the Nakba, the 1948 catastrophe in Palestine. Growing up I heard many stories of pain and bitterness from my family, who were forced, along with 750,000 other Palestinians, to leave the homes, lands, lives and memories they had built for generations.
 
