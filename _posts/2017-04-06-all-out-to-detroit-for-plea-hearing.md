@@ -56,7 +56,6 @@ The case of Rasmea Odeh presents us all with an example of how to resist. The cu
 **[I will continue my struggle – Rasmea Odeh, April 5th, 2017](https://electronicintifada.net/content/i-will-continue-my-struggle/20096)**
 
 _(This essay is adapted from speeches delivered by Rasmea Odeh at the Crossroads Fund Seeds of Change event on 31 March 2017 and at the Jewish Voice for Peace national conference on 2 April 2017.)_
-iwd rasmea pic
 
 ![rasmea-supporters.jpg]({{site.baseurl}}/assets/img/rasmea-supporters.jpg)
 
