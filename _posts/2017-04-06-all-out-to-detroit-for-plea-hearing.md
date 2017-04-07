@@ -35,7 +35,7 @@ After living in this country for over 20 years, Rasmea was charged in 2013 with 
 
 In 1969, as a college student, Rasmea was arrested by the Israeli police, along with as many as 500 others, and accused of involvement in two bombings. She was horrifically tortured for 25 days (including electric shock treatment and sexual assault), as was her father in her presence; and then tried before a kangaroo Israeli military court. This tribunal has military officers, and not civilians, as prosecutors and judges, and convicts over 99% of its Palestinian prisoners. She was found guilty based on **a confession coerced through torture,** and then given a life sentence. In 1979, she was freed with other Palestinians in a prisoner exchange.
 
-IMAGE GOES HERE!!!!!!
+![all-out-for-detroit-rasmea.gif]({{site.baseurl}}/assets/img/all-out-for-detroit-rasmea.gif)
 
 In her 2014 trial in U.S. federal court, where she was convicted and sentenced to 18 months in prison for allegedly giving false answers to questions on her applications for permanent residency and citizenship, Judge Gershwin Drain prohibited the defense from challenging the legality of the military tribunal or offering proof of her innocence of the bombings. She was also not allowed to put forward that she suffered from Post-Traumatic Stress Disorder as a result of the torture, but **she won an appeal and a new trial expressly based on the excluded torture evidence.** Its back against the wall, the government then filed a vindictive new superseding indictment that falsely accused Rasmea of being a “terrorist” and a member of a “designated terrorist organization.”
 
@@ -57,6 +57,8 @@ The case of Rasmea Odeh presents us all with an example of how to resist. The cu
 
 _(This essay is adapted from speeches delivered by Rasmea Odeh at the Crossroads Fund Seeds of Change event on 31 March 2017 and at the Jewish Voice for Peace national conference on 2 April 2017.)_
 iwd rasmea pic
+
+![all-out-for-detroit-rasmea.gif]({{site.baseurl}}/assets/img/all-out-for-detroit-rasmea.gif)
 
 I was an infant during the Nakba, the 1948 catastrophe in Palestine. Growing up I heard many stories of pain and bitterness from my family, who were forced, along with 750,000 other Palestinians, to leave the homes, lands, lives and memories they had built for generations.
 
