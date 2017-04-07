@@ -58,7 +58,7 @@ The case of Rasmea Odeh presents us all with an example of how to resist. The cu
 _(This essay is adapted from speeches delivered by Rasmea Odeh at the Crossroads Fund Seeds of Change event on 31 March 2017 and at the Jewish Voice for Peace national conference on 2 April 2017.)_
 iwd rasmea pic
 
-![all-out-for-detroit-rasmea.gif]({{site.baseurl}}/assets/img/all-out-for-detroit-rasmea.gif)
+![rasmea-supporters.jpg]({{site.baseurl}}/assets/img/rasmea-supporters.jpg)
 
 I was an infant during the Nakba, the 1948 catastrophe in Palestine. Growing up I heard many stories of pain and bitterness from my family, who were forced, along with 750,000 other Palestinians, to leave the homes, lands, lives and memories they had built for generations.
 
@@ -72,9 +72,9 @@ When I immigrated to this country and found myself in Chicago, after many years 
 
 I have been a community organizer for the past 13 years with the Arab Women’s Committee, a project of the Arab American Action Network. I have spent the best years of my life with these Arab immigrant and refugee women. We protect each other, and struggle for justice together through our organizing work. They are all helping me to live a generous and simple life, and forget a lot of my personal pain.
 
-We created this committee from scratch; it now has over 700 members. The committee promotes leadership by and for Arab women, to build their
+We created this committee from scratch; it now has over 700 members. The committee promotes leadership by and for Arab women, to build their capacity to fight for social change, and to challenge systems of oppression like racial profiling, sexism and patriarchy. We built a formation of immigrant and refugee women who fight for their own rights and the rights of all oppressed peoples.
 
-capacity to fight for social change, and to challenge systems of oppression like racial profiling, sexism and patriarchy. We built a formation of immigrant and refugee women who fight for their own rights and the rights of all oppressed peoples.
+![protesting-outside-courtroom.png]({{site.baseurl}}/assets/img/protesting-outside-courtroom.png)
 
 We all have a role to play in our own cities, our own neighborhoods. Organizing is difficult. It’s hard work, but it’s the only thing that is guaranteed to make change in this world.
 
@@ -91,6 +91,8 @@ Of course, Zionists aren’t going to stop their land grab in Palestine either. 
 Many hundreds of Palestinians and our supporters in the US have had to face government repression because of our organizing for peace and justice, and it is important that all of you continue your activism despite the attacks, because we are doing effective work in this country that is having an impact. Our community organizations, our student organizers, our academics, our solidarity activists — all exposing Israel for the criminal, apartheid state that it is.
 
 There is a long history of repression against oppressed communities in this country. Law enforcement goes after those, like the Black liberation movement and so many others, who are fighting for social justice, those who want to make a difference in the world.
+
+![rasmealaughing.jpg]({{site.baseurl}}/assets/img/rasmealaughing.jpg)
 
 We are those people, and we will be targeted, but we should understand that we have the support of millions of others around the world who share our vision of historical Palestine liberated from Zionism, where all Palestinian refugees can return to their original homes, and where everyone there can live together with dignity and equal rights.
 
