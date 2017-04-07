@@ -1,5 +1,13 @@
 ---
 published: true
+date: 'April 6, 2017'
+category: news
+excerpt: >-
+  The Rasmea Defense Committee is calling on everyone to mobilize for Rasmea’s
+  final court appearance in Detroit on April 25th. It is essential that we fill
+  the courtroom one final time, in support of our leader and shero Rasmea Odeh,
+  who accepted a plea agreement two weeks ago, and will be forced to leave the
+  United States soon.
 ---
 ##  All Out for Rasmea’s April 25th plea hearing in Detroit!
 
