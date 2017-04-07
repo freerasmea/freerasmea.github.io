@@ -9,7 +9,7 @@ excerpt: >-
   who accepted a plea agreement two weeks ago, and will be forced to leave the
   United States soon.
 ---
-##  All Out for Rasmea’s April 25th plea hearing in Detroit!
+##  All Out for Rasmea’s April 25th Plea Hearing in Detroit!
 
 **WHEN:** Tuesday, April 25th, 2017, at 1:00 PM Eastern Time (rally at 1:00 PM, hearing starts at 2:30 PM)
 
