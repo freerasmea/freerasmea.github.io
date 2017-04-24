@@ -1,5 +1,14 @@
 ---
 published: true
+date: 'April 24, 2017'
+category: news
+excerpt: >-
+  On Tuesday, April 25th, Palestinian American icon Rasmea Odeh will be joined
+  in a Detroit courtroom by supporters from across the Midwest. There, Judge
+  Gershwin Drain will consider the plea agreement Rasmea signed in March, which
+  ended a three-and-a-half-year legal battle against immigration violation
+  charges brought against her; however, Assistant U.S. Attorney Jonathan Tukel
+  appears to want to sabotage the plea agreement. Stand with Rasmea tomorrow!
 ---
 ## Hundreds to join Rasmea at her plea hearing April 25th in Detroit, as U.S. Attorney’s office launches another political attack
 
