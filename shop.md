@@ -9,7 +9,7 @@ _All orders must be placed through Paypal._
 
 <br>**We Create Justice T-shirts, $25**
 
-<img src="/assets/img/justice_black.jpg" alt="justice" style="width: 300px;"/> <img src="/assets/img/justice_red.jpg" alt="justice" style="width: 300px;"/>
+<img src="/assets/img/justice_black.jpg" alt="justice" style="width: 275px;"/> <img src="/assets/img/justice_red.jpg" alt="justice" style="width: 275px;"/>
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
