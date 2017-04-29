@@ -67,4 +67,4 @@ Watch the full video [here](https://www.facebook.com/USPCN/videos/15342294932785
 Supporters will return to Detroit with Rasmea on August 17 for the formal sentencing.  Before that, a massive sendoff for her will be organized in Chicago.  Look for an announcement soon, as we hope people from all across the country will attend—to say farewell, and to honor Rasmea’s lifetime of work for Palestinian liberation.
 
 Rasmea Defense Committee, led by [USPCN](http://uspcn.org/) and [CSFR](http://www.stopfbi.net/)
-Friday, April 28, 2017
+<br>Friday, April 28, 2017
