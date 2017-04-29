@@ -60,14 +60,14 @@ An alumnus of National SJP, Leila Abdelrazaq, recalled a lesson shared by Rasmea
 Brant Rosen of Jewish Voice for Peace wrapped up the solidarity messages, praising Rasmea and addressing her directly: “The best teachers don’t teach by what they say or what they write, but by what they are. What I take away today is the image of you standing before the judge, who was demanding that you say to him and the world that you are guilty, and you refused, because you are not guilty. Your strength and your courage and your kindness and your compassion really teaches all of us how to be in this world.” 
 
 After a number of already emotional moments, Rasmea stepped forward to thank her supporters, speaking first in Arabic and then in English. “I believe my case is Palestine’s case,” she began, her voice cracking. “We have to continue our struggle to get our freedom and to have our Palestine [be free] and to go back. We have to go back to our villages. There is no choice. No choices. Like today in court, they gave me no other choice – [either] prison and then [get sent] back. Or [deportation] without jail. 
-
+ 
 “I think to continue my struggle, I chose this [even] if it’s hard. I don’t want to leave! This is my second country. But they want me to leave because they want to destroy us, to destroy our struggle. So we have to continue our struggle. Thank you for your support… your support is very important to me… to Palestine… to all countries struggling for freedom and justice.”
+
+![posters.jpg]({{site.baseurl}}/assets/img/posters.jpg)
 
 Watch the full video [here](https://www.facebook.com/USPCN/videos/1534229493278554/).  And continue to help us with our expenses at [justice4rasmea.org/donate](http://justice4rasmea.org/donate/), or by purchasing our **brand new** t-shirt [here](http://justice4rasmea.org/shop/).
 
 Supporters will return to Detroit with Rasmea on August 17 for the formal sentencing.  Before that, a massive sendoff for her will be organized in Chicago.  Look for an announcement soon, as we hope people from all across the country will attend—to say farewell, and to honor Rasmea’s lifetime of work for Palestinian liberation.
-
-![posters.jpg]({{site.baseurl}}/assets/img/posters.jpg)
 
 Rasmea Defense Committee, led by [USPCN](http://uspcn.org/) and [CSFR](http://www.stopfbi.net/)
 <br>Friday, April 28, 2017
