@@ -4,16 +4,14 @@ date: 'April 25, 2017'
 location: 'Detroit, MI'
 category: news
 excerpt: >-
-  On Tuesday, April 25, Palestinian American icon Rasmea Odeh was joined in
-  Detroit by close to 150 supporters from across the Midwest, at a federal court
-  plea hearing based on an agreement reached last month. Sentencing will be
-  formally imposed on August 17 in Detroit, but its terms were discussed and
-  approved by Judge Gershwin Drain at this hearing. Rasmea will be stripped of
-  her citizenship, and have to leave the United States permanently. She will not
-  be sentenced to any further prison time (Drain jailed Rasmea for five weeks in
-  November and December of 2014 after her conviction at trial), and she will
-  “voluntarily” depart the country without being detained by immigration
-  authorities.
+  Rasmea Odeh was joined in Detroit by close to 150 supporters from across the
+  Midwest, at a federal court plea hearing based on an agreement reached last
+  month. Sentencing will be formally imposed on August 17 in Detroit, but its
+  terms were discussed and approved by Judge Gershwin Drain at this hearing.
+  Rasmea will be stripped of her citizenship, and have to leave the United
+  States permanently. She will not be sentenced to any further prison time, and
+  she will “voluntarily” depart the country without being detained by
+  immigration authorities.
 ---
 ## 150 of Rasmea’s supporters join her at plea hearing
 
