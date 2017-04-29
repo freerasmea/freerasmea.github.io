@@ -17,7 +17,7 @@ excerpt: >-
 
 [_**VIDEO: Summary of the hearing by Tom Callahan**_](https://www.facebook.com/678264732186412/videos/1508754542470756/)
 
-![elaine-rumman.jpg]({{site.baseurl}}/assets/img/elaine-rumman.jpg){:style="float: left; margin-right: 10px; margin-top:3px;"}
+![elaine-rumman.jpg]({{site.baseurl}}/assets/img/elaine-rumman.jpg)
 
 On Tuesday, April 25, Palestinian American icon Rasmea Odeh was joined in Detroit by close to 150 supporters from across the Midwest, at a federal court plea hearing based on an [agreement](http://justice4rasmea.org/news/2017/03/23/rasmea-accepts-plea-deal/) reached last month.  Sentencing will be formally imposed on August 17 in Detroit, but its terms were discussed and approved by Judge Gershwin Drain at this hearing. Rasmea will be stripped of her citizenship, and have to leave the United States permanently. She will not be sentenced to any further prison time (Drain jailed Rasmea for five weeks in November and December of 2014 after her conviction at trial), and she will “voluntarily” depart the country without being detained by immigration authorities.  
 
