@@ -3,7 +3,7 @@ published: false
 ---
 ## 150 of Rasmea’s supporters join her at plea hearing
 
-[VIDEO: Summary of the hearing by Tom Callahan](https://www.facebook.com/678264732186412/videos/1508754542470756/)
+_[**VIDEO: Summary of the hearing by Tom Callahan**_](https://www.facebook.com/678264732186412/videos/1508754542470756/)
 
 On Tuesday, April 25, Palestinian American icon Rasmea Odeh was joined in Detroit by close to 150 supporters from across the Midwest, at a federal court plea hearing based on an [agreement](http://justice4rasmea.org/news/2017/03/23/rasmea-accepts-plea-deal/) reached last month.  Sentencing will be formally imposed on August 17 in Detroit, but its terms were discussed and approved by Judge Gershwin Drain at this hearing.  Rasmea will be stripped of her citizenship, and have to leave the United States permanently. She will not be sentenced to any further prison time (Drain jailed Rasmea for five weeks in November and December of 2014 after her conviction at trial), and she will “voluntarily” depart the country without being detained by immigration authorities.  
 
@@ -43,7 +43,7 @@ After a number of already emotional moments, Rasmea stepped forward to thank her
 
 “I think to continue my struggle, I chose this [even] if it’s hard. I don’t want to leave! This is my second country. But they want me to leave because they want to destroy us, to destroy our struggle.  So we have to continue our struggle.  Thank you for your support… your support is very important to me… to Palestine… to all countries struggling for freedom and justice.”
 
-Watch the full video [here](https://www.facebook.com/USPCN/videos/1534229493278554/).  And continue to help us with our expenses at [justice4rasmea.org/donate](http://justice4rasmea.org/donate/), or by purchasing our brand new t-shirt [here](http://justice4rasmea.org/shop/).
+Watch the full video [here](https://www.facebook.com/USPCN/videos/1534229493278554/).  And continue to help us with our expenses at [justice4rasmea.org/donate](http://justice4rasmea.org/donate/), or by purchasing our **brand new** t-shirt [here](http://justice4rasmea.org/shop/).
 
 Supporters will return to Detroit with Rasmea on August 17 for the formal sentencing.  Before that, a massive sendoff for her will be organized in Chicago.  Look for an announcement soon, as we hope people from all across the country will attend—to say farewell, and to honor Rasmea’s lifetime of work for Palestinian liberation.
 
