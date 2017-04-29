@@ -27,8 +27,6 @@ After a few other clarifications, Drain asked Rasmea if she agreed to the “fac
 
 It is important to note that this agreement did not include the last minute submissions by zionist Assistant U.S. Attorney Jonathan Tukel, who attempted to put on the record that Rasmea had committed “terrorist” acts and was a member of a “designated terrorist organization.” One final time, Tukel was denied the opportunity to use the case against Rasmea as a platform to grandstand for Israel.
 
-![posters.jpg]({{site.baseurl}}/assets/img/posters.jpg)
-
 Surprisingly, former U.S. Attorney Barbara McQuade—who brought the original indictment against Rasmea but resigned after being asked to by Trump’s new Attorney General Jeff Sessions—was sitting in the first row of the courtroom.  
 
 “For years, she had claimed that this was not a political case, and that Rasmea was not being targeted for being Palestinian,” said Nesreen Hasan of the Rasmea Defense Committee, “but McQuade was so invested in this plea that she showed up when it’s not even her job anymore!”  Rasmea’s supporters were so incensed that they chanted “Shame on you” and “You’re a phony” to McQuade while filing out of the courtroom. 
@@ -68,6 +66,8 @@ After a number of already emotional moments, Rasmea stepped forward to thank her
 Watch the full video [here](https://www.facebook.com/USPCN/videos/1534229493278554/).  And continue to help us with our expenses at [justice4rasmea.org/donate](http://justice4rasmea.org/donate/), or by purchasing our **brand new** t-shirt [here](http://justice4rasmea.org/shop/).
 
 Supporters will return to Detroit with Rasmea on August 17 for the formal sentencing.  Before that, a massive sendoff for her will be organized in Chicago.  Look for an announcement soon, as we hope people from all across the country will attend—to say farewell, and to honor Rasmea’s lifetime of work for Palestinian liberation.
+
+![posters.jpg]({{site.baseurl}}/assets/img/posters.jpg)
 
 Rasmea Defense Committee, led by [USPCN](http://uspcn.org/) and [CSFR](http://www.stopfbi.net/)
 <br>Friday, April 28, 2017
