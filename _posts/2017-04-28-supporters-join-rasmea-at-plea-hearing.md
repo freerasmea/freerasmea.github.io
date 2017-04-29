@@ -57,11 +57,11 @@ Brant Rosen of Jewish Voice for Peace wrapped up the solidarity messages, praisi
 
 After a number of already emotional moments, Rasmea stepped forward to thank her supporters, speaking first in Arabic and then in English. “I believe my case is Palestine’s case,” she began, her voice cracking. “We have to continue our struggle to get our freedom and to have our Palestine [be free] and to go back. We have to go back to our villages. There is no choice. No choices. Like today in court, they gave me no other choice – [either] prison and then [get sent] back. Or [deportation] without jail. 
 
-![posters.jpg]({{site.baseurl}}/assets/img/posters.jpg)
-
 “I think to continue my struggle, I chose this [even] if it’s hard. I don’t want to leave! This is my second country. But they want me to leave because they want to destroy us, to destroy our struggle. So we have to continue our struggle. Thank you for your support… your support is very important to me… to Palestine… to all countries struggling for freedom and justice.”
 
 Watch the full video [here](https://www.facebook.com/USPCN/videos/1534229493278554/).  And continue to help us with our expenses at [justice4rasmea.org/donate](http://justice4rasmea.org/donate/), or by purchasing our **brand new** t-shirt [here](http://justice4rasmea.org/shop/).
+
+![posters.jpg]({{site.baseurl}}/assets/img/posters.jpg)
 
 Supporters will return to Detroit with Rasmea on August 17 for the formal sentencing.  Before that, a massive sendoff for her will be organized in Chicago.  Look for an announcement soon, as we hope people from all across the country will attend—to say farewell, and to honor Rasmea’s lifetime of work for Palestinian liberation.
 
