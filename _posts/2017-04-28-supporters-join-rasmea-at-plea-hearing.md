@@ -20,7 +20,7 @@ Surprisingly, former U.S. Attorney Barbara McQuade—who brought the original in
 
 Everyone then rallied for a program on the steps outside the courthouse. Deutsch spoke first, explaining that because the government was prosecuting this simple immigration case as one related to terrorism, it was doubtful that Rasmea could receive a fair trial. 
 
-![with-yop.jpg]({{site.baseurl}}/assets/img/with-yop.jpg){:style="float: left; margin-right: 10px; margin-top:3px;"}
+![with-yop.jpg]({{site.baseurl}}/assets/img/with-yop.jpg)
 
 Hatem Abudayyeh, of the U.S. Palestinian Community Network (USPCN), said, “We’re going to lose Rasmea, she’s going to leave [us]. We know that. But we also know that for three and a half years, we put Israel on trial in the United States. We put their treatment of Palestinians in 1948 Palestine, in Gaza, in the West Bank, in Jerusalem, in all the refugee camps on trial. We put their treatment of our political prisoners on trial. We put their military courts on trial. We put their torture on trial. We did incredibly valuable and valiant work.
 
