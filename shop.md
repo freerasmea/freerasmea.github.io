@@ -7,19 +7,15 @@ published: true
 ## Purchase from this shop as another way to donate to Rasmea's defense! 
 _All orders must be placed through Paypal._
 
-<br>**Sheroes T-shirts, $25**
-<img src="/assets/img/Sheroes_White.jpg" alt="Sheroes" style="width: 550px;"/>
-<img src="/assets/img/Sheroes_Red.jpg" alt="Sheroes" style="width: 300px;"/>
-_<br> image designed by Leila Abdelrazeq_
+<br>**We Create Justice T-shirts, $25**
+<img src="/assets/img/justice_black.jpg" alt="Sheroes" style="width: 400px;"/>
+<img src="/assets/img/justice_Red.jpg" alt="Sheroes" style="width: 400px;"/>
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="7M4MVYPVL35KQ">
-<tr><td><input type="hidden" name="on0" value="Cut">Cut</td></tr><tr><td><select name="os0">
-	<option value="Womens">Womens </option>
-	<option value="Mens">Mens </option> </select></td></tr>
 <tr><td><input type="hidden" name="on1" value="Color">Color</td></tr><tr><td><select name="os1">
-	<option value="White">White </option>
+	<option value="Black">Black </option>
 	<option value="Red">Red </option></select></td></tr>
 <tr><td><input type="hidden" name="on2" value="Size">Size</td></tr><tr><td><select name="os2">
 	<option value="Small">Small </option>
