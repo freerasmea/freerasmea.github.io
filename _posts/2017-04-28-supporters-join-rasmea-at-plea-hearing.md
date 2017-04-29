@@ -15,7 +15,7 @@ excerpt: >-
 ---
 ## 150 of Rasmea’s supporters join her at plea hearing
 
-[_**VIDEO: Summary of the hearing by Tom Callahan**_](https://www.facebook.com/678264732186412/videos/1508754542470756/)
+[[_**VIDEO: Summary of the hearing by Tom Callahan**_](https://www.facebook.com/678264732186412/videos/1508754542470756/ target="_blank")
 
 ![elaine-rumman.jpg]({{site.baseurl}}/assets/img/elaine-rumman.jpg)
 
