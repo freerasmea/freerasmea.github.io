@@ -15,7 +15,7 @@ Rasmea Defense Committee - May 22nd, 2017
 
 ## Rasmea's address at the Oscar Lopez homecoming in Chicago
 
-​
+![rasmea-oscar.jpg]({{site.baseurl}}/assets/img/rasmea-oscar.jpg)
 
 In my organizing career, I have spoken in front of the Palestine National Council, the Palestinian legislative body in exile, and in front of a United Nations special committee in Geneva, but **I am as proud to be in front of this audience tonight as I have ever been in my entire life.**
 
@@ -23,8 +23,7 @@ Oscar, I was released after 10 years as a political prisoner in Palestine two ye
 
 The Puerto Ricans in this city have always been close to our community. We have faced similar grand jury repression and attacks on our activism. We’ve marched together in dozens of protests for immigrant rights, Palestinian independence, Puerto Rican independence, and other social justice issues. We organized together at UIC in the radical student days, and no other community mobilized like yours when the government came after the Palestine support movement and the Anti-War 23 in Chicago in 2010.
 
-
-​
+![rasmea-oscar-2.jpg]({{site.baseurl}}/assets/img/rasmea-oscar-2.jpg)
 
 **And now we get to celebrate together**—with the National Boricua Human Rights Network and the Puerto Rican Cultural Center and all of you—**the freedom of your leader Oscar Lopez.** But he is not just your leader. He is our leader too.
 
