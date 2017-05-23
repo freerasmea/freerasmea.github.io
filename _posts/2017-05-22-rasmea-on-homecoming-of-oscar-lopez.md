@@ -13,7 +13,7 @@ excerpt: >-
 ---
 ## On Rasmea's 70th birthday, read her speech from Oscar Lopez' homecoming
 
-## And help with legal fees
+### And help with legal fees
 
 Today, May 22nd, is Rasmea's 70th birthday, and she's been pretty busy the past few weeks. The [Hana Center](https://www.hanacenter.org/) honored her on May 5th, she spoke at Northwestern University on May 15th, and she gave a powerful welcoming statement at the emotional return of former Puerto Rican political prisoner Oscar Lopez to Paseo Boricua in Chicago on May 18th.  (Watch Rasmea's speech at the 1 hour, 45 minute mark [here](https://www.facebook.com/chi.nbhrn/videos/10154865189209055/), and read the full text below.)
 
@@ -23,7 +23,7 @@ Rasmea Defense Committee - May 22nd, 2017
 
 ***************************
 
-## Rasmea's address at the Oscar Lopez homecoming in Chicago
+### Rasmea's address at the Oscar Lopez homecoming in Chicago
 
 ![rasmea-oscar.jpg]({{site.baseurl}}/assets/img/rasmea-oscar.jpg)
 
