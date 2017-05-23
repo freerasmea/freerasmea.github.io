@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## On Rasmea's 70th birthday, read her speech from Oscar Lopez' homecoming
 
