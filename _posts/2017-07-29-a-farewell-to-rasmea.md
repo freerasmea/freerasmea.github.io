@@ -10,5 +10,7 @@ excerpt: >-
 ## A farewell to Rasmea Odeh, with Angela Davis & more! 
 ### Sat, Aug 12 in Chicago!
 
+Buy tickets [here](http://www.brownpapertickets.com/event/3034273).
+
 ![farewell.jpg]({{site.baseurl}}/assets/img/farewell.jpg)
 
