@@ -20,4 +20,4 @@ Join the Rasmea Defense Committee for a social media campaign Wednesday, August 
 - In the caption, either describe Rasmea in your own words to your friends, or write your favorite memory you have of her.
 - At the end of your caption, make sure to include the link to buy tickets for her farewell event: [bit.ly/Rasmea1](http://www.brownpapertickets.com/event/3034273)
 
-Rasmea has dedicated her life to the cause of a #FreePalestine and to Arab communities across the world, including the past 23 years in Chicago. Even though she is leaving us, we will continue to #HonorRasmea!
+Rasmea has dedicated her life to the cause of a #FreePalestine and to Arab communities across the world, including the past 23 years in Chicago. Even though she is leaving us, we will continue to **#HonorRasmea**!
