@@ -3,13 +3,17 @@ layout: page
 title: Take Action
 published: true
 ---
+
+### [Twitter Storm](http://justice4rasmea.org/news/2017-07-31-twitter-storm/)
+Join the Rasmea Defense Committee for a social media campaign Wednesday, August 2nd, 2017, in support of Rasmea - and prepare for the #HonorRasmea farewell event on August 12th. Participate on Twitter and Facebook on Wednesday, August 2nd, 11am-2pm CST, using sample tweets, hashtags, images, memes, and other resources that you can find here: bit.ly/HonorRasmea. 
+
+_____
+
 ### [Twitter Power Hour](http://justice4rasmea.org/news/2016/11/22/twitter-power-hour/)
 In anticipation of her Daubert hearing on November 29th, join the Rasmea Defense Committee for twitter power hours Wednesday, November 23rd, from 12 Noon to 2 PM CST.
 
 ### [All Out for Detroit, November 29th](http://justice4rasmea.org/news/2016/11/04/all-out-november-29-in-detroit/)
 Join us for an important hearing in downtown Detroit, Michigan, on November 29th, 2016, at 8 AM Eastern time! Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf-k4-2GM_TKeXQPWy6NjoKyRblZReGY12B2XggGJPLfOaeLQ/viewform?c=0&w=1).
-
-_____
 
 <img src="{{site.baseurl}}/assets/img/free-rasmea-art.jpg">
 
