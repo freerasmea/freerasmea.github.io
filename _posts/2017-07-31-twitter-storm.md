@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 'August 12, 2017'
 category: news
 excerpt: >-
@@ -22,4 +22,3 @@ Join the Rasmea Defense Committee for a social media campaign Wednesday, August 
 - At the end of your caption, make sure to include the link to buy tickets for her farewell event: bit.ly/Rasmea1
 
 Rasmea has dedicated her life to the cause of a #FreePalestine and to Arab communities across the world, including the past 23 years in Chicago. Even though she is leaving us, we will continue to #HonorRasmea!
-
