@@ -5,7 +5,7 @@ published: true
 ---
 
 ### [Twitter Storm](http://justice4rasmea.org/news/2017-07-31-twitter-storm/)
-Join the Rasmea Defense Committee for a social media campaign Wednesday, August 2nd, 2017, in support of Rasmea - and prepare for the #HonorRasmea farewell event on August 12th. Participate on Twitter and Facebook on Wednesday, August 2nd, 11am-2pm CST, using sample tweets, hashtags, images, memes, and other resources that you can find here: bit.ly/HonorRasmea. 
+Join the Rasmea Defense Committee for a social media campaign Wednesday, August 2nd, 2017, in support of Rasmea - and prepare for the #HonorRasmea farewell event on August 12th. 
 
 _____
 
