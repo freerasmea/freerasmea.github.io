@@ -9,7 +9,7 @@ Join the Rasmea Defense Committee for a social media campaign Wednesday, August 
 
 - In addition, show the world RIGHT NOW how much Rasmea is loved! Help us build for Rasmea’s farewell event by flooding social media with your memories of her!  To #HonorRasmea, change your social media profile picture on all your platforms to this one here:
 
-!(farewell.jpg)[{{base.url/assets/img/farewell.jpg}}]
+![farewell.jpg]({{site.baseurl}}/assets/img/farewell.jpg)
 
 - In the caption, either describe Rasmea in your own words to your friends, or write your favorite memory you have of her.
 
