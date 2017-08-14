@@ -1,5 +1,12 @@
 ---
 published: false
+date: 'August 17, 2017'
+location: Detroit
+category: news
+excerpt: >-
+  We are urging everyone to join us in Detroit, August 17, to show our love and
+  support for Rasmea at her sentencing in federal court. The will be her last
+  court appearance and Rasmea is planning to make a statement.
 ---
 ## Stand with Rasmea at her sentencing August 17
 
