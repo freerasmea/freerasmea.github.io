@@ -4,10 +4,12 @@ title: Take Action
 published: true
 ---
 
-### [Twitter Storm](http://justice4rasmea.org/news/2017-07-31-twitter-storm/)
-Join the Rasmea Defense Committee for a social media campaign Wednesday, August 2nd, 2017, in support of Rasmea - and prepare for the #HonorRasmea farewell event on August 12th. 
+### [Stand with Rasmea at Her Sentencing](http://justice4rasmea.org/news/2017/08/17/stand-with-rasmea-at-her-sentencing/)
+Join us in Detroit, August 17, to show our love and support for Rasmea at her sentencing in federal court. The will be her last court appearance and Rasmea is planning to make a statement.
 
 _____
+### [Twitter Storm](http://justice4rasmea.org/news/2017-07-31-twitter-storm/)
+Join the Rasmea Defense Committee for a social media campaign Wednesday, August 2nd, 2017, in support of Rasmea - and prepare for the #HonorRasmea farewell event on August 12th. 
 
 ### [Twitter Power Hour](http://justice4rasmea.org/news/2016/11/22/twitter-power-hour/)
 In anticipation of her Daubert hearing on November 29th, join the Rasmea Defense Committee for twitter power hours Wednesday, November 23rd, from 12 Noon to 2 PM CST.
