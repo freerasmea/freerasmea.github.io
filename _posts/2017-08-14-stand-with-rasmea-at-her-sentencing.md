@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 'August 17, 2017'
 location: Detroit
 category: news
