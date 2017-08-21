@@ -15,7 +15,7 @@ On Thursday, August 17th, Judge Gershwin Drain again violated the rights of Pale
 
 Close to 150 supporters joined Rasmea in Detroit for what was supposed to be a routine sentencing hearing. The defense, prosecution, and judge had already agreed to [a plea agreement](http://justice4rasmea.org/news/2017/03/23/rasmea-accepts-plea-deal/) finalized in April, and Rasmea was looking forward to finally being able to tell her entire story, but Drain interrupted her three separate times, the  last with a threat to jail her for contempt of court.
 
-![final-hearing-protest.jpg]({{site.baseurl}}/assets/img/final-hearing-protest.jpg){:style="float: right; margin-left: 10px; margin-bottom:2px; width:400px;"} Prior to Rasmea's statement, her lead attorney, Michael Deutsch, chastised the prosecution for bringing the indictment in the first place. 
+![final-hearing-protest.jpg]({{site.baseurl}}/assets/img/final-hearing-protest.jpg){:style="float: right; margin-left: 10px; margin-bottom:2px; width:410px;"} Prior to Rasmea's statement, her lead attorney, Michael Deutsch, chastised the prosecution for bringing the indictment in the first place. 
 
 Although the Rasmea Defense Committee has insisted for almost four years that the immigration case brought against her in October of 2013 was nothing but a pretext to attack the Palestine support movement in the U.S., Drain tried to protect Israel and the U.S. government from Rasmea's brutal description of their crimes against her, her family, and the Palestinian people as a whole.
 
