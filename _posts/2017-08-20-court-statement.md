@@ -37,13 +37,13 @@ And Joe Iosbaker, a leader of the Committee to Stop FBI Repression (CSFR), concl
 
 A few days before the hearing, a standing room only crowd of over 1,200 supporters attended an event to #HonorRasmea on Saturday, August 12th.
 
-![honor-rasmea.jpg]({{site.baseurl}}/assets/img/honor-rasmea.jpg){:style="float: right; margin-left: 10px; margin-top:2px; width:415px;"} The powerful event, hosted by the defense committee, USPCN, CSFR, and the Chicago Coalition to Protect People's Rights, featured a keynote address by Dr. Angela Davis, the scholar and Black Liberation Movement legend who cut short her vacation to stand in support of Rasmea.
+![honor-rasmea.jpg]({{site.baseurl}}/assets/img/honor-rasmea.jpg){:style="float: right; margin-left: 10px; margin-top:3px; width:415px;"} The powerful event, hosted by the defense committee, USPCN, CSFR, and the Chicago Coalition to Protect People's Rights, featured a keynote address by Dr. Angela Davis, the scholar and Black Liberation Movement legend who cut short her vacation to stand in support of Rasmea.
 
 In her speech, Davis commended Rasmea for linking justice in her own case to justice for political prisoners all across the world, and added, "We follow the example of Rasmea Odeh when we stand up and fight back!"
 
 The hosts gave awards to Rasmea's incredible legal defense team, as well as to the Chicago Alliance Against Racist and Political Repression, which mobilized members for every hearing and the trial in Detroit. Frank Chapman accepted on behalf of the Alliance, and explained the importance of unity between the Black and Palestine liberation movements.
 
-![rebel-diazjpg]({{site.baseurl}}/assets/img/rebel-diaz.jpg){:style="float: left; margin-right: 10px; margin-top:2px; width:375px;"} A statement from CSFR leader Meredith Aby, and electrifying performances from Rebel Diaz, KoStar, and Shadia Mansour, rounded out the evening, which was described by long-time solidarity activist Reverend Don Wagner as a "brilliant, inspirational, and utterly fantastic sendoff for dear Rasmea...it was one of the finest evenings the Palestine support community has witnessed in my 40 years of involvement."
+![rebel-diazjpg]({{site.baseurl}}/assets/img/rebel-diaz.jpg){:style="float: left; margin-right: 10px; margin-top:3px; width:375px;"} A statement from CSFR leader Meredith Aby, and electrifying performances from Rebel Diaz, KoStar, and Shadia Mansour, rounded out the evening, which was described by long-time solidarity activist Reverend Don Wagner as a "brilliant, inspirational, and utterly fantastic sendoff for dear Rasmea...it was one of the finest evenings the Palestine support community has witnessed in my 40 years of involvement."
 
 **Media reports on the hearing and the #HonorRasmea event**
 
