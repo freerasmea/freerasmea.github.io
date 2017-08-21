@@ -3,6 +3,17 @@ title: Press Coverage
 permalink: /press/
 published: true
 ---
+## Final Hearing Coverage
+
+[Rasmea Odeh unbowed as judge passes sentence - _Electronic Intifada_](https://electronicintifada.net/blogs/ali-abunimah/rasmea-odeh-unbowed-judge-passes-sentence)
+
+['Palestine was on trial': Rasmea Odeh defiant in final court appearance - _Middle East Eye, Ali Harb, Aug. 17, 2017_](http://www.middleeasteye.net/news/palestine-was-trial-rasmea-odeh-defiant-final-court-appearance-335680485)
+
+[Rasmea Odeh at Detroit sentencing: 'We will continue to struggle for our cause! We will liberate our Palestine - _Fight Back! News_](http://www.fightbacknews.org/2017/8/17/rasmea-odeh-detroit-sentencing-we-will-continue-struggle-our-cause-we-will-liberate-our-pa)
+
+[Farewell rally for Rasmea Odeh, Palestinian icon - _Fight Back! News_](https://www.fightbacknews.org/2017/8/16/farewell-rally-rasmea-odeh-palestinian-icon)
+
+
 ## Post-Appeal Coverage
 
 - [Rasmea Odeh Defense Sees Hope in Judge’s Unexpected Move, _The Electronic Intifida, Charlotte Silver, Nov. 30, 2016_](https://electronicintifada.net/blogs/charlotte-silver/rasmea-odeh-defense-sees-hope-judges-unexpected-move)
