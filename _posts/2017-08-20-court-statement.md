@@ -43,7 +43,7 @@ In her speech, Davis commended Rasmea for linking justice in her own case to jus
 
 The hosts gave awards to Rasmea's incredible legal defense team, as well as to the Chicago Alliance Against Racist and Political Repression, which mobilized members for every hearing and the trial in Detroit. Frank Chapman accepted on behalf of the Alliance, and explained the importance of unity between the Black and Palestine liberation movements.
 
-![rebel-diazjpg]({{site.baseurl}}/assets/img/rebel-diaz.jpg){:style="float: left; margin-right: 10px; margin-bottom:2px; width:375px;"} A statement from CSFR leader Meredith Aby, and electrifying performances from Rebel Diaz, KoStar, and Shadia Mansour, rounded out the evening, which was described by long-time solidarity activist Reverend Don Wagner as a "brilliant, inspirational, and utterly fantastic sendoff for dear Rasmea...it was one of the finest evenings the Palestine support community has witnessed in my 40 years of involvement."
+![rebel-diazjpg]({{site.baseurl}}/assets/img/rebel-diaz.jpg){:style="float: left; margin-right: 10px; margin-bottom:2px; width:360px;"} A statement from CSFR leader Meredith Aby, and electrifying performances from Rebel Diaz, KoStar, and Shadia Mansour, rounded out the evening, which was described by long-time solidarity activist Reverend Don Wagner as a "brilliant, inspirational, and utterly fantastic sendoff for dear Rasmea...it was one of the finest evenings the Palestine support community has witnessed in my 40 years of involvement."
 
 **Media reports on the hearing and the #HonorRasmea event**
 
