@@ -1,5 +1,11 @@
 ---
 published: false
+date: 'August 18, 2017'
+category: news
+excerpt: >-
+  On Thursday, August 17th, Judge Gershwin Drain again violated the rights of
+  Rasmea Odeh, this time by not allowing her to read her entire statement to the
+  court. Read her statement here.
 ---
 ## This is the court statement Judge Drain didn't want you to hear
 
