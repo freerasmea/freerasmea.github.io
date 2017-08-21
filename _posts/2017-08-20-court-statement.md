@@ -25,7 +25,7 @@ Drain ended the proceedings by restating the agreed-upon sentence, which include
 
 A number of [solidarity messages](https://www.facebook.com/USPCN/videos/1655602134474622/) followed Rasmea's address to the media, and the supporters were loud and passionate in their defense of her and of Palestine.
 
-![assata-to-rasmea.jpg]({{site.baseurl}}/assets/img/assata-to-rasmea.jpg){:style="float: left; margin-right: 10px; margin-top:3px;"} Kristian Bailey of Black4Palestine said, "We all know it was a political case. Palestine was on trial. But we...put Israel on trial. Rasmea put Israel on trial."
+![assata-to-rasmea.jpg]({{site.baseurl}}/assets/img/assata-to-rasmea.jpg){:style="float: left; margin-right: 10px; margin-top:3px; width:200px;"} Kristian Bailey of Black4Palestine said, "We all know it was a political case. Palestine was on trial. But we...put Israel on trial. Rasmea put Israel on trial."
 
 And Joe Iosbaker, a leader of the Committee to Stop FBI Repression (CSFR), concluded by asking, "Is Rasmea the bravest person you've ever seen in your life?...If you ever doubt that you can be brave, we have our icon, we have Rasmea Odeh [as an example]!"
 
