@@ -37,7 +37,7 @@ And Joe Iosbaker, a leader of the Committee to Stop FBI Repression (CSFR), concl
 
 A few days before the hearing, a standing room only crowd of over 1,200 supporters attended an event to #HonorRasmea on Saturday, August 12th.
 
-![honor-rasmea.jpg]({{site.baseurl}}/assets/img/honor-rasmea.jpg){:style="float: right; margin-left: 10px; margin-top:3px; width:400px;"} The powerful event, hosted by the defense committee, USPCN, CSFR, and the Chicago Coalition to Protect People's Rights, featured a keynote address by Dr. Angela Davis, the scholar and Black Liberation Movement legend who cut short her vacation to stand in support of Rasmea.
+![honor-rasmea.jpg]({{site.baseurl}}/assets/img/honor-rasmea.jpg){:style="float: right; margin-left: 10px; margin-top:3px; width:415px;"} The powerful event, hosted by the defense committee, USPCN, CSFR, and the Chicago Coalition to Protect People's Rights, featured a keynote address by Dr. Angela Davis, the scholar and Black Liberation Movement legend who cut short her vacation to stand in support of Rasmea.
 
 In her speech, Davis commended Rasmea for linking justice in her own case to justice for political prisoners all across the world, and added, "We follow the example of Rasmea Odeh when we stand up and fight back!"
 
