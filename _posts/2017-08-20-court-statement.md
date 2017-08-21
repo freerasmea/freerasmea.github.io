@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 'August 18, 2017'
 category: news
 excerpt: >-
@@ -9,12 +9,13 @@ excerpt: >-
 ---
 ## This is the court statement Judge Drain didn't want you to hear
 
+![rasmea-final-hearing.jpg]({{site.baseurl}}/assets/img/rasmea-final-hearing.jpg)
 
 On Thursday, August 17th, Judge Gershwin Drain again violated the rights of Palestinian-American icon Rasmea Odeh, this time by not allowing her to read her entire statement to the court.
 
 Close to 150 supporters joined Rasmea in Detroit for what was supposed to be a routine sentencing hearing. The defense, prosecution, and judge had already agreed to [a plea agreement](http://justice4rasmea.org/news/2017/03/23/rasmea-accepts-plea-deal/) finalized in April, and Rasmea was looking forward to finally being able to tell her entire story, but Drain interrupted her three separate times, the  last with a threat to jail her for contempt of court.
 
-Prior to Rasmea's statement, her lead attorney, Michael Deutsch, chastised the prosecution for bringing the indictment in the first place. 
+![final-hearing-protest.jpg]({{site.baseurl}}/assets/img/final-hearing-protest.jpg) Prior to Rasmea's statement, her lead attorney, Michael Deutsch, chastised the prosecution for bringing the indictment in the first place. 
 
 Although the Rasmea Defense Committee has insisted for almost four years that the immigration case brought against her in October of 2013 was nothing but a pretext to attack the Palestine support movement in the U.S., Drain tried to protect Israel and the U.S. government from Rasmea's brutal description of their crimes against her, her family, and the Palestinian people as a whole.
 
@@ -24,7 +25,7 @@ Drain ended the proceedings by restating the agreed-upon sentence, which include
 
 A number of [solidarity messages](https://www.facebook.com/USPCN/videos/1655602134474622/) followed Rasmea's address to the media, and the supporters were loud and passionate in their defense of her and of Palestine.
 
-Kristian Bailey of Black4Palestine said, "We all know it was a political case. Palestine was on trial. But we...put Israel on trial. Rasmea put Israel on trial."
+![assata-to-rasmea.jpg]({{site.baseurl}}/assets/img/assata-to-rasmea.jpg) Kristian Bailey of Black4Palestine said, "We all know it was a political case. Palestine was on trial. But we...put Israel on trial. Rasmea put Israel on trial."
 
 And Joe Iosbaker, a leader of the Committee to Stop FBI Repression (CSFR), concluded by asking, "Is Rasmea the bravest person you've ever seen in your life?...If you ever doubt that you can be brave, we have our icon, we have Rasmea Odeh [as an example]!"
 
@@ -36,7 +37,7 @@ And Joe Iosbaker, a leader of the Committee to Stop FBI Repression (CSFR), concl
 
 A few days before the hearing, a standing room only crowd of over 1,200 supporters attended an event to #HonorRasmea on Saturday, August 12th.
 
-The powerful event, hosted by the defense committee, USPCN, CSFR, and the Chicago Coalition to Protect People's Rights, featured a keynote address by Dr. Angela Davis, the scholar and Black Liberation Movement legend who cut short her vacation to stand in support of Rasmea.
+![honor-rasmea.jpg]({{site.baseurl}}/assets/img/honor-rasmea.jpg) The powerful event, hosted by the defense committee, USPCN, CSFR, and the Chicago Coalition to Protect People's Rights, featured a keynote address by Dr. Angela Davis, the scholar and Black Liberation Movement legend who cut short her vacation to stand in support of Rasmea.
 
 In her speech, Davis commended Rasmea for linking justice in her own case to justice for political prisoners all across the world, and added, "We follow the example of Rasmea Odeh when we stand up and fight back!"
 
