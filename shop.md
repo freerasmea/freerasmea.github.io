@@ -9,7 +9,7 @@ _All orders must be placed through Paypal._
 
 <br>**Honor Rasmea T-shirts, $25**
 
-<img src="/assets/img/honor-rasmea-front.jpeg" alt="honor" style="width: 500px;"/> <img src="/assets/img/honor-rasmea-back.jpeg" alt="honor1" style="width: 500px;"/>
+<img src="/assets/img/honor-rasmea-tee-front.jpeg" alt="honor" style="width: 500px;"/> <img src="/assets/img/honor-rasmea-tee-back.jpeg" alt="honor1" style="width: 500px;"/>
 
 
 
