@@ -20,7 +20,6 @@ _All orders must be placed through Paypal._
 	<option value="Black">Black </option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Size">Size</td></tr><tr><td><select name="os1">
-	<option value="Small">Small </option>
 	<option value="Medium">Medium </option>
 	<option value="Large">Large </option>
 	<option value="X-Large">X-Large </option>
