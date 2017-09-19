@@ -9,7 +9,7 @@ excerpt: >-
 ---
 ##Send-off for Rasmea at O'Hare Airport Tuesday, September 19th
 
-![rasmea-final-hearing.jpg]({{site.baseurl}}/assets/img/rasmea-final-hearing.jpg)
+![rasmea-with-keffiya-bw.png]({{site.baseurl}}/assets/img/rasmea-with-keffiya-bw.png)
 
 **[And watch the entirety of the #HonorRasmea event from August 12th](https://www.youtube.com/watch?v=XaYbf3MDV2o)**
 
