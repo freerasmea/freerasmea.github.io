@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 location: Chicago
 date: 'September 19, 2017'
 category: events
@@ -8,6 +8,8 @@ excerpt: >-
   September 19th, 2017. Join us to say goodbye.
 ---
 ##Send-off for Rasmea at O'Hare Airport Tuesday, September 19th
+
+![rasmea-final-hearing.jpg]({{site.baseurl}}/assets/img/rasmea-final-hearing.jpg)
 
 **[And watch the entirety of the #HonorRasmea event from August 12th](https://www.youtube.com/watch?v=XaYbf3MDV2o)**
 
