@@ -7,7 +7,7 @@ excerpt: >-
   Our dear Rasmea Odeh will be leaving the U.S. for Jordan tomorrow, Tuesday,
   September 19th, 2017. Join us to say goodbye.
 ---
-##Send-off for Rasmea at O'Hare Airport Tuesday, September 19th
+## Send-off for Rasmea at O'Hare Airport Tuesday, September 19th
 
 ![rasmea-with-keffiya-bw.png]({{site.baseurl}}/assets/img/rasmea-with-keffiya-bw.png)
 
