@@ -9,7 +9,6 @@ USPCN can't help but miss Rasmea Odeh this holiday season, especially as her cit
 
 ![detroit-jerusalem.jpg]({{site.baseurl}}/assets/img/detroit-jerusalem.jpg)She would have been here with us the day after Trump's announcement, when we helped organize [a huge protest in Chicago](https://www.facebook.com/USPCN/videos/1763394860362015/) and another one in Detroit; and would have helped us host Addameer's Sahar Francis last month, when Sahar visited USPCN in Detroit and Chicago, where we facilitated meetings for her with Senator Dick Durbin's staff, as well as with community leaders at the National Boricua Human Rights Network, National Lawyers Guild, Chicago Alliance Against Racist and Political Repression, American Friends Service Committee, among others.
 
-![rasmea4.jpg]({{site.baseurl}}/assets/img/arasmea4.jpg)
 In addition, she would have demanded to lead the charge to [Free Ahed Tamimi](https://nycsjp.wordpress.com/2017/12/20/demand-an-end-to-child-detention-free-ahed-tamimi-and-all-palestinian-political-prisoners/), and other members of Ahed's family, who are also seemingly being rounded up by the Israelis on a daily basis!
 
 USPCN **led Rasmea's Defense Committee during the past four years of her struggle against U.S. government repression,** was the main U.S.-based supporter of the [#DignityStrike](http://uspcn.org/2017/05/28/victory-to-the-palestinian-prisoners-dignitystrike/) earlier this year, and fights every day in the streets to uphold Palestinian rights and confront racist, zionist Israel and its U.S. patron.
@@ -25,19 +24,21 @@ USPCN National Coordinating Committee
 *********************************
 
 ### A Letter of Greetings from Amman
-_Dear Friends, Family, and Supporters,
+
+Dear Friends, Family, and Supporters,
 
 It has taken me longer than I anticipated to send you this letter of appreciation. When I arrived in Amman, the capital of Jordan, I was angry and full of pain about being forced to leave my adopted home in Chicago and all of you. It must have felt the same as my family felt during the 1948 Nakba (Arabic for “Catastrophe”), when we were forcibly evicted from our homes and properties in Palestine, along with 750,000 other Palestinians.
 
+![rasmea4.jpg]({{site.baseurl}}/assets/img/rasmea4.jpg)
 Today I would like to express my gratitude to every one of you: attorneys, political defense committee, Arab Women’s Committee (AWC) leaders, family, friends, supporters, and community members who I love and respect so much. Thank you all, not only because I spent the best years of my life with you, especially the Arab immigrant and refugee women I formed the AWC with in Chicago, who embraced and helped me forget a lot of my personal pain; but also for your dedication and readiness to offer unlimited support, without hesitation, for Palestinian rights.
 
 During my own fight for freedom, you helped me stay strong and steadfast, encouraging me to continue my struggle for justice. At this sensitive time, we need to continue organizing and unifying our communities, so that we are able to **resist the racism, exploitation, and injustice we face in the U.S., Palestine, and across the world!**
 
-In Amman, I have found that everything has changed since my long absence from the city. The population has swelled and the city expanded, despite its limited space! It cannot comfortably accommodate more than one million people, but over three times that number crowd the city, along with a million cars, causing massive congestion and traffic. In addition, the living requirements are not commensurate with income; rents are high, healthcare and food are expensive, and incomes are very low.
+In Amman, I have found that everything has changed since my long absence from the city. The population has swelled and the city expanded, despite its limited space! It cannot comfortably accommodate more than one million people, but over three times that number crowd the city, along with a million cars, causing massive congestion and traffic. In addition, the living requirements are not commensurate with income; rents are high, healthcare and food are expensive, and incomes are very low.!
 
 Since my arrival, I have recognized much instability in the Arab World; the people are living in a gloomy daze, in constant anxiety, moving mechanically and absent-mindedly. All they can focus on is the news! One day, I was riding in a taxi cab in bad traffic, when the driver suddenly lit a cigarette and pulled out a newspaper to peruse its pages as he was driving!
 
-**Against their will, the Arab people are facing a campaign of vicious and unprecedented wars.** A broad political, economic, and security campaign has been launched by the United States, Israel, and the rasmea2reactionary forces in the region to achieve the interests of U.S. imperialism and racist, Israeli-zionist occupation in the Arab world. This campaign aims to eliminate all resistance that supports Palestinian national rights.
+**Against their will, the Arab people are facing a campaign of vicious and unprecedented wars.** A broad political, economic, and security campaign has been launched by the United States, Israel, and the rasmea2reactionary forces in the region to achieve the interests of U.S. imperialism and racist, Israeli-zionist occupation in the Arab world. This campaign aims to eliminate all resistance that supports Palestinian national rights.[rasmea-dessert.jpg]({{site.baseurl}}/assets/img/rasmea-dessert.jpg)
 
 It’s not a coincidence that, as the racist Trump and his administration are working hard to impose normalization with Israel on Arab countries, Palestinians are commemorating 100 years since the British imperialist’s Balfour Declaration to colonize Palestine, and 70 years since the partition resolution—the latter **which gave 56% of historical Palestine to the new Israeli “state,”** even though the European colonizers and Palestinian Jews who embraced zionism only owned 6% of the land at the time.
 
@@ -63,7 +64,7 @@ We cannot rest because we Palestinians are fighting against the final most bruta
 
 And your fight for your own justice and liberation is a fight for our justice and liberation as well. We will not lose hope in achieving our goals of justice, peace, and real liberation while we have friends and supporters like you in the U.S. and across the globe. The demonstrations of thousands and thousands all over the world against Trump's Jerusalem Declaration, including protests every single day here in Jordan, plus the UN vote that crushed the U.S. and Israel, assure us that the people of t**he world are with us, and resistance is the only way.** And that's how Trump will lose, and how all the racist systems, including Israel’s, will lose as well!
 
-Dear friends,
+_Dear friends,
 
 After almost three months since I separated from you, I continue to reach out to some of my old friends and family in Jordan, in addition to forging new relationships. My life is moving forward step by step.
 
