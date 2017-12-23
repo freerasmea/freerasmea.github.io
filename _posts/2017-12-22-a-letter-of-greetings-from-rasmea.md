@@ -6,7 +6,6 @@ category: news
 excerpt: 'Rasmea sends a heartfelt letter from Amman, Jordan.'
 ---
 ![rasmea-jvp.jpg]({{site.baseurl}}/assets/img/rasmea-jvp.jpg)
-
 ## A Letter of Greetings from Rasmea in Amman
 
 USPCN can't help but miss Rasmea Odeh this holiday season, especially as her city of Jerusalem (she was born in the tiny village of Lifta, which is directly adjacent to the Palestinian capital), as well as the issue of Palestinian political prisoners, is all over the news.
