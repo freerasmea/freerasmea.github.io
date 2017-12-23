@@ -9,6 +9,7 @@ USPCN can't help but miss Rasmea Odeh this holiday season, especially as her cit
 
 ![detroit-jerusalem.jpg]({{site.baseurl}}/assets/img/detroit-jerusalem.jpg)She would have been here with us the day after Trump's announcement, when we helped organize [a huge protest in Chicago](https://www.facebook.com/USPCN/videos/1763394860362015/) and another one in Detroit; and would have helped us host Addameer's Sahar Francis last month, when Sahar visited USPCN in Detroit and Chicago, where we facilitated meetings for her with Senator Dick Durbin's staff, as well as with community leaders at the National Boricua Human Rights Network, National Lawyers Guild, Chicago Alliance Against Racist and Political Repression, American Friends Service Committee, among others.
 
+![rasmea4.jpg]({{site.baseurl}}/assets/img/arasmea4.jpg)
 In addition, she would have demanded to lead the charge to [Free Ahed Tamimi](https://nycsjp.wordpress.com/2017/12/20/demand-an-end-to-child-detention-free-ahed-tamimi-and-all-palestinian-political-prisoners/), and other members of Ahed's family, who are also seemingly being rounded up by the Israelis on a daily basis!
 
 USPCN **led Rasmea's Defense Committee during the past four years of her struggle against U.S. government repression,** was the main U.S.-based supporter of the [#DignityStrike](http://uspcn.org/2017/05/28/victory-to-the-palestinian-prisoners-dignitystrike/) earlier this year, and fights every day in the streets to uphold Palestinian rights and confront racist, zionist Israel and its U.S. patron.
