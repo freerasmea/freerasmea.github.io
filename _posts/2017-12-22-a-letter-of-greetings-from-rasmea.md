@@ -1,5 +1,9 @@
 ---
 published: true
+date: 'December 22, 2017'
+Location: 'Amman, Jordan'
+category: news
+excerpt: 'Rasmea sends a heartfelt letter from Amman, Jordan.'
 ---
 ![rasmea-jvp.jpg]({{site.baseurl}}/assets/img/rasmea-jvp.jpg)
 
