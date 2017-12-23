@@ -65,6 +65,7 @@ We cannot rest because we Palestinians are fighting against the final most bruta
 
 ![rasmea-oscar.jpg]({{site.baseurl}}/assets/img/rasmea-oscar.jpg){:style="float: right; margin-left: 8px; margin-bottom:2px; width:400px;"} And your fight for your own justice and liberation is a fight for our justice and liberation as well. We will not lose hope in achieving our goals of justice, peace, and real liberation while we have friends and supporters like you in the U.S. and across the globe. The demonstrations of thousands and thousands all over the world against Trump's Jerusalem Declaration, including protests every single day here in Jordan, plus the UN vote that crushed the U.S. and Israel, assure us that the people of t**he world are with us, and resistance is the only way.** And that's how Trump will lose, and how all the racist systems, including Israel’s, will lose as well!
 
+
 _Dear friends,_
 
 _After almost three months since I separated from you, I continue to reach out to some of my old friends and family in Jordan, in addition to forging new relationships. My life is moving forward step by step._
@@ -73,7 +74,7 @@ _My health is stable. I recently underwent successful cataracts operations in bo
 
 _Before I close, I would like to profess to all who became my family and friends, and embraced me with unequivocal love, provided me the oxygen that I needed to breathe when the U.S. government strangled me—**you gave me the strength to resist, and helped keep me out of jail.** I am grateful for your generosity, time, effort, and commitment. It means everything to me._
 
-_![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/justice-for-rasmea.jpg){:style="float: left; margin-right: 8px; margin-bottom:2px; width:300px;"}  Finally, I want to recognize my brilliant lead attorney, **Michael Deutsch,** and his entire team, especially **Jim Fennerty,** who has been a friend of mine for 30 years, way before he became my lawyer; the incredible, inventive members of my defense committee all across the country, and the two national organizations that led the work, the **Committee to Stop FBI Repression** and **USPCN**; my best friends who put up their personal finances—for bail, legal fees, and my transition to Amman; and all of the rest of my supporters who continue to provide me important strength and resilience.___
+_![justice-for-rasmea.jpg]({{site.baseurl}}/assets/img/justice-for-rasmea.jpg){:style="float: left; margin-right: 8px; margin-bottom:2px; width:300px;"}  Finally, I want to recognize my brilliant lead attorney, **Michael Deutsch,** and his entire team, especially **Jim Fennerty,** who has been a friend of mine for 30 years, way before he became my lawyer; the incredible, inventive members of my defense committee all across the country, and the two national organizations that led the work, the **Committee to Stop FBI Repression** and **USPCN**; my best friends who put up their personal finances—for bail, legal fees, and my transition to Amman; and all of the rest of my supporters who continue to provide me important strength and resilience._
 
 _It’s not a secret to say that your passionate work shifted the negative discourse in my case, and **gave us a real chance to win,** which we almost did. I love, miss, and think of you affectionately._
 
